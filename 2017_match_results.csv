@@ -1,0 +1,2873 @@
+surface,player_1_win,player_1,Player_1_hand,Player_1_age,player_2,Player_2_hand,Player_2_age
+Clay,0,Alexandr Dolgopolov,R,28.6899384,David Ferrer,R,35.29089665
+Clay,1,Alexandr Dolgopolov,R,28.6899384,Andrey Kuznetsov,R,26.39835729
+Clay,1,David Ferrer,R,35.29089665,Fernando Verdasco,L,33.67008898
+Clay,0,Diego Sebastian Schwartzman,R,24.91718001,Andrey Kuznetsov,R,26.39835729
+Clay,0,Karen Khachanov,R,21.15537303,Alexandr Dolgopolov,R,28.6899384
+Clay,1,David Ferrer,R,35.29089665,Henri Laaksonen,R,25.29500342
+Clay,0,Albert Ramos,L,29.49760438,Fernando Verdasco,L,33.67008898
+Clay,1,Andrey Kuznetsov,R,26.39835729,Pablo Carreno Busta,R,26.01505818
+Clay,0,Renzo Olivo,R,25.33880903,Diego Sebastian Schwartzman,R,24.91718001
+Clay,0,Ernests Gulbis,R,28.8788501,Karen Khachanov,R,21.15537303
+Clay,0,Horacio Zeballos,L,32.22176591,Alexandr Dolgopolov,R,28.6899384
+Clay,1,David Ferrer,R,35.29089665,Dustin Brown,R,32.60506502
+Clay,0,Pablo Cuevas,R,31.54004107,Henri Laaksonen,R,25.29500342
+Clay,0,Facundo Bagnis,L,27.38398357,Fernando Verdasco,L,33.67008898
+Clay,0,Thiago Monteiro,L,23.12936345,Albert Ramos,L,29.49760438
+Clay,0,Jan Lennard Struff,R,27.22792608,Andrey Kuznetsov,R,26.39835729
+Clay,0,Paul Henri Mathieu,R,35.50992471,Renzo Olivo,R,25.33880903
+Clay,1,Diego Sebastian Schwartzman,R,24.91718001,Maximilian Marterer,L,22.08898015
+Clay,0,Arthur De Greef,R,25.30595483,Ernests Gulbis,R,28.8788501
+Clay,0,Leonardo Mayer,R,30.17385353,Alexandr Dolgopolov,R,28.6899384
+Clay,0,Nikoloz Basilashvili,R,25.3963039,Horacio Zeballos,L,32.22176591
+Clay,1,David Ferrer,R,35.29089665,Federico Delbonis,L,26.7816564
+Clay,1,Dustin Brown,R,32.60506502,Thomaz Bellucci,L,29.54688569
+Clay,0,Mikael Ymer,R,18.85284052,Henri Laaksonen,R,25.29500342
+Clay,0,Elias Ymer,R,21.26762491,Fernando Verdasco,L,33.67008898
+Clay,1,Facundo Bagnis,L,27.38398357,Tommy Haas,R,39.2881588
+Clay,0,Dusan Lajovic,R,27.04722793,Thiago Monteiro,L,23.12936345
+Grass,1,John Isner,R,32.22450376,Matthew Ebden,R,29.63997262
+Grass,1,John Isner,R,32.22450376,Bjorn Fratangelo,R,23.9945243
+Grass,1,Matthew Ebden,R,29.63997262,Peter Gojowczyk,R,28.0054757
+Grass,1,John Isner,R,32.22450376,Dennis Novikov,R,23.69336071
+Grass,0,Pierre Hugues Herbert,R,26.33264887,Bjorn Fratangelo,R,23.9945243
+Grass,0,Tobias Kamke,R,31.15674196,Matthew Ebden,R,29.63997262
+Grass,1,Peter Gojowczyk,R,28.0054757,Ivo Karlovic,R,38.38193018
+Grass,1,John Isner,R,32.22450376,Samuel Groth,R,29.74401095
+Grass,0,Frank Dancevic,R,32.80492813,Dennis Novikov,R,23.69336071
+Grass,1,Pierre Hugues Herbert,R,26.33264887,Adrian Menendez Maceiras,R,31.71800137
+Grass,0,Akira Santillan,R,20.15331964,Bjorn Fratangelo,R,23.9945243
+Grass,1,Matthew Ebden,R,29.63997262,Lukas Lacko,R,29.70294319
+Grass,1,Tobias Kamke,R,31.15674196,Adrian Mannarino,L,29.04859685
+Grass,0,Konstantin Kravchuk,R,32.39425051,Peter Gojowczyk,R,28.0054757
+Grass,1,Ivo Karlovic,R,38.38193018,Denis Kudla,R,24.91444216
+Grass,1,Samuel Groth,R,29.74401095,Austin Krajicek,L,27.08555784
+Grass,0,Marco Chiudinelli,R,35.84941821,Dennis Novikov,R,23.69336071
+Grass,1,Frank Dancevic,R,32.80492813,Tennys Sandgren,R,25.98767967
+Grass,0,Stefan Kozlov,R,19.45516769,Adrian Menendez Maceiras,R,31.71800137
+Grass,1,Akira Santillan,R,20.15331964,Michael Mmoh,R,19.51540041
+Grass,0,Illya Marchenko,R,29.85626283,Bjorn Fratangelo,R,23.9945243
+Grass,1,Lukas Lacko,R,29.70294319,Reilly Opelka,U,19.88501027
+Grass,1,Matthew Ebden,R,29.63997262,Rajeev Ram,R,33.33059548
+Grass,1,Tobias Kamke,R,31.15674196,Taylor Harry Fritz,R,19.71800137
+Grass,0,Victor Estrella,R,36.95550992,Konstantin Kravchuk,R,32.39425051
+Grass,1,Peter Gojowczyk,R,28.0054757,Thai Son Kwiatkowski,U,22.42299795
+Grass,1,Denis Kudla,R,24.91444216,Mitchell Krueger,R,23.50992471
+Clay,0,Paolo Lorenzi,R,35.58658453,Andrey Rublev,R,19.73990418
+Clay,1,Andrey Rublev,R,19.73990418,Ivan Dodig,R,32.53661875
+Clay,1,Paolo Lorenzi,R,35.58658453,Alessandro Giannessi,L,27.1321013
+Clay,0,David Goffin,R,26.6091718,Ivan Dodig,R,32.53661875
+Clay,1,Andrey Rublev,R,19.73990418,Fabio Fognini,R,30.14921287
+Clay,0,Jiri Vesely,L,24.01916496,Paolo Lorenzi,R,35.58658453
+Clay,0,Rogerio Dutra Silva,R,33.45106092,Alessandro Giannessi,L,27.1321013
+Clay,1,David Goffin,R,26.6091718,Attila Balazs,R,28.80219028
+Clay,1,Ivan Dodig,R,32.53661875,Marco Cecchinato,R,24.79397673
+Clay,1,Fabio Fognini,R,30.14921287,Nicolas Kicker,R,24.91718001
+Clay,0,Andrej Martin,R,27.8220397,Andrey Rublev,R,19.73990418
+Clay,0,Radu Albot,R,27.67967146,Jiri Vesely,L,24.01916496
+Clay,1,Paolo Lorenzi,R,35.58658453,Aljaz Bedene,R,27.99726215
+Clay,0,Kenny De Schepper,L,30.13552361,Alessandro Giannessi,L,27.1321013
+Clay,1,Rogerio Dutra Silva,R,33.45106092,Gael Monfils,R,30.87474333
+Clay,1,Attila Balazs,R,28.80219028,Damir Dzumhur,R,25.15811088
+Clay,0,Marius Copil,R,26.74880219,Ivan Dodig,R,32.53661875
+Clay,0,Gilles Simon,R,32.55304586,Marco Cecchinato,R,24.79397673
+Clay,1,Nicolas Kicker,R,24.91718001,Mikhail Youzhny,R,35.06091718
+Clay,0,Denis Istomin,R,30.85831622,Andrej Martin,R,27.8220397
+Clay,0,Carlos Berlocq,R,34.45037645,Andrey Rublev,R,19.73990418
+Clay,1,Jiri Vesely,L,24.01916496,Norbert Gombos,R,26.92676249
+Clay,1,Radu Albot,R,27.67967146,Miljan Zekic,U,29.01300479
+Clay,0,Joao Sousa,R,28.29842574,Aljaz Bedene,R,27.99726215
+Clay,1,Kenny De Schepper,L,30.13552361,Benoit Paire,R,28.19164956
+Clay,1,Alessandro Giannessi,L,27.1321013,Marc Polmans,U,20.20807666
+Clay,0,Marco Trungelliti,R,27.45790554,Rogerio Dutra Silva,R,33.45106092
+Hard,0,Ryan Harrison,R,25.2128679,John Isner,R,32.24366872
+Hard,1,Ryan Harrison,R,25.2128679,Kyle Edmund,R,22.54072553
+Hard,0,Gilles Muller,L,34.20944559,John Isner,R,32.24366872
+Hard,1,Kyle Edmund,R,22.54072553,Jack Sock,R,24.82956879
+Hard,0,Christopher Eubanks,U,0,Ryan Harrison,R,25.2128679
+Hard,0,Tommy Paul,R,20.18617385,Gilles Muller,L,34.20944559
+Hard,1,John Isner,R,32.24366872,Lukas Lacko,R,29.72210815
+Hard,0,Dudi Sela,R,32.30390144,Jack Sock,R,24.82956879
+Hard,1,Kyle Edmund,R,22.54072553,Peter Gojowczyk,R,28.02464066
+Hard,0,John Millman,R,28.10951403,Ryan Harrison,R,25.2128679
+Hard,0,Jared Donaldson,R,20.78850103,Christopher Eubanks,U,0
+Hard,0,Malek Jaziri,R,33.50855578,Tommy Paul,R,20.18617385
+Hard,1,Gilles Muller,L,34.20944559,Quentin Halys,R,20.74195756
+Hard,0,Donald Young,L,28.00273785,Lukas Lacko,R,29.72210815
+Hard,1,John Isner,R,32.24366872,Vasek Pospisil,R,27.08555784
+Hard,1,Dudi Sela,R,32.30390144,Konstantin Kravchuk,R,32.41341547
+Hard,1,Peter Gojowczyk,R,28.02464066,Guido Pella,L,27.18685832
+Hard,0,Marcos Baghdatis,R,32.10130048,Kyle Edmund,R,22.54072553
+Hard,1,John Millman,R,28.10951403,Francis Tiafoe,R,19.50718686
+Hard,0,Taylor Harry Fritz,R,19.73716632,Christopher Eubanks,U,0
+Hard,0,Ernesto Escobedo,R,21.05407255,Jared Donaldson,R,20.78850103
+Hard,1,Tommy Paul,R,20.18617385,Hyeon Chung,R,21.18001369
+Hard,0,Reilly Opelka,U,19.90417522,Malek Jaziri,R,33.50855578
+Hard,0,Stefan Kozlov,R,19.47433265,Quentin Halys,R,20.74195756
+Hard,0,Tim Smyczek,R,29.56605065,Donald Young,L,28.00273785
+Hard,1,Lukas Lacko,R,29.72210815,Thomas Fabbiano,R,28.1615332
+Hard,1,Vasek Pospisil,R,27.08555784,Bjorn Fratangelo,R,24.01368925
+Clay,1,Fabio Fognini,R,30.16837782,Yannick Hanfmann,U,25.69472964
+Clay,1,Yannick Hanfmann,U,25.69472964,Robin Haase,R,30.29979466
+Clay,1,Fabio Fognini,R,30.16837782,Roberto Bautista Agut,R,29.27583847
+Clay,0,David Goffin,R,26.62833676,Robin Haase,R,30.29979466
+Clay,1,Yannick Hanfmann,U,25.69472964,Joao Sousa,R,28.31759069
+Clay,0,Ernests Gulbis,R,28.89801506,Fabio Fognini,R,30.16837782
+Clay,0,Denis Istomin,R,30.87748118,Roberto Bautista Agut,R,29.27583847
+Clay,0,Radu Albot,R,27.69883641,David Goffin,R,26.62833676
+Clay,0,Thiago Monteiro,L,23.14852841,Robin Haase,R,30.29979466
+Clay,1,Yannick Hanfmann,U,25.69472964,Feliciano Lopez,L,35.84120465
+Clay,1,Joao Sousa,R,28.31759069,Henri Laaksonen,R,25.31416838
+Clay,1,Ernests Gulbis,R,28.89801506,Paolo Lorenzi,R,35.60574949
+Clay,1,Fabio Fognini,R,30.16837782,Norbert Gombos,R,26.94592745
+Clay,0,Dustin Brown,R,32.62422998,Denis Istomin,R,30.87748118
+Clay,1,Roberto Bautista Agut,R,29.27583847,Gleb Sakharov,R,29.11978097
+Clay,1,Radu Albot,R,27.69883641,Mikhail Youzhny,R,35.08008214
+Clay,1,Thiago Monteiro,L,23.14852841,Alexandr Dolgopolov,R,28.70910335
+Clay,0,Renzo Olivo,R,25.35797399,Robin Haase,R,30.29979466
+Clay,1,Yannick Hanfmann,U,25.69472964,Facundo Bagnis,L,27.40314853
+Clay,0,Thomaz Bellucci,L,29.56605065,Henri Laaksonen,R,25.31416838
+Clay,1,Joao Sousa,R,28.31759069,Santiago Giraldo,R,29.65639973
+Clay,1,Paolo Lorenzi,R,35.60574949,Marco Chiudinelli,R,35.86858316
+Clay,1,Ernests Gulbis,R,28.89801506,Daniel Brands,R,30.02053388
+Clay,1,Norbert Gombos,R,26.94592745,Taro Daniel,R,24.48733744
+Clay,1,Dustin Brown,R,32.62422998,Dusan Lajovic,R,27.06639288
+Clay,1,Denis Istomin,R,30.87748118,Lorenzo Giustino,R,25.86995209
+Clay,1,Gleb Sakharov,R,29.11978097,Antoine Bellier,U,20.76386037
+Clay,0,Florian Mayer,R,33.80150582,Leonardo Mayer,R,30.19301848
+Clay,0,Federico Delbonis,L,26.80082136,Leonardo Mayer,R,30.19301848
+Clay,0,Philipp Kohlschreiber,R,33.77138946,Florian Mayer,R,33.80150582
+Clay,1,Leonardo Mayer,R,30.19301848,Jiri Vesely,L,24.03832991
+Clay,0,Karen Khachanov,R,21.17453799,Federico Delbonis,L,26.80082136
+Clay,1,Philipp Kohlschreiber,R,33.77138946,Nicolas Kicker,R,24.93634497
+Clay,0,Diego Sebastian Schwartzman,R,24.93634497,Florian Mayer,R,33.80150582
+Clay,0,Jan Lennard Struff,R,27.24709103,Leonardo Mayer,R,30.19301848
+Clay,0,Horacio Zeballos,L,32.24093087,Jiri Vesely,L,24.03832991
+Clay,0,Aljaz Bedene,R,28.0164271,Karen Khachanov,R,21.17453799
+Clay,0,David Ferrer,R,35.3100616,Federico Delbonis,L,26.80082136
+Clay,0,Benoit Paire,R,28.21081451,Nicolas Kicker,R,24.93634497
+Clay,0,Gilles Simon,R,32.57221081,Philipp Kohlschreiber,R,33.77138946
+Clay,0,Cedrik Marcel Stebe,L,26.78986995,Diego Sebastian Schwartzman,R,24.93634497
+Clay,1,Florian Mayer,R,33.80150582,Andrey Kuznetsov,R,26.41752225
+Clay,1,Leonardo Mayer,R,30.19301848,Albert Ramos,L,29.51676934
+Clay,1,Jan Lennard Struff,R,27.24709103,Evgeny Donskoy,R,27.20876112
+Clay,0,Daniel Altmaier,U,18.86379192,Horacio Zeballos,L,32.24093087
+Clay,1,Jiri Vesely,L,24.03832991,Fernando Verdasco,L,33.68925394
+Clay,0,Rudolf Molleker,R,16.74195756,Karen Khachanov,R,21.17453799
+Clay,0,Jose Hernandez,U,27.36481862,Aljaz Bedene,R,28.0164271
+Clay,1,Federico Delbonis,L,26.80082136,Carlos Berlocq,R,34.46954141
+Clay,0,Nikoloz Basilashvili,R,25.41546886,David Ferrer,R,35.3100616
+Clay,0,Dmitry Tursunov,R,34.6146475,Benoit Paire,R,28.21081451
+Clay,1,Nicolas Kicker,R,24.93634497,Tommy Haas,R,39.30732375
+Clay,0,Andrey Rublev,R,19.75906913,Philipp Kohlschreiber,R,33.77138946
+Clay,1,Gilles Simon,R,32.57221081,Maximilian Marterer,L,22.10814511
+Clay,0,Andreas Haider Maurer,R,30.34086242,Diego Sebastian Schwartzman,R,24.93634497
+Clay,0,Damir Dzumhur,R,25.17727584,Cedrik Marcel Stebe,L,26.78986995
+Clay,0,Marco Cecchinato,R,24.81314168,Florian Mayer,R,33.80150582
+Clay,1,Andrey Kuznetsov,R,26.41752225,Pablo Cuevas,R,31.55920602
+Clay,0,Joao Sousa,R,28.33675565,Philipp Kohlschreiber,R,33.79055441
+Clay,0,Sebastian Ofner,R,21.2183436,Joao Sousa,R,28.33675565
+Clay,0,Fabio Fognini,R,30.18754278,Philipp Kohlschreiber,R,33.79055441
+Clay,0,Renzo Olivo,R,25.37713895,Sebastian Ofner,R,21.2183436
+Clay,0,Gerald Melzer,L,27.04996578,Joao Sousa,R,28.33675565
+Clay,0,Dusan Lajovic,R,27.08555784,Philipp Kohlschreiber,R,33.79055441
+Clay,0,Thomaz Bellucci,L,29.58521561,Fabio Fognini,R,30.18754278
+Clay,0,Pablo Cuevas,R,31.57837098,Sebastian Ofner,R,21.2183436
+Clay,1,Renzo Olivo,R,25.37713895,Horacio Zeballos,L,32.26009582
+Clay,0,Paolo Lorenzi,R,35.62491444,Joao Sousa,R,28.33675565
+Clay,0,Santiago Giraldo,R,29.67556468,Gerald Melzer,L,27.04996578
+Clay,1,Philipp Kohlschreiber,R,33.79055441,Jiri Vesely,L,24.05749487
+Clay,0,Gilles Simon,R,32.59137577,Dusan Lajovic,R,27.08555784
+Clay,1,Thomaz Bellucci,L,29.58521561,Jan Lennard Struff,R,27.26625599
+Clay,1,Fabio Fognini,R,30.18754278,Miljan Zekic,U,29.0513347
+Clay,1,Sebastian Ofner,R,21.2183436,Nikoloz Basilashvili,R,25.43463381
+Clay,1,Renzo Olivo,R,25.37713895,Thiago Monteiro,L,23.16769336
+Clay,0,Rogerio Dutra Silva,R,33.48939083,Horacio Zeballos,L,32.26009582
+Clay,0,Mikhail Youzhny,R,35.09924709,Joao Sousa,R,28.33675565
+Clay,0,Carlos Berlocq,R,34.48870637,Gerald Melzer,L,27.04996578
+Clay,0,Robin Haase,R,30.31895962,Santiago Giraldo,R,29.67556468
+Clay,1,Jiri Vesely,L,24.05749487,Yannick Hanfmann,U,25.71389459
+Clay,0,Facundo Bagnis,L,27.42231348,Philipp Kohlschreiber,R,33.79055441
+Clay,0,Maximilian Marterer,L,22.12731006,Dusan Lajovic,R,27.08555784
+Clay,0,Tommy Haas,R,39.32648871,Jan Lennard Struff,R,27.26625599
+Clay,0,Alexandr Dolgopolov,R,28.72826831,Thomaz Bellucci,L,29.58521561
+Clay,1,Miljan Zekic,U,29.0513347,Andrey Kuznetsov,R,26.4366872
+Hard,1,Sam Querrey,R,29.81519507,Thanasi Kokkinakis,R,21.30595483
+Hard,1,Thanasi Kokkinakis,R,21.30595483,Tomas Berdych,R,31.86858316
+Hard,0,Damir Dzumhur,R,25.19644079,Sam Querrey,R,29.81519507
+Hard,0,Adrian Mannarino,L,29.08692676,Tomas Berdych,R,31.86858316
+Hard,1,Thanasi Kokkinakis,R,21.30595483,Taylor Harry Fritz,R,19.75633128
+Hard,1,Damir Dzumhur,R,25.19644079,Feliciano Lopez,L,35.86036961
+Hard,1,Sam Querrey,R,29.81519507,Vincent Millot,L,31.49897331
+Hard,1,Tomas Berdych,R,31.86858316,Akira Santillan,R,20.19164956
+Hard,1,Adrian Mannarino,L,29.08692676,Bjorn Fratangelo,R,24.03285421
+Hard,0,Albert Ramos,L,29.53593429,Taylor Harry Fritz,R,19.75633128
+Hard,1,Thanasi Kokkinakis,R,21.30595483,Peter Polansky,R,29.12525667
+Hard,1,Damir Dzumhur,R,25.19644079,Quentin Halys,R,20.76112252
+Hard,1,Feliciano Lopez,L,35.86036961,Matthew Ebden,R,29.67830253
+Hard,1,Vincent Millot,L,31.49897331,Fernando Verdasco,L,33.70841889
+Hard,0,Evan King,L,25.34976044,Sam Querrey,R,29.81519507
+Hard,1,Akira Santillan,R,20.19164956,Konstantin Kravchuk,R,32.43258042
+Hard,0,Tatsuma Ito,R,29.2019165,Bjorn Fratangelo,R,24.03285421
+Hard,0,Jason Jung,R,28.12594114,Adrian Mannarino,L,29.08692676
+Hard,1,Taylor Harry Fritz,R,19.75633128,Mikhail Kukushkin,R,29.59616701
+Hard,0,Yasutaka Uchiyama,R,24.98562628,Peter Polansky,R,29.12525667
+Hard,1,Thanasi Kokkinakis,R,21.30595483,Francis Tiafoe,R,19.52635181
+Hard,0,Ivo Karlovic,R,38.4202601,Quentin Halys,R,20.76112252
+Hard,1,Damir Dzumhur,R,25.19644079,Taro Daniel,R,24.5065024
+Hard,1,Matthew Ebden,R,29.67830253,Dennis Novikov,R,23.73169062
+Hard,1,Fernando Verdasco,L,33.70841889,Ernesto Escobedo,R,21.07323751
+Hard,1,Vincent Millot,L,31.49897331,Brydan Klein,R,27.58110883
+Hard,1,Evan King,L,25.34976044,Manuel Sanchez,R,26.56810404
+Hard,0,Kevin Anderson,R,31.20328542,Alexander Zverev,R,20.27926078
+Hard,1,Kevin Anderson,R,31.20328542,Jack Sock,R,24.84873374
+Hard,0,Kei Nishikori,R,27.58658453,Alexander Zverev,R,20.27926078
+Hard,0,Yuki Bhambri,R,25.07323751,Kevin Anderson,R,31.20328542
+Hard,0,Milos Raonic,R,26.5927447,Jack Sock,R,24.84873374
+Hard,1,Alexander Zverev,R,20.27926078,Daniil Medvedev,R,21.46748802
+Hard,0,Tommy Paul,R,20.20533881,Kei Nishikori,R,27.58658453
+Hard,1,Kevin Anderson,R,31.20328542,Dominic Thiem,R,23.90691307
+Hard,0,Guido Pella,L,27.20602327,Yuki Bhambri,R,25.07323751
+Hard,0,Marcos Baghdatis,R,32.12046543,Milos Raonic,R,26.5927447
+Hard,1,Jack Sock,R,24.84873374,Jared Donaldson,R,20.80766598
+Hard,0,Tennys Sandgren,R,26.02600958,Alexander Zverev,R,20.27926078
+Hard,0,Grigor Dimitrov,R,26.20944559,Daniil Medvedev,R,21.46748802
+Hard,0,Gilles Muller,L,34.22861054,Tommy Paul,R,20.20533881
+Hard,1,Kei Nishikori,R,27.58658453,Juan Martin Del Potro,R,28.85147159
+Hard,1,Dominic Thiem,R,23.90691307,Henri Laaksonen,R,25.33333333
+Hard,0,Malek Jaziri,R,33.52772074,Kevin Anderson,R,31.20328542
+Hard,0,Mischa Zverev,L,29.94113621,Guido Pella,L,27.20602327
+Hard,0,Gael Monfils,R,30.91307324,Yuki Bhambri,R,25.07323751
+Hard,1,Milos Raonic,R,26.5927447,Nicolas Mahut,R,35.52361396
+Hard,0,Ryan Harrison,R,25.23203285,Marcos Baghdatis,R,32.12046543
+Hard,1,Jared Donaldson,R,20.80766598,Marc Polmans,U,20.24640657
+Hard,1,Jack Sock,R,24.84873374,Marius Copil,R,26.7871321
+Hard,0,Jordan Thompson,R,23.27994524,Alexander Zverev,R,20.27926078
+Hard,1,Tennys Sandgren,R,26.02600958,Nick Kyrgios,R,22.26146475
+Hard,0,Steve Johnson,R,27.60027379,Daniil Medvedev,R,21.46748802
+Hard,1,Grigor Dimitrov,R,26.20944559,Kyle Edmund,R,22.55989049
+Hard,0,Lucas Pouille,R,23.43326489,Tommy Paul,R,20.20533881
+Hard,1,Gilles Muller,L,34.22861054,Dmitry Tursunov,R,34.63381246
+Hard,1,Juan Martin Del Potro,R,28.85147159,Lukas Lacko,R,29.7412731
+Hard,1,Kei Nishikori,R,27.58658453,Donald Young,L,28.02190281
+Hard,1,Henri Laaksonen,R,25.33333333,Vasek Pospisil,R,27.10472279
+Hard,0,Alessandro Bega,R,26.55167693,Malek Jaziri,R,33.52772074
+Hard,0,Ramkumar Ramanathan,R,22.72689938,Guido Pella,L,27.20602327
+Hard,0,Stefan Kozlov,R,19.4934976,Yuki Bhambri,R,25.07323751
+Hard,1,Nicolas Mahut,R,35.52361396,Thomas Fabbiano,R,28.18069815
+Hard,1,Marcos Baghdatis,R,32.12046543,Edan Leshem,U,20.36687201
+Hard,1,Jared Donaldson,R,20.80766598,Dudi Sela,R,32.32306639
+Hard,1,Marius Copil,R,26.7871321,Sekou Bangoura,R,25.70020534
+Hard,0,Ruben Bemelmans,L,29.54414784,Jordan Thompson,R,23.27994524
+Hard,1,Tennys Sandgren,R,26.02600958,Go Soeda,R,32.90075291
+Hard,0,Reilly Opelka,U,19.92334018,Daniil Medvedev,R,21.46748802
+Hard,0,Hyeon Chung,R,21.19917864,Kyle Edmund,R,22.55989049
+Hard,1,Tommy Paul,R,20.20533881,Casper Ruud,R,18.60643395
+Hard,1,Dmitry Tursunov,R,34.63381246,Mitchell Krueger,R,23.54825462
+Hard,1,Lukas Lacko,R,29.7412731,Alexios Halebian,L,23.14579055
+Hard,1,Donald Young,L,28.02190281,Tim Smyczek,R,29.58521561
+Hard,1,Alexander Zverev,R,20.29842574,Roger Federer,R,35.99726215
+Hard,1,Alexander Zverev,R,20.29842574,Denis Shapovalov,L,18.31348392
+Hard,0,Robin Haase,R,30.33812457,Roger Federer,R,35.99726215
+Hard,1,Denis Shapovalov,L,18.31348392,Adrian Mannarino,L,29.10609172
+Hard,1,Alexander Zverev,R,20.29842574,Kevin Anderson,R,31.22245038
+Hard,1,Robin Haase,R,30.33812457,Diego Sebastian Schwartzman,R,24.97467488
+Hard,1,Roger Federer,R,35.99726215,Roberto Bautista Agut,R,29.31416838
+Hard,0,Rafael Nadal,L,31.17864476,Denis Shapovalov,L,18.31348392
+Hard,1,Adrian Mannarino,L,29.10609172,Hyeon Chung,R,21.2183436
+Hard,1,Alexander Zverev,R,20.29842574,Nick Kyrgios,R,22.28062971
+Hard,1,Kevin Anderson,R,31.22245038,Sam Querrey,R,29.83436003
+Hard,1,Robin Haase,R,30.33812457,Grigor Dimitrov,R,26.22861054
+Hard,1,Diego Sebastian Schwartzman,R,24.97467488,Jared Donaldson,R,20.82683094
+Hard,0,Gael Monfils,R,30.93223819,Roberto Bautista Agut,R,29.31416838
+Hard,1,Roger Federer,R,35.99726215,David Ferrer,R,35.34839151
+Hard,0,Borna Coric,R,20.72826831,Rafael Nadal,L,31.17864476
+Hard,0,Juan Martin Del Potro,R,28.87063655,Denis Shapovalov,L,18.31348392
+Hard,0,David Goffin,R,26.66666667,Hyeon Chung,R,21.2183436
+Hard,0,Milos Raonic,R,26.61190965,Adrian Mannarino,L,29.10609172
+Hard,1,Alexander Zverev,R,20.29842574,Richard Gasquet,R,31.137577
+Hard,0,Paolo Lorenzi,R,35.6440794,Nick Kyrgios,R,22.28062971
+Hard,0,Pablo Carreno Busta,R,26.07255305,Kevin Anderson,R,31.22245038
+Hard,0,Jo Wilfried Tsonga,R,32.30663929,Sam Querrey,R,29.83436003
+Hard,0,Mischa Zverev,L,29.96030116,Grigor Dimitrov,R,26.22861054
+Hard,1,Robin Haase,R,30.33812457,Ernesto Escobedo,R,21.09240246
+Hard,0,Benoit Paire,R,28.24914442,Jared Donaldson,R,20.82683094
+Hard,0,Dominic Thiem,R,23.92607803,Diego Sebastian Schwartzman,R,24.97467488
+Hard,1,Gael Monfils,R,30.93223819,Kei Nishikori,R,27.60574949
+Hard,0,Ryan Harrison,R,25.25119781,Roberto Bautista Agut,R,29.31416838
+Hard,1,David Ferrer,R,35.34839151,Jack Sock,R,24.8678987
+Hard,0,Peter Polansky,R,29.14442163,Roger Federer,R,35.99726215
+Hard,0,Mikhail Youzhny,R,35.11841205,Borna Coric,R,20.72826831
+Hard,0,Rogerio Dutra Silva,R,33.50855578,Denis Shapovalov,L,18.31348392
+Hard,0,John Isner,R,32.28199863,Juan Martin Del Potro,R,28.87063655
+Hard,1,David Goffin,R,26.66666667,Yuichi Sugita,R,28.8843258
+Hard,1,Hyeon Chung,R,21.2183436,Feliciano Lopez,L,35.87953457
+Hard,0,Daniil Medvedev,R,21.48665298,Adrian Mannarino,L,29.10609172
+Hard,1,Richard Gasquet,R,31.137577,Brayden Schnur,R,22.09445585
+Hard,0,Francis Tiafoe,R,19.54551677,Paolo Lorenzi,R,35.6440794
+Hard,1,Nick Kyrgios,R,22.28062971,Viktor Troicki,R,31.4880219
+Hard,1,Pablo Carreno Busta,R,26.07255305,Karen Khachanov,R,21.2128679
+Hard,1,Kevin Anderson,R,31.22245038,Dudi Sela,R,32.34223135
+Hard,1,Sam Querrey,R,29.83436003,Vincent Millot,L,31.51813826
+Hard,1,Mischa Zverev,L,29.96030116,Norbert Gombos,R,26.98425736
+Hard,1,Robin Haase,R,30.33812457,Albert Ramos,L,29.55509925
+Hard,0,Nikoloz Basilashvili,R,25.45379877,Ernesto Escobedo,R,21.09240246
+Hard,0,Lucas Pouille,R,23.45242984,Jared Donaldson,R,20.82683094
+Hard,1,Benoit Paire,R,28.24914442,Donald Young,L,28.04106776
+Hard,0,Reilly Opelka,U,19.94250513,Diego Sebastian Schwartzman,R,24.97467488
+Hard,0,Steve Johnson,R,27.61943874,Gael Monfils,R,30.93223819
+Hard,1,Ryan Harrison,R,25.25119781,Thomas Fabbiano,R,28.19986311
+Hard,1,Roberto Bautista Agut,R,29.31416838,Tim Smyczek,R,29.60438056
+Hard,0,Pierre Hugues Herbert,R,26.39014374,Jack Sock,R,24.8678987
+Hard,0,Kyle Edmund,R,22.57905544,David Ferrer,R,35.34839151
+Hard,1,Peter Polansky,R,29.14442163,Vasek Pospisil,R,27.12388775
+Hard,0,Nick Kyrgios,R,22.29979466,Grigor Dimitrov,R,26.2477755
+Hard,0,David Ferrer,R,35.36755647,Nick Kyrgios,R,22.29979466
+Hard,0,John Isner,R,32.30116359,Grigor Dimitrov,R,26.2477755
+Hard,0,Rafael Nadal,L,31.19780972,Nick Kyrgios,R,22.29979466
+Hard,1,David Ferrer,R,35.36755647,Dominic Thiem,R,23.94524298
+Hard,0,Jared Donaldson,R,20.84599589,John Isner,R,32.30116359
+Hard,1,Grigor Dimitrov,R,26.2477755,Yuichi Sugita,R,28.90349076
+Hard,0,Albert Ramos,L,29.5742642,Rafael Nadal,L,31.19780972
+Hard,1,Nick Kyrgios,R,22.29979466,Ivo Karlovic,R,38.45859001
+Hard,0,Adrian Mannarino,L,29.12525667,Dominic Thiem,R,23.94524298
+Hard,1,David Ferrer,R,35.36755647,Pablo Carreno Busta,R,26.091718
+Hard,0,Nikoloz Basilashvili,R,25.47296372,Jared Donaldson,R,20.84599589
+Hard,1,John Isner,R,32.30116359,Francis Tiafoe,R,19.56468172
+Hard,1,Grigor Dimitrov,R,26.2477755,Juan Martin Del Potro,R,28.88980151
+Hard,1,Yuichi Sugita,R,28.90349076,Karen Khachanov,R,21.23203285
+Hard,1,Rafael Nadal,L,31.19780972,Richard Gasquet,R,31.15674196
+Hard,0,Gilles Muller,L,34.26694045,Albert Ramos,L,29.5742642
+Hard,0,Alexandr Dolgopolov,R,28.76659822,Nick Kyrgios,R,22.29979466
+Hard,0,Jo Wilfried Tsonga,R,32.32580424,Ivo Karlovic,R,38.45859001
+Hard,0,Fabio Fognini,R,30.22587269,Dominic Thiem,R,23.94524298
+Hard,1,Adrian Mannarino,L,29.12525667,Sam Querrey,R,29.85352498
+Hard,1,Pablo Carreno Busta,R,26.091718,Mischa Zverev,L,29.97946612
+Hard,1,David Ferrer,R,35.36755647,Janko Tipsarevic,R,33.14442163
+Hard,0,Christian Harrison,R,23.21149897,Nikoloz Basilashvili,R,25.47296372
+Hard,0,Ramkumar Ramanathan,R,22.7652293,Jared Donaldson,R,20.84599589
+Hard,1,John Isner,R,32.30116359,Tommy Paul,R,20.24366872
+Hard,0,Alexander Zverev,R,20.31759069,Francis Tiafoe,R,19.56468172
+Hard,1,Grigor Dimitrov,R,26.2477755,Feliciano Lopez,L,35.89869952
+Hard,1,Juan Martin Del Potro,R,28.88980151,Mitchell Krueger,R,23.58658453
+Hard,1,Yuichi Sugita,R,28.90349076,Joao Sousa,R,28.37508556
+Hard,0,Thomas Fabbiano,R,28.21902806,Karen Khachanov,R,21.23203285
+Hard,1,Richard Gasquet,R,31.15674196,John Patrick Smith,L,27.69336071
+Hard,1,Albert Ramos,L,29.5742642,Mikhail Youzhny,R,35.137577
+Hard,0,Ryan Harrison,R,25.27036277,Gilles Muller,L,34.26694045
+Hard,0,David Goffin,R,26.68583162,Nick Kyrgios,R,22.29979466
+Hard,1,Alexandr Dolgopolov,R,28.76659822,Kevin Anderson,R,31.24161533
+Hard,1,Ivo Karlovic,R,38.45859001,Jiri Vesely,L,24.09582478
+Hard,1,Fabio Fognini,R,30.22587269,Daniil Medvedev,R,21.50581793
+Hard,0,Robin Haase,R,30.35728953,Adrian Mannarino,L,29.12525667
+Hard,0,Stefan Kozlov,R,19.53182752,Sam Querrey,R,29.85352498
+Hard,1,Pablo Carreno Busta,R,26.091718,Paolo Lorenzi,R,35.66324435
+Hard,1,Mischa Zverev,L,29.97946612,Fernando Verdasco,L,33.7467488
+Hard,0,Steve Johnson,R,27.6386037,David Ferrer,R,35.36755647
+Hard,0,Borna Coric,R,20.74743326,Nikoloz Basilashvili,R,25.47296372
+Hard,0,Christopher Eubanks,U,0,Ramkumar Ramanathan,R,22.7652293
+Hard,1,Jared Donaldson,R,20.84599589,Roberto Bautista Agut,R,29.33333333
+Hard,0,Viktor Troicki,R,31.50718686,John Isner,R,32.30116359
+Hard,1,Tommy Paul,R,20.24366872,Donald Young,L,28.06023272
+Hard,1,Francis Tiafoe,R,19.56468172,Maximilian Marterer,L,22.16563997
+Hard,1,Feliciano Lopez,L,35.89869952,Hyeon Chung,R,21.23750856
+Hard,0,Benoit Paire,R,28.26830938,Mitchell Krueger,R,23.58658453
+Hard,0,Tomas Berdych,R,31.90691307,Juan Martin Del Potro,R,28.88980151
+Hard,0,Jack Sock,R,24.88706366,Yuichi Sugita,R,28.90349076
+Hard,0,Kyle Edmund,R,22.5982204,Joao Sousa,R,28.37508556
+Hard,0,Diego Sebastian Schwartzman,R,24.99383984,Karen Khachanov,R,21.23203285
+Hard,1,Roberto Bautista Agut,R,29.35249829,Damir Dzumhur,R,25.25393566
+Hard,1,Roberto Bautista Agut,R,29.35249829,Jan Lennard Struff,R,27.32375086
+Hard,0,Kyle Edmund,R,22.61738535,Damir Dzumhur,R,25.25393566
+Hard,1,Roberto Bautista Agut,R,29.35249829,Taylor Harry Fritz,R,19.81382615
+Hard,0,Borna Coric,R,20.76659822,Jan Lennard Struff,R,27.32375086
+Hard,0,Steve Johnson,R,27.65776865,Kyle Edmund,R,22.61738535
+Hard,1,Damir Dzumhur,R,25.25393566,Hyeon Chung,R,21.25667351
+Hard,0,Marcos Baghdatis,R,32.1779603,Roberto Bautista Agut,R,29.35249829
+Hard,0,Paolo Lorenzi,R,35.68240931,Taylor Harry Fritz,R,19.81382615
+Hard,0,John Isner,R,32.32032854,Borna Coric,R,20.76659822
+Hard,0,Andreas Seppi,R,33.49760438,Jan Lennard Struff,R,27.32375086
+Hard,1,Steve Johnson,R,27.65776865,Carlos Berlocq,R,34.54620123
+Hard,0,Marton Fucsovics,R,25.53319644,Kyle Edmund,R,22.61738535
+Hard,1,Damir Dzumhur,R,25.25393566,Horacio Zeballos,L,32.31759069
+Hard,0,Julien Benneteau,R,35.66872005,Hyeon Chung,R,21.25667351
+Hard,1,Roberto Bautista Agut,R,29.35249829,Dusan Lajovic,R,27.1430527
+Hard,0,Jiri Vesely,L,24.11498973,Marcos Baghdatis,R,32.1779603
+Hard,0,Yuichi Sugita,R,28.92265572,Taylor Harry Fritz,R,19.81382615
+Hard,1,Paolo Lorenzi,R,35.68240931,Thiago Monteiro,L,23.22518823
+Hard,1,John Isner,R,32.32032854,Andrey Kuznetsov,R,26.49418207
+Hard,1,Borna Coric,R,20.76659822,Donald Young,L,28.07939767
+Hard,1,Andreas Seppi,R,33.49760438,Aljaz Bedene,R,28.09308693
+Hard,0,Pablo Cuevas,R,31.63586585,Jan Lennard Struff,R,27.32375086
+Hard,1,Steve Johnson,R,27.65776865,Yen Hsun Lu,R,34.02053388
+Hard,1,Carlos Berlocq,R,34.54620123,Viktor Troicki,R,31.52635181
+Hard,0,Daniil Medvedev,R,21.52498289,Kyle Edmund,R,22.61738535
+Hard,0,Joao Sousa,R,28.39425051,Marton Fucsovics,R,25.53319644
+Hard,0,Fernando Verdasco,L,33.76591376,Horacio Zeballos,L,32.31759069
+Hard,0,Gilles Simon,R,32.64887064,Damir Dzumhur,R,25.25393566
+Hard,1,Hyeon Chung,R,21.25667351,Andrey Rublev,R,19.83572895
+Hard,0,Pablo Carreno Busta,R,26.11088296,Julien Benneteau,R,35.66872005
+Hard,0,Petros Chrysochos,R,21.36892539,Dusan Lajovic,R,27.1430527
+Hard,0,Ricardas Berankis,R,27.16769336,Marcos Baghdatis,R,32.1779603
+Hard,1,Taylor Harry Fritz,R,19.81382615,Malek Jaziri,R,33.58521561
+Hard,0,Alexandr Dolgopolov,R,28.78576318,Thiago Monteiro,L,23.22518823
+Hard,1,Andrey Kuznetsov,R,26.49418207,Nicolas Kicker,R,25.01300479
+Hard,1,Donald Young,L,28.07939767,Rogerio Dutra Silva,R,33.54688569
+Hard,1,Andreas Seppi,R,33.49760438,Janko Tipsarevic,R,33.16358658
+Hard,0,Norbert Gombos,R,27.02258727,Jan Lennard Struff,R,27.32375086
+Hard,0,Jonathan Eysseric,L,27.23613963,Yen Hsun Lu,R,34.02053388
+Hard,1,Carlos Berlocq,R,34.54620123,Alex Bolt,L,24.62422998
+Hard,1,Kyle Edmund,R,22.61738535,Thomas Fabbiano,R,28.23819302
+Hard,1,Marton Fucsovics,R,25.53319644,Ernests Gulbis,R,28.97467488
+Hard,1,Horacio Zeballos,L,32.31759069,Dominik Koepfer,U,23.31279945
+Hard,0,Denis Istomin,R,30.954141,Damir Dzumhur,R,25.25393566
+Hard,0,Steve Darcis,R,33.44010951,Andrey Rublev,R,19.83572895
+Hard,0,Pierre Hugues Herbert,R,26.42847365,Julien Benneteau,R,35.66872005
+Hard,1,Rafael Nadal,L,31.23613963,Dusan Lajovic,R,27.16221766
+Hard,0,Tommy Paul,R,20.28199863,Taro Daniel,R,24.58316222
+Hard,1,Yuichi Sugita,R,28.94182067,Geoffrey Blancaneaux,R,19.05544148
+Hard,1,Leonardo Mayer,R,30.28884326,Richard Gasquet,R,31.19507187
+Hard,1,Stefano Travaglia,U,25.69472964,Fabio Fognini,R,30.2642026
+Hard,0,Norbert Gombos,R,27.04175222,Viktor Troicki,R,31.54551677
+Hard,0,Jan Lennard Struff,R,27.34291581,Alexandr Dolgopolov,R,28.80492813
+Hard,1,Tomas Berdych,R,31.94524298,Ryan Harrison,R,25.30869268
+Hard,1,David Goffin,R,26.72416153,Julien Benneteau,R,35.68788501
+Hard,1,Guido Pella,L,27.28268309,Steve Darcis,R,33.45927447
+Hard,0,Maximilian Marterer,L,22.20396988,Donald Young,L,28.09856263
+Hard,1,Gael Monfils,R,30.98973306,Jeremy Chardy,R,30.54072553
+Hard,0,Pablo Cuevas,R,31.6550308,Damir Dzumhur,R,25.27310062
+Hard,0,Nicolas Kicker,R,25.03216975,Cedrik Marcel Stebe,L,26.88569473
+Hard,1,Andrey Rublev,R,19.85489391,Aljaz Bedene,R,28.11225188
+Hard,1,Grigor Dimitrov,R,26.28610541,Vaclav Safranek,R,23.27446954
+Hard,1,Roger Federer,R,36.05475702,Francis Tiafoe,R,19.60301164
+Hard,0,Blaz Kavcic,R,30.48323066,Mikhail Youzhny,R,35.17590691
+Hard,0,Vasek Pospisil,R,27.18138261,Fernando Verdasco,L,33.78507871
+Hard,0,Andrey Kuznetsov,R,26.51334702,Feliciano Lopez,L,35.93702943
+Hard,0,Tim Smyczek,R,29.66187543,Philipp Kohlschreiber,R,33.86721424
+Hard,1,Santiago Giraldo,R,29.7522245,Vincent Millot,L,31.57563313
+Hard,1,Malek Jaziri,R,33.60438056,Thiago Monteiro,L,23.24435318
+Hard,0,Nick Kyrgios,R,22.33812457,John Millman,R,28.20533881
+Hard,0,Andreas Seppi,R,33.51676934,Roberto Bautista Agut,R,29.37166324
+Hard,0,Thomaz Bellucci,L,29.66187543,Dustin Brown,R,32.72005476
+Hard,0,Patrick Kypson,U,17.83436003,Adrian Menendez Maceiras,R,31.8329911
+Hard,0,Henri Laaksonen,R,25.40999316,Juan Martin Del Potro,R,28.92813142
+Hard,0,Ricardas Berankis,R,27.18685832,Adrian Mannarino,L,29.16358658
+Hard,0,Ivo Karlovic,R,38.49691992,Bjorn Fratangelo,R,24.10951403
+Hard,0,Marcos Baghdatis,R,32.19712526,Taylor Harry Fritz,R,19.8329911
+Hard,1,Dominic Thiem,R,23.9835729,Alex De Minaur,R,18.52703628
+Hard,0,Gilles Simon,R,32.66803559,Sam Querrey,R,29.89185489
+Hard,0,Christopher Eubanks,U,0,Dudi Sela,R,32.39972621
+Hard,1,Radu Albot,R,27.79466119,Ernesto Escobedo,R,21.14989733
+Hard,0,Karen Khachanov,R,21.27036277,Yen Hsun Lu,R,34.03969884
+Hard,1,Mischa Zverev,L,30.01779603,Thai Son Kwiatkowski,U,22.53798768
+Hard,1,Benoit Paire,R,28.30663929,Lukas Lacko,R,29.81793292
+Hard,0,Horacio Zeballos,L,32.33675565,Hyeon Chung,R,21.27583847
+Hard,1,John Isner,R,32.3394935,Pierre Hugues Herbert,R,26.4476386
+Hard,1,Jordan Thompson,R,23.35660507,Jack Sock,R,24.92539357
+Hard,0,John Patrick Smith,L,27.73169062,Thomas Fabbiano,R,28.25735797
+Hard,0,Joao Sousa,R,28.41341547,Paolo Lorenzi,R,35.70157426
+Hard,0,Bernard Tomic,R,24.85147159,Gilles Muller,L,34.30527036
+Hard,0,Jc Aragone,R,22.16837782,Kevin Anderson,R,31.27994524
+Hard,0,Alessandro Giannessi,L,27.24709103,Ernests Gulbis,R,28.99383984
+Hard,1,Borna Coric,R,20.78576318,Jiri Vesely,L,24.13415469
+Hard,1,Alexander Zverev,R,20.3559206,Darian King,R,25.33880903
+Hard,1,Jo Wilfried Tsonga,R,32.36413415,Marius Copil,R,26.86379192
+Hard,1,Denis Shapovalov,L,18.37097878,Daniil Medvedev,R,21.54414784
+Hard,1,Steve Johnson,R,27.67693361,Nicolas Almagro,R,32.01916496
+Hard,1,Kyle Edmund,R,22.63655031,Robin Haase,R,30.39561944
+Hard,1,Albert Ramos,L,29.61259411,Denis Istomin,R,30.97330595
+Hard,0,Marton Fucsovics,R,25.5523614,Nicolas Mahut,R,35.60027379
+Hard,1,Cameron Norrie,L,22.01505818,Dmitry Tursunov,R,34.71047228
+Hard,1,Pablo Carreno Busta,R,26.13004791,Evan King,L,25.42642026
+Hard,1,Lucas Pouille,R,23.50992471,Ruben Bemelmans,L,29.62080767
+Hard,0,Nikoloz Basilashvili,R,25.51129363,Jared Donaldson,R,20.8843258
+Hard,1,Evgeny Donskoy,R,27.3045859,Andreas Haider Maurer,R,30.4366872
+Hard,0,David Ferrer,R,35.40588638,Mikhail Kukushkin,R,29.67282683
+Hard,0,Carlos Berlocq,R,34.56536619,Diego Sebastian Schwartzman,R,25.03216975
+Hard,1,Janko Tipsarevic,R,33.18275154,Thanasi Kokkinakis,R,21.38261465
+Hard,1,Florian Mayer,R,33.8973306,Rogerio Dutra Silva,R,33.56605065
+Hard,1,Marin Cilic,R,28.91444216,Tennys Sandgren,R,26.1026694
+Hard,1,Rafael Nadal,L,31.23613963,Taro Daniel,R,24.58316222
+Hard,1,Leonardo Mayer,R,30.28884326,Yuichi Sugita,R,28.94182067
+Hard,1,Viktor Troicki,R,31.54551677,Stefano Travaglia,U,25.69472964
+Hard,0,Tomas Berdych,R,31.94524298,Alexandr Dolgopolov,R,28.80492813
+Hard,0,Guido Pella,L,27.28268309,David Goffin,R,26.72416153
+Hard,1,Gael Monfils,R,30.98973306,Donald Young,L,28.09856263
+Hard,1,Damir Dzumhur,R,25.27310062,Cedrik Marcel Stebe,L,26.88569473
+Hard,1,Andrey Rublev,R,19.85489391,Grigor Dimitrov,R,26.28610541
+Hard,0,Mikhail Youzhny,R,35.17590691,Roger Federer,R,36.05475702
+Hard,1,Feliciano Lopez,L,35.93702943,Fernando Verdasco,L,33.78507871
+Hard,1,Philipp Kohlschreiber,R,33.86721424,Santiago Giraldo,R,29.7522245
+Hard,0,Malek Jaziri,R,33.60438056,John Millman,R,28.20533881
+Hard,1,Roberto Bautista Agut,R,29.37166324,Dustin Brown,R,32.72005476
+Hard,0,Adrian Menendez Maceiras,R,31.8329911,Juan Martin Del Potro,R,28.92813142
+Hard,0,Bjorn Fratangelo,R,24.10951403,Adrian Mannarino,L,29.16358658
+Hard,1,Dominic Thiem,R,23.9835729,Taylor Harry Fritz,R,19.8329911
+Hard,1,Sam Querrey,R,29.89185489,Dudi Sela,R,32.39972621
+Hard,1,Radu Albot,R,27.79466119,Yen Hsun Lu,R,34.03969884
+Hard,1,Mischa Zverev,L,30.01779603,Benoit Paire,R,28.30663929
+Hard,0,Hyeon Chung,R,21.27583847,John Isner,R,32.3394935
+Hard,1,Thomas Fabbiano,R,28.25735797,Jordan Thompson,R,23.35660507
+Hard,1,Paolo Lorenzi,R,35.70157426,Gilles Muller,L,34.30527036
+Hard,1,Kevin Anderson,R,31.27994524,Ernests Gulbis,R,28.99383984
+Hard,0,Alexander Zverev,R,20.3559206,Borna Coric,R,20.78576318
+Hard,1,Denis Shapovalov,L,18.37097878,Jo Wilfried Tsonga,R,32.36413415
+Hard,1,Kyle Edmund,R,22.63655031,Steve Johnson,R,27.67693361
+Hard,1,Nicolas Mahut,R,35.60027379,Albert Ramos,L,29.61259411
+Hard,1,Pablo Carreno Busta,R,26.13004791,Cameron Norrie,L,22.01505818
+Hard,1,Lucas Pouille,R,23.50992471,Jared Donaldson,R,20.8843258
+Hard,1,Mikhail Kukushkin,R,29.67282683,Evgeny Donskoy,R,27.3045859
+Hard,0,Janko Tipsarevic,R,33.18275154,Diego Sebastian Schwartzman,R,25.03216975
+Hard,0,Florian Mayer,R,33.8973306,Marin Cilic,R,28.91444216
+Hard,0,Leonardo Mayer,R,30.28884326,Rafael Nadal,L,31.23613963
+Hard,1,Alexandr Dolgopolov,R,28.80492813,Viktor Troicki,R,31.54551677
+Hard,0,Gael Monfils,R,30.98973306,David Goffin,R,26.72416153
+Hard,1,Andrey Rublev,R,19.85489391,Damir Dzumhur,R,25.27310062
+Hard,1,Roger Federer,R,36.05475702,Feliciano Lopez,L,35.93702943
+Hard,0,John Millman,R,28.20533881,Philipp Kohlschreiber,R,33.86721424
+Hard,0,Roberto Bautista Agut,R,29.37166324,Juan Martin Del Potro,R,28.92813142
+Hard,1,Dominic Thiem,R,23.9835729,Adrian Mannarino,L,29.16358658
+Hard,1,Sam Querrey,R,29.89185489,Radu Albot,R,27.79466119
+Hard,1,Mischa Zverev,L,30.01779603,John Isner,R,32.3394935
+Hard,1,Paolo Lorenzi,R,35.70157426,Thomas Fabbiano,R,28.25735797
+Hard,0,Borna Coric,R,20.78576318,Kevin Anderson,R,31.27994524
+Hard,1,Denis Shapovalov,L,18.37097878,Kyle Edmund,R,22.63655031
+Hard,1,Pablo Carreno Busta,R,26.13004791,Nicolas Mahut,R,35.60027379
+Hard,0,Mikhail Kukushkin,R,29.67282683,Lucas Pouille,R,23.50992471
+Hard,1,Diego Sebastian Schwartzman,R,25.03216975,Marin Cilic,R,28.91444216
+Hard,1,Rafael Nadal,L,31.23613963,Alexandr Dolgopolov,R,28.80492813
+Hard,1,Andrey Rublev,R,19.85489391,David Goffin,R,26.72416153
+Hard,1,Roger Federer,R,36.05475702,Philipp Kohlschreiber,R,33.86721424
+Hard,0,Dominic Thiem,R,23.9835729,Juan Martin Del Potro,R,28.92813142
+Hard,0,Mischa Zverev,L,30.01779603,Sam Querrey,R,29.89185489
+Hard,1,Kevin Anderson,R,31.27994524,Paolo Lorenzi,R,35.70157426
+Hard,1,Pablo Carreno Busta,R,26.13004791,Denis Shapovalov,L,18.37097878
+Hard,1,Diego Sebastian Schwartzman,R,25.03216975,Lucas Pouille,R,23.50992471
+Hard,1,Rafael Nadal,L,31.23613963,Andrey Rublev,R,19.85489391
+Hard,0,Roger Federer,R,36.05475702,Juan Martin Del Potro,R,28.92813142
+Hard,1,Kevin Anderson,R,31.27994524,Sam Querrey,R,29.89185489
+Hard,1,Pablo Carreno Busta,R,26.13004791,Diego Sebastian Schwartzman,R,25.03216975
+Hard,1,Rafael Nadal,L,31.23613963,Juan Martin Del Potro,R,28.92813142
+Hard,1,Kevin Anderson,R,31.27994524,Pablo Carreno Busta,R,26.13004791
+Hard,1,Rafael Nadal,L,31.23613963,Kevin Anderson,R,31.27994524
+Hard,1,Ricardo Rodriguez,R,24.37234771,Matthew Foster Estwick,0,20.04380561
+Hard,0,Jordi Munoz Abreu,U,27.6495551,Darian King,R,25.37713895
+Hard,1,Darian King,R,25.37713895,Ricardo Rodriguez,R,24.37234771
+Hard,1,Haydn Lewis,L,31.69062286,Luis David Martinez,U,28.3340178
+Grass,0,Wishaya Trongcharoenchaikul,R,22.42847365,Aqeel Khan,R,37.61533196
+Grass,1,Aisam Ul Haq Qureshi,R,37.48665298,Kittipong Wachiramanowong,R,27.21423682
+Grass,0,Aisam Ul Haq Qureshi,R,37.48665298,Wishaya Trongcharoenchaikul,R,22.42847365
+Grass,1,Aqeel Khan,R,37.61533196,Kittipong Wachiramanowong,R,27.21423682
+Hard,0,Nicolaas Scholtz,R,26.5982204,Frederik Nielsen,R,34.04243669
+Hard,0,Benjamin Hannestad,R,20.57221081,Lloyd George Muirhead Harris,R,20.54483231
+Hard,0,Frederik Nielsen,R,34.04243669,Lloyd George Muirhead Harris,R,20.54483231
+Clay,0,Julius Tverijonas,R,23.24435318,Elias Ymer,R,21.42094456
+Clay,0,Laurynas Grigelis,R,26.07802875,Mikael Ymer,R,19.00616016
+Clay,0,Tadas Babelis,U,20.54209446,Markus Eriksson,R,27.78370979
+Clay,1,Mikael Ymer,R,19.00616016,Julius Tverijonas,R,23.24435318
+Clay,1,David Goffin,R,26.76249144,John Millman,R,28.24366872
+Clay,0,Steve Darcis,R,33.49760438,Nick Kyrgios,R,22.37645448
+Clay,0,Nick Kyrgios,R,22.37645448,David Goffin,R,26.76249144
+Clay,0,Jordan Thompson,R,23.39493498,Steve Darcis,R,33.49760438
+Clay,1,Dusan Lajovic,R,27.20054757,Lucas Pouille,R,23.54825462
+Clay,0,Laslo Djere,R,22.27789185,Jo Wilfried Tsonga,R,32.40246407
+Clay,1,Jo Wilfried Tsonga,R,32.40246407,Dusan Lajovic,R,27.20054757
+Hard,1,Mikhail Kukushkin,R,29.71115674,Guido Pella,L,27.321013
+Hard,1,Diego Sebastian Schwartzman,R,25.07049966,Dmitry Popko,R,20.88158795
+Hard,1,Mikhail Kukushkin,R,29.71115674,Diego Sebastian Schwartzman,R,25.07049966
+Hard,1,Guido Pella,L,27.321013,Dmitry Popko,R,20.88158795
+Hard,0,Brayden Schnur,R,22.19028063,Ramkumar Ramanathan,R,22.84188912
+Hard,1,Denis Shapovalov,L,18.40930869,Yuki Bhambri,R,25.18822724
+Hard,0,Ramkumar Ramanathan,R,22.84188912,Denis Shapovalov,L,18.40930869
+Hard,0,Brayden Schnur,R,22.19028063,Yuki Bhambri,R,25.18822724
+Clay,0,Alejandro Gonzalez,R,28.59137577,Marin Cilic,R,28.95277207
+Clay,1,Santiago Giraldo,R,29.79055441,Franco Skugor,R,29.97672827
+Clay,1,Marin Cilic,R,28.95277207,Santiago Giraldo,R,29.79055441
+Clay,0,Alejandro Gonzalez,R,28.59137577,Viktor Galovic,R,26.97878166
+Clay,1,Jiri Vesely,L,24.1724846,Thiemo De Bakker,R,28.97741273
+Clay,0,Robin Haase,R,30.43394935,Lukas Rosol,R,32.13415469
+Clay,0,Jiri Vesely,L,24.1724846,Robin Haase,R,30.43394935
+Clay,0,Lukas Rosol,R,32.13415469,Thiemo De Bakker,R,28.97741273
+Clay,1,Cedrik Marcel Stebe,L,26.92402464,Joao Sousa,R,28.45174538
+Clay,0,Jan Lennard Struff,R,27.38124572,Pedro Sousa,R,29.29226557
+Clay,0,Joao Sousa,R,28.45174538,Jan Lennard Struff,R,27.38124572
+Clay,0,Yannick Hanfmann,U,25.82888433,Joao Domingues,R,23.93429158
+Hard,0,Guilherme Clezar,R,24.6954141,Yuichi Sugita,R,28.98015058
+Hard,0,Thiago Monteiro,L,23.28268309,Go Soeda,R,33.01574264
+Hard,0,Thiago Monteiro,L,23.28268309,Yuichi Sugita,R,28.98015058
+Clay,0,Andrey Rublev,R,19.89322382,Marton Fucsovics,R,25.59069131
+Clay,0,Attila Balazs,R,28.95550992,Karen Khachanov,R,21.30869268
+Clay,0,Karen Khachanov,R,21.30869268,Marton Fucsovics,R,25.59069131
+Hard,0,Henri Laaksonen,R,25.44832307,Yaraslau Shyla,R,24.52019165
+Hard,0,Dzmitry Zhyrmont,U,28.53114305,Marco Chiudinelli,R,36.00273785
+Hard,0,Dzmitry Zhyrmont,U,28.53114305,Henri Laaksonen,R,25.44832307
+Hard,1,Marco Chiudinelli,R,36.00273785,Yaraslau Shyla,R,24.52019165
+Hard,0,Benoit Paire,R,28.36413415,Peter Gojowczyk,R,28.1779603
+Hard,1,Peter Gojowczyk,R,28.1779603,Mischa Zverev,L,30.0752909
+Hard,0,Nikoloz Basilashvili,R,25.5687885,Benoit Paire,R,28.36413415
+Hard,0,Kenny De Schepper,L,30.30800821,Mischa Zverev,L,30.0752909
+Hard,0,Marius Copil,R,26.92128679,Peter Gojowczyk,R,28.1779603
+Hard,1,Nikoloz Basilashvili,R,25.5687885,Denis Istomin,R,31.03080082
+Hard,1,Benoit Paire,R,28.36413415,David Goffin,R,26.7816564
+Hard,0,Nicolas Mahut,R,35.65776865,Kenny De Schepper,L,30.30800821
+Hard,1,Mischa Zverev,L,30.0752909,Henri Laaksonen,R,25.46748802
+Hard,1,Marius Copil,R,26.92128679,Lucas Pouille,R,23.56741958
+Hard,0,Gilles Simon,R,32.72553046,Peter Gojowczyk,R,28.1779603
+Hard,0,Yannick Maden,U,27.89048597,Denis Istomin,R,31.03080082
+Hard,1,Nikoloz Basilashvili,R,25.5687885,Gilles Muller,L,34.36276523
+Hard,0,Marcel Granollers,R,31.43600274,Benoit Paire,R,28.36413415
+Hard,0,Nicolas Almagro,R,32.07665982,David Goffin,R,26.7816564
+Hard,1,Nicolas Mahut,R,35.65776865,Dustin Brown,R,32.77754962
+Hard,0,Paul Henri Mathieu,R,35.68240931,Henri Laaksonen,R,25.46748802
+Hard,0,Pierre Hugues Herbert,R,26.50513347,Mischa Zverev,L,30.0752909
+Hard,1,Marius Copil,R,26.92128679,Alessandro Giannessi,L,27.3045859
+Hard,0,Norbert Gombos,R,27.09924709,Peter Gojowczyk,R,28.1779603
+Hard,0,Andreas Seppi,R,33.5742642,Gilles Simon,R,32.72553046
+Hard,0,Richard Gasquet,R,31.25256674,Denis Istomin,R,31.03080082
+Hard,1,Yannick Maden,U,27.89048597,Nicolas Kicker,R,25.08966461
+Hard,0,Vincent Millot,L,31.63312799,Nikoloz Basilashvili,R,25.5687885
+Hard,1,Benoit Paire,R,28.36413415,Stefanos Tsitsipas,R,19.10198494
+Hard,1,Marcel Granollers,R,31.43600274,Simone Bolelli,R,31.94524298
+Hard,0,Julien Benneteau,R,35.74537988,Nicolas Almagro,R,32.07665982
+Hard,1,Damir Dzumhur,R,25.33059548,Fabio Fognini,R,30.32169747
+Hard,0,Roberto Bautista Agut,R,29.42915811,Fabio Fognini,R,30.32169747
+Hard,0,Jan Lennard Struff,R,27.40041068,Damir Dzumhur,R,25.33059548
+Hard,1,Roberto Bautista Agut,R,29.42915811,Viktor Troicki,R,31.60301164
+Hard,1,Fabio Fognini,R,30.32169747,Ricardas Berankis,R,27.24435318
+Hard,1,Damir Dzumhur,R,25.33059548,Liam Broady,L,23.70431212
+Hard,1,Jan Lennard Struff,R,27.40041068,Jo Wilfried Tsonga,R,32.42162902
+Hard,0,Rogerio Dutra Silva,R,33.62354552,Roberto Bautista Agut,R,29.42915811
+Hard,0,Guido Pella,L,27.34017796,Viktor Troicki,R,31.60301164
+Hard,1,Fabio Fognini,R,30.32169747,Mikhail Youzhny,R,35.23340178
+Hard,0,Marcos Baghdatis,R,32.25462012,Damir Dzumhur,R,25.33059548
+Hard,1,Liam Broady,L,23.70431212,Adrian Mannarino,L,29.22108145
+Hard,0,Thomas Fabbiano,R,28.31485284,Jan Lennard Struff,R,27.40041068
+Hard,0,Joao Sousa,R,28.47091034,Jo Wilfried Tsonga,R,32.42162902
+Hard,0,Radu Albot,R,27.85215606,Rogerio Dutra Silva,R,33.62354552
+Hard,0,Dusan Lajovic,R,27.21971253,Guido Pella,L,27.34017796
+Hard,0,Andrey Kuznetsov,R,26.57084189,Viktor Troicki,R,31.60301164
+Hard,1,Mikhail Youzhny,R,35.23340178,John Patrick Smith,L,27.78918549
+Hard,0,Daniel Masur,R,23.27173169,Ricardas Berankis,R,27.24435318
+Hard,1,Philipp Kohlschreiber,R,33.9247091,Evgeny Tyurnev,U,20.44626968
+Hard,0,Paolo Lorenzi,R,35.75906913,Damir Dzumhur,R,25.33059548
+Hard,1,Marcos Baghdatis,R,32.25462012,Horacio Zeballos,L,32.39425051
+Hard,1,Liam Broady,L,23.70431212,Ernests Gulbis,R,29.0513347
+Hard,1,Jan Lennard Struff,R,27.40041068,Borna Coric,R,20.84325804
+Hard,0,Daniil Medvedev,R,21.60164271,Thomas Fabbiano,R,28.31485284
+Hard,0,Evgeny Donskoy,R,27.36208077,Joao Sousa,R,28.47091034
+Hard,0,Marcos Baghdatis,R,32.27378508,Denis Istomin,R,31.04996578
+Hard,1,Marcos Baghdatis,R,32.27378508,Guido Pella,L,27.35934292
+Hard,0,Yuichi Sugita,R,29.01848049,Denis Istomin,R,31.04996578
+Hard,0,Taylor Harry Fritz,R,19.90965092,Guido Pella,L,27.35934292
+Hard,1,Marcos Baghdatis,R,32.27378508,Yen Hsun Lu,R,34.11635866
+Hard,1,Denis Istomin,R,31.04996578,Jared Donaldson,R,20.96098563
+Hard,1,Yuichi Sugita,R,29.01848049,Dusan Lajovic,R,27.23887748
+Hard,1,Guido Pella,L,27.35934292,Dominic Thiem,R,24.06023272
+Hard,1,Taylor Harry Fritz,R,19.90965092,Nikoloz Basilashvili,R,25.58795346
+Hard,1,Yen Hsun Lu,R,34.11635866,Andrey Rublev,R,19.93155373
+Hard,1,Marcos Baghdatis,R,32.27378508,Peter Gojowczyk,R,28.19712526
+Hard,0,Kyle Edmund,R,22.71321013,Jared Donaldson,R,20.96098563
+Hard,1,Denis Istomin,R,31.04996578,Karen Khachanov,R,21.34702259
+Hard,0,Thiago Monteiro,L,23.321013,Yuichi Sugita,R,29.01848049
+Hard,0,Albert Ramos,L,29.68925394,Dusan Lajovic,R,27.23887748
+Hard,0,Borna Coric,R,20.862423,Guido Pella,L,27.35934292
+Hard,0,Di Wu,R,26.03148528,Taylor Harry Fritz,R,19.90965092
+Hard,1,Nikoloz Basilashvili,R,25.58795346,Viktor Troicki,R,31.62217659
+Hard,1,Yen Hsun Lu,R,34.11635866,Mikael Ymer,R,19.04449008
+Hard,0,Vasek Pospisil,R,27.25804244,Marcos Baghdatis,R,32.27378508
+Hard,1,Peter Gojowczyk,R,28.19712526,Leonardo Mayer,R,30.36550308
+Hard,1,Kyle Edmund,R,22.71321013,Bernard Tomic,R,24.92813142
+Hard,0,Stefanos Tsitsipas,R,19.1211499,Jared Donaldson,R,20.96098563
+Hard,0,Jan Lennard Struff,R,27.41957563,Denis Istomin,R,31.04996578
+Hard,0,Mate Pavic,L,24.22724162,Yuichi Sugita,R,29.01848049
+Hard,1,Thiago Monteiro,L,23.321013,Yibing Wu,R,17.94934976
+Hard,0,Adrian Menendez Maceiras,R,31.90965092,Dusan Lajovic,R,27.23887748
+Hard,1,David Goffin,R,26.80082136,Alexandr Dolgopolov,R,28.88158795
+Hard,0,Damir Dzumhur,R,25.34976044,Alexandr Dolgopolov,R,28.88158795
+Hard,1,David Goffin,R,26.80082136,Henri Laaksonen,R,25.48665298
+Hard,0,Alexander Zverev,R,20.43258042,Damir Dzumhur,R,25.34976044
+Hard,1,Alexandr Dolgopolov,R,28.88158795,Dudi Sela,R,32.47638604
+Hard,1,Henri Laaksonen,R,25.48665298,Zhizhen Zhang,U,20.94182067
+Hard,1,David Goffin,R,26.80082136,Donald Young,L,28.17522245
+Hard,0,Steve Darcis,R,33.53593429,Alexander Zverev,R,20.43258042
+Hard,0,Lukas Lacko,R,29.89459274,Damir Dzumhur,R,25.34976044
+Hard,0,Mischa Zverev,L,30.09445585,Dudi Sela,R,32.47638604
+Hard,1,Alexandr Dolgopolov,R,28.88158795,Sergiy Stakhovsky,R,31.71800137
+Hard,1,Henri Laaksonen,R,25.48665298,Marius Copil,R,26.94045175
+Hard,1,Zhizhen Zhang,U,20.94182067,Paolo Lorenzi,R,35.77823409
+Hard,1,Donald Young,L,28.17522245,Jeremy Chardy,R,30.61738535
+Hard,0,Evgeny Donskoy,R,27.38124572,David Goffin,R,26.80082136
+Hard,0,Ze Zhang,R,27.22792608,Steve Darcis,R,33.53593429
+Hard,0,Marcel Granollers,R,31.45516769,Lukas Lacko,R,29.89459274
+Hard,1,Damir Dzumhur,R,25.34976044,John Millman,R,28.28199863
+Hard,1,Dudi Sela,R,32.47638604,Matthew Ebden,R,29.83162218
+Hard,1,Sergiy Stakhovsky,R,31.71800137,Nicolas Kicker,R,25.10882957
+Hard,0,Lloyd George Muirhead Harris,R,20.58316222,Alexandr Dolgopolov,R,28.88158795
+Hard,0,Joao Sousa,R,28.49007529,Henri Laaksonen,R,25.48665298
+Hard,1,Marius Copil,R,26.94045175,Malek Jaziri,R,33.68104038
+Hard,1,Zhizhen Zhang,U,20.94182067,Rogerio Dutra Silva,R,33.64271047
+Hard,1,Donald Young,L,28.17522245,Nicola Kuhn,R,17.51676934
+Hard,0,Alessandro Giannessi,L,27.32375086,Jeremy Chardy,R,30.61738535
+Hard,0,Akira Santillan,R,20.3449692,Evgeny Donskoy,R,27.38124572
+Hard,0,Nick Kyrgios,R,22.43394935,Rafael Nadal,L,31.33196441
+Hard,1,Rafael Nadal,L,31.33196441,Grigor Dimitrov,R,26.38193018
+Hard,0,Alexander Zverev,R,20.45174538,Nick Kyrgios,R,22.43394935
+Hard,1,Rafael Nadal,L,31.33196441,John Isner,R,32.43531828
+Hard,1,Grigor Dimitrov,R,26.38193018,Roberto Bautista Agut,R,29.46748802
+Hard,1,Nick Kyrgios,R,22.43394935,Steve Darcis,R,33.55509925
+Hard,0,Andrey Rublev,R,19.95071869,Alexander Zverev,R,20.45174538
+Hard,1,Rafael Nadal,L,31.33196441,Karen Khachanov,R,21.36618754
+Hard,1,John Isner,R,32.43531828,Leonardo Mayer,R,30.38466804
+Hard,0,Juan Martin Del Potro,R,29.02395619,Grigor Dimitrov,R,26.38193018
+Hard,1,Roberto Bautista Agut,R,29.46748802,Aljaz Bedene,R,28.20807666
+Hard,1,Nick Kyrgios,R,22.43394935,Mischa Zverev,L,30.11362081
+Hard,0,Dusan Lajovic,R,27.25804244,Steve Darcis,R,33.55509925
+Hard,1,Andrey Rublev,R,19.95071869,Tomas Berdych,R,32.04106776
+Hard,0,Fabio Fognini,R,30.36002738,Alexander Zverev,R,20.45174538
+Hard,0,Lucas Pouille,R,23.60574949,Rafael Nadal,L,31.33196441
+Hard,1,Karen Khachanov,R,21.36618754,Di Wu,R,26.05065024
+Hard,0,Paolo Lorenzi,R,35.79739904,Leonardo Mayer,R,30.38466804
+Hard,0,Malek Jaziri,R,33.70020534,John Isner,R,32.43531828
+Hard,1,Grigor Dimitrov,R,26.38193018,Damir Dzumhur,R,25.36892539
+Hard,0,Pablo Cuevas,R,31.75085558,Juan Martin Del Potro,R,29.02395619
+Hard,1,Aljaz Bedene,R,28.20807666,Marcel Granollers,R,31.47433265
+Hard,0,Ze Zhang,R,27.24709103,Roberto Bautista Agut,R,29.46748802
+Hard,1,Nick Kyrgios,R,22.43394935,Nikoloz Basilashvili,R,25.60711841
+Hard,0,Jan Lennard Struff,R,27.43874059,Mischa Zverev,L,30.11362081
+Hard,0,Fernando Verdasco,L,33.88090349,Dusan Lajovic,R,27.25804244
+Hard,1,Steve Darcis,R,33.55509925,Pablo Carreno Busta,R,26.22587269
+Hard,0,Jared Donaldson,R,20.98015058,Tomas Berdych,R,32.04106776
+Hard,0,Jack Sock,R,25.02121834,Andrey Rublev,R,19.95071869
+Hard,1,Fabio Fognini,R,30.36002738,Robin Haase,R,30.49144422
+Hard,1,Alexander Zverev,R,20.45174538,Kyle Edmund,R,22.73237509
+Hard,1,David Goffin,R,26.81998631,Adrian Mannarino,L,29.25941136
+Hard,0,Marin Cilic,R,29.01026694,Adrian Mannarino,L,29.25941136
+Hard,0,Diego Sebastian Schwartzman,R,25.12799452,David Goffin,R,26.81998631
+Hard,1,Marin Cilic,R,29.01026694,Ryan Harrison,R,25.40451745
+Hard,1,Adrian Mannarino,L,29.25941136,Yuichi Sugita,R,29.03764545
+Hard,1,David Goffin,R,26.81998631,Richard Gasquet,R,31.29089665
+Hard,0,Steve Johnson,R,27.77275838,Diego Sebastian Schwartzman,R,25.12799452
+Hard,0,Yasutaka Uchiyama,R,25.15811088,Marin Cilic,R,29.01026694
+Hard,0,Kevin Anderson,R,31.37577002,Ryan Harrison,R,25.40451745
+Hard,0,Milos Raonic,R,26.7652293,Yuichi Sugita,R,29.03764545
+Hard,1,Adrian Mannarino,L,29.25941136,Jiri Vesely,L,24.22997947
+Hard,1,Richard Gasquet,R,31.29089665,Yen Hsun Lu,R,34.13552361
+Hard,1,David Goffin,R,26.81998631,Matthew Ebden,R,29.85078713
+Hard,0,Bernard Tomic,R,24.94729637,Diego Sebastian Schwartzman,R,25.12799452
+Hard,0,Alexandr Dolgopolov,R,28.90075291,Steve Johnson,R,27.77275838
+Hard,1,Marin Cilic,R,29.01026694,Stefanos Tsitsipas,R,19.14031485
+Hard,1,Yasutaka Uchiyama,R,25.15811088,Franco Skugor,R,30.03422313
+Hard,0,Yusuke Takahashi,U,0,Ryan Harrison,R,25.40451745
+Hard,1,Kevin Anderson,R,31.37577002,Gilles Simon,R,32.76386037
+Hard,1,Milos Raonic,R,26.7652293,Viktor Troicki,R,31.64134155
+Hard,0,Benoit Paire,R,28.40246407,Yuichi Sugita,R,29.03764545
+Hard,0,Go Soeda,R,33.07323751,Adrian Mannarino,L,29.25941136
+Hard,1,Jiri Vesely,L,24.22997947,Albert Ramos,L,29.70841889
+Hard,0,Sam Querrey,R,29.98767967,Richard Gasquet,R,31.29089665
+Hard,1,Yen Hsun Lu,R,34.13552361,Taro Daniel,R,24.678987
+Hard,1,Matthew Ebden,R,29.85078713,Ivo Karlovic,R,38.5927447
+Hard,1,David Goffin,R,26.81998631,Feliciano Lopez,L,36.03285421
+Hard,0,Donald Young,L,28.19438741,Diego Sebastian Schwartzman,R,25.12799452
+Hard,1,Bernard Tomic,R,24.94729637,Joao Sousa,R,28.50924025
+Hard,0,Daniil Medvedev,R,21.63997262,Alexandr Dolgopolov,R,28.90075291
+Hard,1,Steve Johnson,R,27.77275838,Dominic Thiem,R,24.07939767
+Hard,1,Roger Federer,R,36.16974675,Rafael Nadal,L,31.35112936
+Hard,0,Marin Cilic,R,29.0294319,Rafael Nadal,L,31.35112936
+Hard,0,Juan Martin Del Potro,R,29.04312115,Roger Federer,R,36.16974675
+Hard,0,Grigor Dimitrov,R,26.40109514,Rafael Nadal,L,31.35112936
+Hard,0,Albert Ramos,L,29.72758385,Marin Cilic,R,29.0294319
+Hard,1,Juan Martin Del Potro,R,29.04312115,Viktor Troicki,R,31.6605065
+Hard,1,Roger Federer,R,36.16974675,Richard Gasquet,R,31.3100616
+Hard,0,Fabio Fognini,R,30.37919233,Rafael Nadal,L,31.35112936
+Hard,1,Grigor Dimitrov,R,26.40109514,Sam Querrey,R,30.00684463
+Hard,1,Marin Cilic,R,29.0294319,Steve Johnson,R,27.79192334
+Hard,1,Albert Ramos,L,29.72758385,Jan Lennard Struff,R,27.45790554
+Hard,1,Viktor Troicki,R,31.6605065,John Isner,R,32.45448323
+Hard,1,Juan Martin Del Potro,R,29.04312115,Alexander Zverev,R,20.47091034
+Hard,1,Richard Gasquet,R,31.3100616,Gilles Simon,R,32.78302533
+Hard,1,Roger Federer,R,36.16974675,Alexandr Dolgopolov,R,28.91991786
+Hard,0,Jared Donaldson,R,20.99931554,Rafael Nadal,L,31.35112936
+Hard,0,Lucas Pouille,R,23.62491444,Fabio Fognini,R,30.37919233
+Hard,1,Sam Querrey,R,30.00684463,Francis Tiafoe,R,19.71800137
+Hard,1,Grigor Dimitrov,R,26.40109514,Ryan Harrison,R,25.42368241
+Hard,0,Kyle Edmund,R,22.75154004,Marin Cilic,R,29.0294319
+Hard,0,Di Wu,R,26.0698152,Steve Johnson,R,27.79192334
+Hard,1,Jan Lennard Struff,R,27.45790554,Kevin Anderson,R,31.39493498
+Hard,1,Albert Ramos,L,29.72758385,Pablo Carreno Busta,R,26.24503765
+Hard,0,Dominic Thiem,R,24.09856263,Viktor Troicki,R,31.6605065
+Hard,0,Stefanos Tsitsipas,R,19.15947981,John Isner,R,32.45448323
+Hard,0,Andrey Rublev,R,19.96988364,Juan Martin Del Potro,R,29.04312115
+Hard,0,Aljaz Bedene,R,28.22724162,Alexander Zverev,R,20.47091034
+Hard,1,Gilles Simon,R,32.78302533,David Goffin,R,26.83915127
+Hard,0,Hyeon Chung,R,21.3908282,Richard Gasquet,R,31.3100616
+Hard,0,Feliciano Lopez,L,36.05201917,Alexandr Dolgopolov,R,28.91991786
+Hard,0,Diego Sebastian Schwartzman,R,25.14715948,Roger Federer,R,36.16974675
+Hard,0,Pablo Cuevas,R,31.77002053,Jared Donaldson,R,20.99931554
+Hard,0,Fernando Verdasco,L,33.90006845,Fabio Fognini,R,30.37919233
+Hard,1,Lucas Pouille,R,23.62491444,Daniil Medvedev,R,21.65913758
+Hard,1,Sam Querrey,R,30.00684463,Yuichi Sugita,R,29.0568104
+Hard,1,Francis Tiafoe,R,19.71800137,Benoit Paire,R,28.42162902
+Hard,0,Ze Zhang,R,27.26625599,Ryan Harrison,R,25.42368241
+Hard,0,Jiri Vesely,L,24.24914442,Kyle Edmund,R,22.75154004
+Hard,1,Di Wu,R,26.0698152,Jeremy Chardy,R,30.65571526
+Hard,0,Nick Kyrgios,R,22.45311431,Steve Johnson,R,27.79192334
+Hard,1,Kevin Anderson,R,31.39493498,Adrian Mannarino,L,29.27857632
+Hard,1,Jan Lennard Struff,R,27.45790554,Mischa Zverev,L,30.13278576
+Hard,1,Albert Ramos,L,29.72758385,Joao Sousa,R,28.5284052
+Hard,1,Viktor Troicki,R,31.6605065,Denis Shapovalov,L,18.48596851
+Hard,0,Karen Khachanov,R,21.3853525,Stefanos Tsitsipas,R,19.15947981
+Hard,0,Dusan Lajovic,R,27.27720739,John Isner,R,32.45448323
+Hard,1,Juan Martin Del Potro,R,29.04312115,Nikoloz Basilashvili,R,25.62628337
+Hard,0,Damir Dzumhur,R,25.38809035,Andrey Rublev,R,19.96988364
+Hard,0,Paolo Lorenzi,R,35.816564,Aljaz Bedene,R,28.22724162
+Hard,1,Gilles Simon,R,32.78302533,Yibing Wu,R,17.98767967
+Hard,1,Richard Gasquet,R,31.3100616,Robin Haase,R,30.51060917
+Hard,0,Roberto Bautista Agut,R,29.48665298,Hyeon Chung,R,21.3908282
+Hard,1,Alexandr Dolgopolov,R,28.91991786,Jack Sock,R,25.0403833
+Hard,1,Feliciano Lopez,L,36.05201917,Ivo Karlovic,R,38.61190965
+Hard,0,Jordan Thompson,R,23.4715948,Diego Sebastian Schwartzman,R,25.14715948
+Hard,1,Jo Wilfried Tsonga,R,32.49828884,Diego Sebastian Schwartzman,R,25.16632444
+Hard,0,Stefanos Tsitsipas,R,19.17864476,Diego Sebastian Schwartzman,R,25.16632444
+Hard,1,Jo Wilfried Tsonga,R,32.49828884,Ruben Bemelmans,L,29.75496235
+Hard,1,Stefanos Tsitsipas,R,19.17864476,David Goffin,R,26.85831622
+Hard,1,Diego Sebastian Schwartzman,R,25.16632444,David Ferrer,R,35.54004107
+Hard,0,Joao Sousa,R,28.54757016,Ruben Bemelmans,L,29.75496235
+Hard,1,Jo Wilfried Tsonga,R,32.49828884,Julien Benneteau,R,35.8220397
+Hard,1,David Goffin,R,26.85831622,Francis Tiafoe,R,19.73716632
+Hard,0,Ivo Karlovic,R,38.63107461,Stefanos Tsitsipas,R,19.17864476
+Hard,1,Diego Sebastian Schwartzman,R,25.16632444,Ernesto Escobedo,R,21.28405202
+Hard,0,Steve Darcis,R,33.59342916,David Ferrer,R,35.54004107
+Hard,0,Sergiy Stakhovsky,R,31.77549624,Joao Sousa,R,28.54757016
+Hard,0,Nick Kyrgios,R,22.47227926,Ruben Bemelmans,L,29.75496235
+Hard,0,Henri Laaksonen,R,25.54414784,Julien Benneteau,R,35.8220397
+Hard,0,Kenny De Schepper,L,30.38466804,Jo Wilfried Tsonga,R,32.49828884
+Hard,1,Francis Tiafoe,R,19.73716632,Florian Mayer,R,34.03148528
+Hard,1,Ivo Karlovic,R,38.63107461,Guido Pella,L,27.41683778
+Hard,1,Stefanos Tsitsipas,R,19.17864476,Pablo Cuevas,R,31.78918549
+Hard,0,Denis Shapovalov,L,18.50513347,Ernesto Escobedo,R,21.28405202
+Hard,1,Steve Darcis,R,33.59342916,Cedrik Marcel Stebe,L,27.01984942
+Hard,0,Stefano Travaglia,U,25.82888433,David Ferrer,R,35.54004107
+Hard,0,Benoit Paire,R,28.44079398,Joao Sousa,R,28.54757016
+Hard,1,Sergiy Stakhovsky,R,31.77549624,Jared Donaldson,R,21.01848049
+Hard,0,Peter Gojowczyk,R,28.25462012,Ruben Bemelmans,L,29.75496235
+Hard,1,Henri Laaksonen,R,25.54414784,Alexandr Dolgopolov,R,28.93908282
+Hard,1,Julien Benneteau,R,35.8220397,Nikoloz Basilashvili,R,25.64544832
+Hard,1,Kenny De Schepper,L,30.38466804,Aldin Setkic,R,29.82067077
+Hard,0,Ricardas Berankis,R,27.321013,Damir Dzumhur,R,25.4072553
+Hard,0,Mirza Basic,R,26.2642026,Damir Dzumhur,R,25.4072553
+Hard,0,Adrian Mannarino,L,29.29774127,Ricardas Berankis,R,27.321013
+Hard,1,Mirza Basic,R,26.2642026,Daniil Medvedev,R,21.67830253
+Hard,1,Damir Dzumhur,R,25.4072553,Andreas Seppi,R,33.65092402
+Hard,1,Adrian Mannarino,L,29.29774127,Dudi Sela,R,32.5338809
+Hard,0,Alexander Bublik,R,20.33127995,Ricardas Berankis,R,27.321013
+Hard,1,Daniil Medvedev,R,21.67830253,Pablo Carreno Busta,R,26.2642026
+Hard,1,Mirza Basic,R,26.2642026,Laslo Djere,R,22.37371663
+Hard,0,Philipp Kohlschreiber,R,34.00136893,Andreas Seppi,R,33.65092402
+Hard,0,Yuki Bhambri,R,25.28405202,Damir Dzumhur,R,25.4072553
+Hard,1,Dudi Sela,R,32.5338809,Rogerio Dutra Silva,R,33.70020534
+Hard,0,Lukas Rosol,R,32.22997947,Adrian Mannarino,L,29.29774127
+Hard,0,Filip Krajinovic,R,25.63449692,Ricardas Berankis,R,27.321013
+Hard,1,Alexander Bublik,R,20.33127995,Albert Ramos,L,29.7467488
+Hard,0,Andrey Kuznetsov,R,26.64750171,Daniil Medvedev,R,21.67830253
+Hard,0,Blaz Kavcic,R,30.61738535,Mirza Basic,R,26.2642026
+Hard,1,Laslo Djere,R,22.37371663,Paolo Lorenzi,R,35.83572895
+Hard,1,Andreas Seppi,R,33.65092402,Jiri Vesely,L,24.26830938
+Hard,0,Roman Safiullin,U,20.19164956,Yuki Bhambri,R,25.28405202
+Hard,0,Thomas Fabbiano,R,28.39151266,Damir Dzumhur,R,25.4072553
+Hard,1,Dudi Sela,R,32.5338809,Borna Coric,R,20.91991786
+Hard,0,Evgeny Donskoy,R,27.43874059,Rogerio Dutra Silva,R,33.70020534
+Hard,0,Konstantin Kravchuk,R,32.64339494,Lukas Rosol,R,32.22997947
+Hard,0,Andrey Rublev,R,19.9890486,Filip Krajinovic,R,25.63449692
+Hard,0,Dusan Lajovic,R,27.29637235,Ricardas Berankis,R,27.321013
+Hard,0,Teymuraz Gabashvili,R,32.39972621,Alexander Bublik,R,20.33127995
+Hard,0,Grigor Dimitrov,R,26.4202601,Juan Martin Del Potro,R,29.06228611
+Hard,1,Grigor Dimitrov,R,26.4202601,Fabio Fognini,R,30.39835729
+Hard,0,Fernando Verdasco,L,33.9192334,Juan Martin Del Potro,R,29.06228611
+Hard,0,Mischa Zverev,L,30.15195072,Grigor Dimitrov,R,26.4202601
+Hard,0,Jack Sock,R,25.05954825,Fabio Fognini,R,30.39835729
+Hard,1,Juan Martin Del Potro,R,29.06228611,Yuichi Sugita,R,29.07597536
+Hard,0,Kevin Anderson,R,31.41409993,Fernando Verdasco,L,33.9192334
+Hard,0,Jerzy Janowicz,R,26.92402464,Grigor Dimitrov,R,26.4202601
+Hard,1,Mischa Zverev,L,30.15195072,Viktor Troicki,R,31.67967146
+Hard,1,Jack Sock,R,25.05954825,Jeremy Chardy,R,30.67488022
+Hard,0,Elias Ymer,R,21.51676934,Fabio Fognini,R,30.39835729
+Hard,1,Yuichi Sugita,R,29.07597536,Marcos Baghdatis,R,32.33127995
+Hard,0,Jan Lennard Struff,R,27.4770705,Juan Martin Del Potro,R,29.06228611
+Hard,0,Jurgen Zopp,R,29.54962355,Fernando Verdasco,L,33.9192334
+Hard,1,Kevin Anderson,R,31.41409993,Hyeon Chung,R,21.40999316
+Hard,1,Jerzy Janowicz,R,26.92402464,Pierre Hugues Herbert,R,26.58179329
+Hard,1,Viktor Troicki,R,31.67967146,Simone Bolelli,R,32.02190281
+Hard,1,Mischa Zverev,L,30.15195072,Mikael Ymer,R,19.10198494
+Hard,1,Jeremy Chardy,R,30.67488022,Alessandro Giannessi,L,27.38124572
+Hard,1,Elias Ymer,R,21.51676934,Leonardo Mayer,R,30.42299795
+Hard,1,Fabio Fognini,R,30.39835729,Malek Jaziri,R,33.73853525
+Hard,1,Yuichi Sugita,R,29.07597536,Denis Istomin,R,31.10746064
+Hard,1,Marcos Baghdatis,R,32.33127995,Norbert Gombos,R,27.17590691
+Hard,1,Jan Lennard Struff,R,27.4770705,Marius Copil,R,26.99794661
+Hard,1,Fernando Verdasco,L,33.9192334,Robin Haase,R,30.52977413
+Hard,1,Jurgen Zopp,R,29.54962355,Lukas Lacko,R,29.95208761
+Hard,0,Marton Fucsovics,R,25.68651608,Hyeon Chung,R,21.40999316
+Hard,0,Juan Martin Del Potro,R,29.08145106,Roger Federer,R,36.20807666
+Hard,0,David Goffin,R,26.87748118,Roger Federer,R,36.20807666
+Hard,0,Marin Cilic,R,29.06776181,Juan Martin Del Potro,R,29.08145106
+Hard,0,Adrian Mannarino,L,29.31690623,Roger Federer,R,36.20807666
+Hard,0,Jack Sock,R,25.07871321,David Goffin,R,26.87748118
+Hard,0,Roberto Bautista Agut,R,29.52498289,Juan Martin Del Potro,R,29.08145106
+Hard,0,Marton Fucsovics,R,25.70568104,Marin Cilic,R,29.06776181
+Hard,0,Benoit Paire,R,28.45995893,Roger Federer,R,36.20807666
+Hard,0,Denis Shapovalov,L,18.52429843,Adrian Mannarino,L,29.31690623
+Hard,1,David Goffin,R,26.87748118,Hyeon Chung,R,21.42915811
+Hard,1,Jack Sock,R,25.07871321,Robin Haase,R,30.54893908
+Hard,1,Roberto Bautista Agut,R,29.52498289,Ryan Harrison,R,25.46201232
+Hard,1,Juan Martin Del Potro,R,29.08145106,Julien Benneteau,R,35.84120465
+Hard,0,Leonardo Mayer,R,30.4421629,Marton Fucsovics,R,25.70568104
+Hard,0,Borna Coric,R,20.93908282,Marin Cilic,R,29.06776181
+Hard,1,Roger Federer,R,36.20807666,Francis Tiafoe,R,19.75633128
+Hard,1,Benoit Paire,R,28.45995893,Steve Johnson,R,27.83025325
+Hard,0,Yuichi Sugita,R,29.09514031,Denis Shapovalov,L,18.52429843
+Hard,0,Ruben Bemelmans,L,29.77412731,Adrian Mannarino,L,29.31690623
+Hard,0,Peter Gojowczyk,R,28.27378508,David Goffin,R,26.87748118
+Hard,1,Hyeon Chung,R,21.42915811,Paolo Lorenzi,R,35.85489391
+Hard,1,Robin Haase,R,30.54893908,Marco Chiudinelli,R,36.11772758
+Hard,0,Vasek Pospisil,R,27.33470226,Jack Sock,R,25.07871321
+Hard,1,Roberto Bautista Agut,R,29.52498289,Mikhail Kukushkin,R,29.82614648
+Hard,1,Ryan Harrison,R,25.46201232,Alexandr Dolgopolov,R,28.95824778
+Hard,1,Julien Benneteau,R,35.84120465,Donald Young,L,28.25188227
+Hard,1,Juan Martin Del Potro,R,29.08145106,Joao Sousa,R,28.56673511
+Hard,0,Mischa Zverev,L,30.17111567,Leonardo Mayer,R,30.4421629
+Hard,0,Jared Donaldson,R,21.03764545,Marton Fucsovics,R,25.70568104
+Hard,1,Borna Coric,R,20.93908282,Henri Laaksonen,R,25.5633128
+Hard,0,Florian Mayer,R,34.05065024,Marin Cilic,R,29.06776181
+Hard,0,Jo Wilfried Tsonga,R,32.5174538,Lucas Pouille,R,23.66324435
+Hard,1,Jo Wilfried Tsonga,R,32.5174538,Philipp Kohlschreiber,R,34.02053388
+Hard,0,Kyle Edmund,R,22.78986995,Lucas Pouille,R,23.66324435
+Hard,0,Alexander Zverev,R,20.50924025,Jo Wilfried Tsonga,R,32.5174538
+Hard,1,Philipp Kohlschreiber,R,34.02053388,Diego Sebastian Schwartzman,R,25.18548939
+Hard,0,Jan Lennard Struff,R,27.49623546,Kyle Edmund,R,22.78986995
+Hard,0,Richard Gasquet,R,31.34839151,Lucas Pouille,R,23.66324435
+Hard,0,Gilles Simon,R,32.82135524,Alexander Zverev,R,20.50924025
+Hard,1,Jo Wilfried Tsonga,R,32.5174538,Damir Dzumhur,R,25.42642026
+Hard,0,Pablo Carreno Busta,R,26.28336756,Diego Sebastian Schwartzman,R,25.18548939
+Hard,1,Philipp Kohlschreiber,R,34.02053388,Pierre Hugues Herbert,R,26.60095825
+Hard,0,Albert Ramos,L,29.76591376,Jan Lennard Struff,R,27.49623546
+Hard,0,Dennis Novak,R,24.15331964,Kyle Edmund,R,22.78986995
+Hard,0,Guillermo Garcia Lopez,R,34.38740589,Lucas Pouille,R,23.66324435
+Hard,0,Dominic Thiem,R,24.13689254,Richard Gasquet,R,31.34839151
+Hard,1,Alexander Zverev,R,20.50924025,Viktor Troicki,R,31.69883641
+Hard,1,Gilles Simon,R,32.82135524,Ernests Gulbis,R,29.14715948
+Hard,0,Ricardas Berankis,R,27.34017796,Damir Dzumhur,R,25.42642026
+Hard,0,Karen Khachanov,R,21.42368241,Jo Wilfried Tsonga,R,32.5174538
+Hard,1,Pablo Carreno Busta,R,26.28336756,Guido Pella,L,27.43600274
+Hard,1,Diego Sebastian Schwartzman,R,25.18548939,Fabio Fognini,R,30.41752225
+Hard,1,Pierre Hugues Herbert,R,26.60095825,Bernard Tomic,R,25.00479124
+Hard,0,John Isner,R,32.49281314,Philipp Kohlschreiber,R,34.02053388
+Hard,1,Albert Ramos,L,29.76591376,Sam Querrey,R,30.04517454
+Hard,1,Jan Lennard Struff,R,27.49623546,Pablo Cuevas,R,31.80835044
+Hard,1,Kyle Edmund,R,22.78986995,David Ferrer,R,35.55920602
+Hard,0,Thomas Fabbiano,R,28.41067762,Dennis Novak,R,24.15331964
+Hard,1,Guillermo Garcia Lopez,R,34.38740589,Kevin Anderson,R,31.43326489
+Hard,0,Sebastian Ofner,R,21.44832307,Lucas Pouille,R,23.66324435
+Hard,0,Feliciano Lopez,L,36.09034908,Richard Gasquet,R,31.34839151
+Hard,1,Dominic Thiem,R,24.13689254,Andrey Rublev,R,20.00821355
+Hard,1,Jack Sock,R,25.09787817,Filip Krajinovic,R,25.67282683
+Hard,1,Filip Krajinovic,R,25.67282683,John Isner,R,32.5119781
+Hard,0,Julien Benneteau,R,35.86036961,Jack Sock,R,25.09787817
+Hard,1,John Isner,R,32.5119781,Juan Martin Del Potro,R,29.10061602
+Hard,0,Marin Cilic,R,29.08692676,Julien Benneteau,R,35.86036961
+Hard,1,Jack Sock,R,25.09787817,Fernando Verdasco,L,33.95756331
+Hard,0,Pablo Cuevas,R,31.8275154,Rafael Nadal,L,31.40862423
+Hard,1,Filip Krajinovic,R,25.67282683,Nicolas Mahut,R,35.77275838
+Hard,0,Robin Haase,R,30.56810404,Juan Martin Del Potro,R,29.10061602
+Hard,0,Grigor Dimitrov,R,26.45859001,John Isner,R,32.5119781
+Hard,0,David Goffin,R,26.89664613,Julien Benneteau,R,35.86036961
+Hard,1,Marin Cilic,R,29.08692676,Roberto Bautista Agut,R,29.54414784
+Hard,0,Dominic Thiem,R,24.15605749,Fernando Verdasco,L,33.95756331
+Hard,1,Jack Sock,R,25.09787817,Lucas Pouille,R,23.68240931
+Hard,1,Rafael Nadal,L,31.40862423,Hyeon Chung,R,21.44832307
+Hard,0,Albert Ramos,L,29.78507871,Pablo Cuevas,R,31.8275154
+Hard,1,Filip Krajinovic,R,25.67282683,Sam Querrey,R,30.06433949
+Hard,1,Nicolas Mahut,R,35.77275838,Pablo Carreno Busta,R,26.30253251
+Hard,1,Robin Haase,R,30.56810404,Alexander Zverev,R,20.5284052
+Hard,0,Joao Sousa,R,28.58590007,Juan Martin Del Potro,R,29.10061602
+Hard,1,John Isner,R,32.5119781,Diego Sebastian Schwartzman,R,25.20465435
+Hard,1,Grigor Dimitrov,R,26.45859001,Richard Gasquet,R,31.36755647
+Hard,1,David Goffin,R,26.89664613,Adrian Mannarino,L,29.33607118
+Hard,1,Julien Benneteau,R,35.86036961,Jo Wilfried Tsonga,R,32.53661875
+Hard,0,Jeremy Chardy,R,30.71321013,Roberto Bautista Agut,R,29.54414784
+Hard,0,Borna Coric,R,20.95824778,Marin Cilic,R,29.08692676
+Hard,0,Peter Gojowczyk,R,28.29295003,Dominic Thiem,R,24.15605749
+Hard,0,Kevin Anderson,R,31.45242984,Fernando Verdasco,L,33.95756331
+Hard,0,Kyle Edmund,R,22.80903491,Jack Sock,R,25.09787817
+Hard,1,Lucas Pouille,R,23.68240931,Feliciano Lopez,L,36.10951403
+Hard,1,Hyeon Chung,R,21.44832307,Mischa Zverev,L,30.19028063
+Hard,1,Pablo Cuevas,R,31.8275154,Karen Khachanov,R,21.44284736
+Hard,1,Filip Krajinovic,R,25.67282683,Yuichi Sugita,R,29.11430527
+Hard,1,Nicolas Mahut,R,35.77275838,Vasek Pospisil,R,27.35386721
+Hard,1,Robin Haase,R,30.56810404,Steve Johnson,R,27.84941821
+Hard,1,Joao Sousa,R,28.58590007,Paolo Lorenzi,R,35.87405886
+Hard,1,Diego Sebastian Schwartzman,R,25.20465435,Viktor Troicki,R,31.71800137
+Hard,1,Richard Gasquet,R,31.36755647,Benoit Paire,R,28.47912389
+Hard,0,David Ferrer,R,35.57837098,Adrian Mannarino,L,29.33607118
+Hard,1,Julien Benneteau,R,35.86036961,Denis Shapovalov,L,18.54346338
+Hard,0,Gilles Simon,R,32.84052019,Jeremy Chardy,R,30.71321013
+Hard,0,Jan Lennard Struff,R,27.51540041,Borna Coric,R,20.95824778
+Hard,1,Peter Gojowczyk,R,28.29295003,Ryan Harrison,R,25.48117728
+Hard,1,Fernando Verdasco,L,33.95756331,Andrey Rublev,R,20.02737851
+Hard,0,Evgeny Donskoy,R,27.4770705,Kyle Edmund,R,22.80903491
+Hard,0,Pierre Hugues Herbert,R,26.6201232,Feliciano Lopez,L,36.10951403
+Hard,1,Grigor Dimitrov,R,26.49691992,David Goffin,R,26.93497604
+Hard,1,Grigor Dimitrov,R,26.49691992,Jack Sock,R,25.13620808
+Hard,0,Roger Federer,R,36.26557153,David Goffin,R,26.93497604
+Hard,1,Dominic Thiem,R,24.19438741,Pablo Carreno Busta,R,26.34086242
+Hard,1,Grigor Dimitrov,R,26.49691992,Pablo Carreno Busta,R,26.34086242
+Hard,1,Grigor Dimitrov,R,26.49691992,Dominic Thiem,R,24.19438741
+Hard,1,David Goffin,R,26.93497604,Dominic Thiem,R,24.19438741
+Hard,1,Grigor Dimitrov,R,26.49691992,David Goffin,R,26.93497604
+Hard,0,Alexander Zverev,R,20.56673511,Roger Federer,R,36.26557153
+Hard,1,Roger Federer,R,36.26557153,Marin Cilic,R,29.12525667
+Hard,1,Roger Federer,R,36.26557153,Jack Sock,R,25.13620808
+Hard,0,Marin Cilic,R,29.12525667,Alexander Zverev,R,20.56673511
+Hard,1,Jack Sock,R,25.13620808,Alexander Zverev,R,20.56673511
+Hard,1,Jack Sock,R,25.13620808,Marin Cilic,R,29.12525667
+Hard,0,Rafael Nadal,L,31.44695414,David Goffin,R,26.93497604
+Hard,1,David Goffin,R,26.954141,Lucas Pouille,R,23.73990418
+Hard,0,Steve Darcis,R,33.68925394,Jo Wilfried Tsonga,R,32.59411362
+Hard,1,David Goffin,R,26.954141,Jo Wilfried Tsonga,R,32.59411362
+Hard,1,Lucas Pouille,R,23.73990418,Steve Darcis,R,33.68925394
+Hard,1,Grigor Dimitrov,R,25.63449692,Kei Nishikori,R,27.01163587
+Hard,1,Grigor Dimitrov,R,25.63449692,Milos Raonic,R,26.01779603
+Hard,0,Stanislas Wawrinka,R,31.76728268,Kei Nishikori,R,27.01163587
+Hard,1,Milos Raonic,R,26.01779603,Rafael Nadal,L,30.58453114
+Hard,0,Dominic Thiem,R,23.33196441,Grigor Dimitrov,R,25.63449692
+Hard,1,Kei Nishikori,R,27.01163587,Jordan Thompson,R,22.70499658
+Hard,1,Stanislas Wawrinka,R,31.76728268,Kyle Edmund,R,21.98494182
+Hard,1,Milos Raonic,R,26.01779603,Diego Sebastian Schwartzman,R,24.38056126
+Hard,0,Mischa Zverev,L,29.36618754,Rafael Nadal,L,30.58453114
+Hard,0,Samuel Groth,R,29.2073922,Dominic Thiem,R,23.33196441
+Hard,0,Nicolas Mahut,R,34.9486653,Grigor Dimitrov,R,25.63449692
+Hard,1,Jordan Thompson,R,22.70499658,David Ferrer,R,34.75427789
+Hard,0,Jared Donaldson,R,20.23271732,Kei Nishikori,R,27.01163587
+Hard,1,Kyle Edmund,R,21.98494182,Lucas Pouille,R,22.85831622
+Hard,0,Viktor Troicki,R,30.89390828,Stanislas Wawrinka,R,31.76728268
+Hard,0,Sam Querrey,R,29.24024641,Diego Sebastian Schwartzman,R,24.38056126
+Hard,1,Mischa Zverev,L,29.36618754,Alex De Minaur,R,17.87542779
+Hard,0,Alexandr Dolgopolov,R,28.15331964,Rafael Nadal,L,30.58453114
+Hard,0,Pierre Hugues Herbert,R,25.79603012,Samuel Groth,R,29.2073922
+Hard,0,Stephane Robert,R,36.62970568,Nicolas Mahut,R,34.9486653
+Hard,0,Steve Johnson,R,27.02532512,Grigor Dimitrov,R,25.63449692
+Hard,1,David Ferrer,R,34.75427789,Bernard Tomic,R,24.19986311
+Hard,0,Elias Ymer,R,20.73100616,Jordan Thompson,R,22.70499658
+Hard,0,Gilles Muller,L,33.65366188,Jared Donaldson,R,20.23271732
+Hard,1,Lucas Pouille,R,22.85831622,Gilles Simon,R,32.0164271
+Hard,1,Kyle Edmund,R,21.98494182,Ernesto Escobedo,R,20.49828884
+Hard,0,Yoshihito Nishioka,L,21.26762491,Viktor Troicki,R,30.89390828
+Hard,0,Daniil Medvedev,R,20.89253936,Roberto Bautista Agut,R,28.72005476
+Hard,0,Dudi Sela,R,31.74811773,Daniil Medvedev,R,20.89253936
+Hard,0,Benoit Paire,R,27.6550308,Roberto Bautista Agut,R,28.72005476
+Hard,0,Jozef Kovalik,R,24.1615332,Daniil Medvedev,R,20.89253936
+Hard,0,Albert Ramos,L,28.96098563,Dudi Sela,R,31.74811773
+Hard,1,Benoit Paire,R,27.6550308,Aljaz Bedene,R,27.46064339
+Hard,0,Mikhail Youzhny,R,34.52429843,Roberto Bautista Agut,R,28.72005476
+Hard,0,Marin Cilic,R,28.26283368,Jozef Kovalik,R,24.1615332
+Hard,1,Daniil Medvedev,R,20.89253936,Yen Hsun Lu,R,33.38809035
+Hard,1,Albert Ramos,L,28.96098563,Steve Darcis,R,32.80766598
+Hard,0,Hyeon Chung,R,20.62422998,Dudi Sela,R,31.74811773
+Hard,1,Benoit Paire,R,27.6550308,Yuki Bhambri,R,24.49828884
+Hard,1,Aljaz Bedene,R,27.46064339,Martin Klizan,L,27.47980835
+Hard,0,Renzo Olivo,R,24.80219028,Mikhail Youzhny,R,34.52429843
+Hard,1,Roberto Bautista Agut,R,28.72005476,Rogerio Dutra Silva,R,32.91444216
+Hard,1,Jozef Kovalik,R,24.1615332,Gastao Elias,R,26.10814511
+Hard,0,Thiago Monteiro,L,22.5927447,Daniil Medvedev,R,20.89253936
+Hard,0,Radu Albot,R,27.1430527,Yen Hsun Lu,R,33.38809035
+Hard,0,Nikola Mektic,R,28.02464066,Steve Darcis,R,32.80766598
+Hard,1,Dudi Sela,R,31.74811773,Damir Dzumhur,R,24.62149213
+Hard,0,Borna Coric,R,20.13415469,Hyeon Chung,R,20.62422998
+Hard,0,Konstantin Kravchuk,R,31.85763176,Benoit Paire,R,27.6550308
+Hard,0,Ramkumar Ramanathan,R,22.15195072,Yuki Bhambri,R,24.49828884
+Hard,0,Guillermo Garcia Lopez,R,33.58247776,Aljaz Bedene,R,27.46064339
+Hard,0,Saketh Myneni,R,29.2073922,Mikhail Youzhny,R,34.52429843
+Hard,0,Casper Ruud,R,18.03148528,Renzo Olivo,R,24.80219028
+Hard,0,Dusan Lajovic,R,26.51060917,Rogerio Dutra Silva,R,32.91444216
+Hard,1,Novak Djokovic,R,29.61806982,Andy Murray,R,29.63723477
+Hard,0,Tomas Berdych,R,31.2936345,Andy Murray,R,29.63723477
+Hard,0,Fernando Verdasco,L,33.13347023,Novak Djokovic,R,29.61806982
+Hard,0,Nicolas Almagro,R,31.36755647,Andy Murray,R,29.63723477
+Hard,1,Tomas Berdych,R,31.2936345,Jo Wilfried Tsonga,R,31.71252567
+Hard,1,Fernando Verdasco,L,33.13347023,Ivo Karlovic,R,37.84531143
+Hard,1,Novak Djokovic,R,29.61806982,Radek Stepanek,R,38.09993155
+Hard,1,Andy Murray,R,29.63723477,Gerald Melzer,L,26.47501711
+Hard,1,Nicolas Almagro,R,31.36755647,Philipp Kohlschreiber,R,33.21560575
+Hard,0,Jiri Vesely,L,23.4825462,Tomas Berdych,R,31.2936345
+Hard,1,Jo Wilfried Tsonga,R,31.71252567,Dustin Brown,R,32.06844627
+Hard,0,Karen Khachanov,R,20.61875428,Ivo Karlovic,R,37.84531143
+Hard,0,David Goffin,R,26.07255305,Fernando Verdasco,L,33.13347023
+Hard,0,Arthur De Greef,R,24.76933607,Radek Stepanek,R,38.09993155
+Hard,0,Horacio Zeballos,L,31.68514716,Novak Djokovic,R,29.61806982
+Hard,0,Jeremy Chardy,R,29.88911704,Andy Murray,R,29.63723477
+Hard,0,Paul Henri Mathieu,R,34.97330595,Gerald Melzer,L,26.47501711
+Hard,0,Paolo Lorenzi,R,35.04996578,Nicolas Almagro,R,31.36755647
+Hard,0,Malek Jaziri,R,32.95277207,Philipp Kohlschreiber,R,33.21560575
+Hard,1,Tomas Berdych,R,31.2936345,Alessandro Giannessi,L,26.59548255
+Hard,1,Jiri Vesely,L,23.4825462,Anil Yuksel,L,26.6255989
+Hard,0,Facundo Bagnis,L,26.84736482,Dustin Brown,R,32.06844627
+Hard,1,Jo Wilfried Tsonga,R,31.71252567,Andrey Kuznetsov,R,25.86173854
+Hard,0,Illya Marchenko,R,29.31964408,Ivo Karlovic,R,37.84531143
+Hard,0,Mubarak Al Harrasi,U,21.72210815,Karen Khachanov,R,20.61875428
+Hard,1,Fernando Verdasco,L,33.13347023,Vasek Pospisil,R,26.52977413
+Hard,0,Robin Haase,R,29.74401095,David Goffin,R,26.07255305
+Hard,1,Radek Stepanek,R,38.09993155,Marcos Baghdatis,R,31.54551677
+Hard,0,Mohamed Safwat,R,26.28884326,Arthur De Greef,R,24.76933607
+Hard,0,Florian Mayer,R,33.24572211,Horacio Zeballos,L,31.68514716
+Hard,1,Novak Djokovic,R,29.61806982,Jan Lennard Struff,R,26.69130732
+Hard,0,Joao Sousa,R,27.78097194,Jack Sock,R,24.29295003
+Hard,1,Joao Sousa,R,27.78097194,Marcos Baghdatis,R,31.56468172
+Hard,1,Jack Sock,R,24.29295003,Steve Johnson,R,27.04449008
+Hard,0,Jiri Vesely,L,23.50171116,Marcos Baghdatis,R,31.56468172
+Hard,0,Robin Haase,R,29.76317591,Joao Sousa,R,27.78097194
+Hard,1,Jack Sock,R,24.29295003,Jeremy Chardy,R,29.908282
+Hard,1,Steve Johnson,R,27.04449008,John Isner,R,31.70704997
+Hard,1,Jiri Vesely,L,23.50171116,Jose Rubin Statham,R,29.71115674
+Hard,1,Marcos Baghdatis,R,31.56468172,Dustin Brown,R,32.08761123
+Hard,0,David Ferrer,R,34.77344285,Robin Haase,R,29.76317591
+Hard,1,Joao Sousa,R,27.78097194,Brydan Klein,R,27.02532512
+Hard,0,Ryan Harrison,R,24.67624914,Jack Sock,R,24.29295003
+Hard,0,Yen Hsun Lu,R,33.4072553,Steve Johnson,R,27.04449008
+Hard,0,Malek Jaziri,R,32.97193703,John Isner,R,31.70704997
+Hard,1,Jiri Vesely,L,23.50171116,Horacio Zeballos,L,31.70431212
+Hard,1,Dustin Brown,R,32.08761123,Michael Mmoh,R,18.99794661
+Hard,0,Adrian Mannarino,L,28.53114305,Marcos Baghdatis,R,31.56468172
+Hard,1,Robin Haase,R,29.76317591,Finn Tearney,R,26.28610541
+Hard,0,Facundo Bagnis,L,26.86652977,Brydan Klein,R,27.02532512
+Hard,1,Joao Sousa,R,27.78097194,Albert Ramos,L,28.98015058
+Hard,1,Feliciano Lopez,L,35.3045859,Michael Venus,R,29.23477071
+Hard,1,Jeremy Chardy,R,29.908282,Artem Sitak,R,30.91854894
+Hard,1,Ryan Harrison,R,24.67624914,Guillermo Garcia Lopez,R,33.60164271
+Hard,0,Stephane Robert,R,36.64887064,Steve Johnson,R,27.04449008
+Hard,0,Karen Khachanov,R,20.63791923,Yen Hsun Lu,R,33.4072553
+Hard,0,Diego Sebastian Schwartzman,R,24.39972621,Malek Jaziri,R,32.97193703
+Hard,0,Daniel Evans,R,26.63381246,Gilles Muller,L,33.67282683
+Hard,0,Dominic Thiem,R,23.35112936,Daniel Evans,R,26.63381246
+Hard,1,Andrey Kuznetsov,R,25.88090349,Pablo Carreno Busta,R,25.49760438
+Hard,1,Gilles Muller,L,33.67282683,Pablo Cuevas,R,31.02258727
+Hard,0,Gastao Elias,R,26.12731006,Dominic Thiem,R,23.35112936
+Hard,1,Daniel Evans,R,26.63381246,Marcel Granollers,R,30.74606434
+Hard,0,Mischa Zverev,L,29.3853525,Pablo Carreno Busta,R,25.49760438
+Hard,0,Alex De Minaur,R,17.89459274,Andrey Kuznetsov,R,25.88090349
+Hard,1,Philipp Kohlschreiber,R,33.23477071,Jordan Thompson,R,22.72416153
+Hard,0,Paolo Lorenzi,R,35.06913073,Viktor Troicki,R,30.91307324
+Hard,1,Gilles Muller,L,33.67282683,Matthew Barton,R,25.06228611
+Hard,1,Pablo Cuevas,R,31.02258727,Nicolas Mahut,R,34.96783025
+Hard,1,Gastao Elias,R,26.12731006,Christopher Oconnell,U,22.6036961
+Hard,1,Daniel Evans,R,26.63381246,Thiago Monteiro,L,22.61190965
+Hard,1,Marcel Granollers,R,30.74606434,Santiago Giraldo,R,29.11978097
+Hard,0,Nicolas Almagro,R,31.38672142,Mischa Zverev,L,29.3853525
+Hard,0,Benoit Paire,R,27.67419576,Alex De Minaur,R,17.89459274
+Hard,0,Martin Klizan,L,27.49897331,Andrey Kuznetsov,R,25.88090349
+Hard,1,Philipp Kohlschreiber,R,33.23477071,Fabio Fognini,R,29.63175907
+Hard,1,Jordan Thompson,R,22.72416153,Nikoloz Basilashvili,R,24.8788501
+Hard,1,Paolo Lorenzi,R,35.06913073,Florian Mayer,R,33.26488706
+Hard,1,Gilles Muller,L,33.67282683,Alexandr Dolgopolov,R,28.1724846
+Hard,1,Matthew Barton,R,25.06228611,Kyle Edmund,R,22.00410678
+Hard,1,Nicolas Mahut,R,34.96783025,Thomaz Bellucci,L,29.0294319
+Hard,1,Daniel Evans,R,26.63381246,Andrey Kuznetsov,R,25.88090349
+Hard,0,Viktor Troicki,R,30.91307324,Gilles Muller,L,33.67282683
+Hard,0,Illya Marchenko,R,29.35797399,Andy Murray,R,29.67556468
+Hard,0,Yen Hsun Lu,R,33.42642026,Andrey Rublev,R,19.24161533
+Hard,1,Alex De Minaur,R,17.9137577,Gerald Melzer,L,26.51334702
+Hard,1,Sam Querrey,R,29.27857632,Quentin Halys,R,20.22450376
+Hard,0,Konstantin Kravchuk,R,31.89596167,John Isner,R,31.72621492
+Hard,0,Guillermo Garcia Lopez,R,33.62080767,Mischa Zverev,L,29.40451745
+Hard,0,Go Soeda,R,32.36413415,Malek Jaziri,R,32.99110198
+Hard,1,Alexander Bublik,R,19.58384668,Lucas Pouille,R,22.89664613
+Hard,1,Tomas Berdych,R,31.33196441,Luca Vanni,R,31.61943874
+Hard,0,Nicolas Mahut,R,34.98699521,Ryan Harrison,R,24.6954141
+Hard,1,Noah Rubin,R,20.90349076,Bjorn Fratangelo,R,23.49623546
+Hard,0,Jurgen Melzer,L,35.6550308,Roger Federer,R,35.44147844
+Hard,0,Albert Ramos,L,28.99931554,Lukas Lacko,R,29.20465435
+Hard,0,Marcel Granollers,R,30.7652293,Dudi Sela,R,31.78644764
+Hard,1,Jeremy Chardy,R,29.92744695,Nicolas Almagro,R,31.40588638
+Hard,1,Kei Nishikori,R,27.04996578,Andrey Kuznetsov,R,25.90006845
+Hard,1,Stanislas Wawrinka,R,31.80561259,Martin Klizan,L,27.51813826
+Hard,0,Federico Delbonis,L,26.28336756,Steve Johnson,R,27.06365503
+Hard,1,Paolo Lorenzi,R,35.08829569,James Duckworth,R,24.98836413
+Hard,0,Damir Dzumhur,R,24.65982204,Viktor Troicki,R,30.93223819
+Hard,0,Pablo Cuevas,R,31.04175222,Diego Sebastian Schwartzman,R,24.41889117
+Hard,1,Steve Darcis,R,32.84599589,Samuel Groth,R,29.24572211
+Hard,0,Paul Henri Mathieu,R,35.01163587,Andreas Seppi,R,32.90349076
+Hard,0,Gastao Elias,R,26.14647502,Nick Kyrgios,R,21.724846
+Hard,1,Jo Wilfried Tsonga,R,31.75085558,Thiago Monteiro,L,22.63107461
+Hard,1,Dusan Lajovic,R,26.54893908,Stephane Robert,R,36.66803559
+Hard,0,Adrian Mannarino,L,28.55030801,Karen Khachanov,R,20.65708419
+Hard,0,Pierre Hugues Herbert,R,25.83436003,Jack Sock,R,24.31211499
+Hard,0,Thomaz Bellucci,L,29.04859685,Bernard Tomic,R,24.23819302
+Hard,0,Aljaz Bedene,R,27.49897331,Victor Estrella,R,36.45722108
+Hard,1,Daniel Evans,R,26.65297741,Facundo Bagnis,L,26.88569473
+Hard,1,Marin Cilic,R,28.30116359,Jerzy Janowicz,R,26.17659138
+Hard,1,Gael Monfils,R,30.37645448,Jiri Vesely,L,23.52087611
+Hard,1,Alexandr Dolgopolov,R,28.19164956,Borna Coric,R,20.1724846
+Hard,1,Donald Young,L,27.48528405,Thomas Fabbiano,R,27.6440794
+Hard,0,Nikoloz Basilashvili,R,24.89801506,Philipp Kohlschreiber,R,33.25393566
+Hard,0,Robin Haase,R,29.78234086,Alexander Zverev,R,19.74264203
+Hard,1,Francis Tiafoe,R,18.98973306,Mikhail Kukushkin,R,29.05954825
+Hard,1,Marcos Baghdatis,R,31.58384668,Mikhail Youzhny,R,34.56262834
+Hard,0,Florian Mayer,R,33.28405202,Rafael Nadal,L,30.62286105
+Hard,1,Roberto Bautista Agut,R,28.75838467,Guido Pella,L,26.66940452
+Hard,1,Yoshihito Nishioka,L,21.30595483,Alex Bolt,L,24.03011636
+Hard,1,Ernesto Escobedo,R,20.53661875,Daniil Medvedev,R,20.93086927
+Hard,1,David Ferrer,R,34.7926078,Omar Jasika,L,19.6659822
+Hard,1,Gilles Simon,R,32.05475702,Michael Mmoh,R,19.01711157
+Hard,0,Jared Donaldson,R,20.27104723,Rogerio Dutra Silva,R,32.95277207
+Hard,0,Taylor Harry Fritz,R,19.21971253,Gilles Muller,L,33.69199179
+Hard,1,Milos Raonic,R,26.05612594,Dustin Brown,R,32.10677618
+Hard,1,Dominic Thiem,R,23.37029432,Jan Lennard Struff,R,26.72963723
+Hard,1,Jordan Thompson,R,22.74332649,Joao Sousa,R,27.80013689
+Hard,1,Benoit Paire,R,27.69336071,Tommy Haas,R,38.78986995
+Hard,0,Feliciano Lopez,L,35.32375086,Fabio Fognini,R,29.65092402
+Hard,1,Ivo Karlovic,R,37.88364134,Horacio Zeballos,L,31.72347707
+Hard,1,Andrew Whittington,R,23.43326489,Adam Pavlasek,R,22.275154
+Hard,1,Radek Stepanek,R,38.13826146,Dmitry Tursunov,R,34.0971937
+Hard,0,Reilly Opelka,U,19.38672142,David Goffin,R,26.11088296
+Hard,1,Grigor Dimitrov,R,25.67282683,Christopher Oconnell,U,22.62286105
+Hard,0,Renzo Olivo,R,24.84052019,Hyeon Chung,R,20.66255989
+Hard,0,Radu Albot,R,27.18138261,Carlos Berlocq,R,33.95208761
+Hard,0,Blake Mott,U,20.73921971,Richard Gasquet,R,30.58179329
+Hard,0,Peter Polansky,R,28.58863792,Pablo Carreno Busta,R,25.51676934
+Hard,0,Santiago Giraldo,R,29.13894593,Kyle Edmund,R,22.02327173
+Hard,1,Denis Istomin,R,30.36002738,Ivan Dodig,R,32.03832991
+Hard,1,Novak Djokovic,R,29.65639973,Fernando Verdasco,L,33.17180014
+Hard,0,Andrey Rublev,R,19.24161533,Andy Murray,R,29.67556468
+Hard,1,Sam Querrey,R,29.27857632,Alex De Minaur,R,17.9137577
+Hard,1,Mischa Zverev,L,29.40451745,John Isner,R,31.72621492
+Hard,1,Malek Jaziri,R,32.99110198,Alexander Bublik,R,19.58384668
+Hard,0,Ryan Harrison,R,24.6954141,Tomas Berdych,R,31.33196441
+Hard,1,Roger Federer,R,35.44147844,Noah Rubin,R,20.90349076
+Hard,1,Lukas Lacko,R,29.20465435,Dudi Sela,R,31.78644764
+Hard,0,Jeremy Chardy,R,29.92744695,Kei Nishikori,R,27.04996578
+Hard,1,Stanislas Wawrinka,R,31.80561259,Steve Johnson,R,27.06365503
+Hard,0,Paolo Lorenzi,R,35.08829569,Viktor Troicki,R,30.93223819
+Hard,0,Diego Sebastian Schwartzman,R,24.41889117,Steve Darcis,R,32.84599589
+Hard,1,Andreas Seppi,R,32.90349076,Nick Kyrgios,R,21.724846
+Hard,1,Jo Wilfried Tsonga,R,31.75085558,Dusan Lajovic,R,26.54893908
+Hard,1,Jack Sock,R,24.31211499,Karen Khachanov,R,20.65708419
+Hard,0,Victor Estrella,R,36.45722108,Bernard Tomic,R,24.23819302
+Hard,0,Marin Cilic,R,28.30116359,Daniel Evans,R,26.65297741
+Hard,0,Alexandr Dolgopolov,R,28.19164956,Gael Monfils,R,30.37645448
+Hard,0,Donald Young,L,27.48528405,Philipp Kohlschreiber,R,33.25393566
+Hard,0,Francis Tiafoe,R,18.98973306,Alexander Zverev,R,19.74264203
+Hard,0,Marcos Baghdatis,R,31.58384668,Rafael Nadal,L,30.62286105
+Hard,1,Roberto Bautista Agut,R,28.75838467,Yoshihito Nishioka,L,21.30595483
+Hard,1,David Ferrer,R,34.7926078,Ernesto Escobedo,R,20.53661875
+Hard,0,Rogerio Dutra Silva,R,32.95277207,Gilles Simon,R,32.05475702
+Hard,0,Gilles Muller,L,33.69199179,Milos Raonic,R,26.05612594
+Hard,0,Jordan Thompson,R,22.74332649,Dominic Thiem,R,23.37029432
+Hard,1,Benoit Paire,R,27.69336071,Fabio Fognini,R,29.65092402
+Hard,1,Ivo Karlovic,R,37.88364134,Andrew Whittington,R,23.43326489
+Hard,1,David Goffin,R,26.11088296,Radek Stepanek,R,38.13826146
+Hard,1,Grigor Dimitrov,R,25.67282683,Hyeon Chung,R,20.66255989
+Hard,1,Richard Gasquet,R,30.58179329,Carlos Berlocq,R,33.95208761
+Hard,1,Pablo Carreno Busta,R,25.51676934,Kyle Edmund,R,22.02327173
+Hard,1,Denis Istomin,R,30.36002738,Novak Djokovic,R,29.65639973
+Hard,1,Andy Murray,R,29.67556468,Sam Querrey,R,29.27857632
+Hard,0,Malek Jaziri,R,32.99110198,Mischa Zverev,L,29.40451745
+Hard,0,Tomas Berdych,R,31.33196441,Roger Federer,R,35.44147844
+Hard,0,Lukas Lacko,R,29.20465435,Kei Nishikori,R,27.04996578
+Hard,0,Viktor Troicki,R,30.93223819,Stanislas Wawrinka,R,31.80561259
+Hard,1,Andreas Seppi,R,32.90349076,Steve Darcis,R,32.84599589
+Hard,1,Jo Wilfried Tsonga,R,31.75085558,Jack Sock,R,24.31211499
+Hard,1,Daniel Evans,R,26.65297741,Bernard Tomic,R,24.23819302
+Hard,0,Philipp Kohlschreiber,R,33.25393566,Gael Monfils,R,30.37645448
+Hard,0,Alexander Zverev,R,19.74264203,Rafael Nadal,L,30.62286105
+Hard,1,Roberto Bautista Agut,R,28.75838467,David Ferrer,R,34.7926078
+Hard,1,Milos Raonic,R,26.05612594,Gilles Simon,R,32.05475702
+Hard,1,Dominic Thiem,R,23.37029432,Benoit Paire,R,27.69336071
+Hard,0,Ivo Karlovic,R,37.88364134,David Goffin,R,26.11088296
+Hard,1,Grigor Dimitrov,R,25.67282683,Richard Gasquet,R,30.58179329
+Hard,0,Pablo Carreno Busta,R,25.51676934,Denis Istomin,R,30.36002738
+Hard,1,Mischa Zverev,L,29.40451745,Andy Murray,R,29.67556468
+Hard,0,Kei Nishikori,R,27.04996578,Roger Federer,R,35.44147844
+Hard,1,Stanislas Wawrinka,R,31.80561259,Andreas Seppi,R,32.90349076
+Hard,1,Jo Wilfried Tsonga,R,31.75085558,Daniel Evans,R,26.65297741
+Hard,1,Rafael Nadal,L,30.62286105,Gael Monfils,R,30.37645448
+Hard,1,Milos Raonic,R,26.05612594,Roberto Bautista Agut,R,28.75838467
+Hard,1,David Goffin,R,26.11088296,Dominic Thiem,R,23.37029432
+Hard,1,Grigor Dimitrov,R,25.67282683,Denis Istomin,R,30.36002738
+Hard,1,Roger Federer,R,35.44147844,Mischa Zverev,L,29.40451745
+Hard,0,Jo Wilfried Tsonga,R,31.75085558,Stanislas Wawrinka,R,31.80561259
+Hard,1,Rafael Nadal,L,30.62286105,Milos Raonic,R,26.05612594
+Hard,0,David Goffin,R,26.11088296,Grigor Dimitrov,R,25.67282683
+Hard,1,Roger Federer,R,35.44147844,Stanislas Wawrinka,R,31.80561259
+Hard,1,Rafael Nadal,L,30.62286105,Grigor Dimitrov,R,25.67282683
+Hard,1,Roger Federer,R,35.44147844,Rafael Nadal,L,30.62286105
+Hard,1,Nicolas Jarry,R,21.30595483,Jose Hernandez,U,26.88569473
+Hard,0,Roberto Cid,R,23.41957563,Christian Garin,R,20.67077344
+Hard,1,Marcelo Tomas Barrios Vera,U,19.14031485,Jose Olivares,0,20.06023272
+Hard,1,Nicolas Jarry,R,21.30595483,Nick Hardt,U,16.3613963
+None,1,Emilio Gomez,R,25.17453799,Juan Pablo Varillas Patino Samudio,R,21.31964408
+None,0,Mauricio Echazu,R,28.02464066,Roberto Quiroz,L,24.93634497
+None,1,Roberto Quiroz,L,24.93634497,Juan Pablo Varillas Patino Samudio,R,21.31964408
+None,0,Alexander Merino,L,24.41615332,Gonzalo Escobar,L,28.02737851
+None,1,Yuki Bhambri,R,24.57494867,Finn Tearney,R,26.34360027
+None,0,Jose Rubin Statham,R,29.76865161,Ramkumar Ramanathan,R,22.22861054
+None,0,Finn Tearney,R,26.34360027,Ramkumar Ramanathan,R,22.22861054
+None,0,Jose Rubin Statham,R,29.76865161,Yuki Bhambri,R,24.57494867
+None,1,Hyeon Chung,R,20.7008898,Sanjar Fayziev,U,22.50787132
+None,1,Denis Istomin,R,30.39835729,Duck Hee Lee,R,18.67488022
+None,1,Denis Istomin,R,30.39835729,Soon Woo Kwon,R,19.16221766
+None,1,Joao Sousa,R,27.8384668,Yshai Oliel,L,17.07049966
+None,1,Gastao Elias,R,26.18480493,Dudi Sela,R,31.82477755
+None,1,Frederico Ferreira Silva,L,21.87268994,Daniel Cukierman,U,21.5633128
+None,0,Yshai Oliel,L,17.07049966,Pedro Sousa,R,28.678987
+Hard,1,Mirza Basic,R,25.55509925,Kamil Majchrzak,R,21.04859685
+Hard,0,Hubert Hurkacz,R,19.96714579,Damir Dzumhur,R,24.69815195
+Hard,1,Damir Dzumhur,R,24.69815195,Kamil Majchrzak,R,21.04859685
+Hard,1,Tomislav Brkic,R,26.89664613,Hubert Hurkacz,R,19.96714579
+None,1,Adrian Ungur,R,32.01368925,Ilya Ivashka,R,22.93223819
+None,1,Egor Gerasimov,R,24.21902806,Marius Copil,R,26.28884326
+None,1,Marius Copil,R,26.28884326,Ilya Ivashka,R,22.93223819
+None,1,Egor Gerasimov,R,24.21902806,Adrian Ungur,R,32.01368925
+None,1,Martin Klizan,L,27.55646817,Attila Balazs,R,28.34223135
+None,0,Jozef Kovalik,R,24.23819302,Marton Fucsovics,R,24.97741273
+None,0,Martin Klizan,L,27.55646817,Marton Fucsovics,R,24.97741273
+None,1,Ricardo Rodriguez,R,23.75906913,Philip Wilbert Major,L,20.91444216
+None,1,Luis David Martinez,U,27.72073922,Spencer Newman,R,23.73716632
+None,0,Justin Lunn,U,25.62080767,Ricardo Rodriguez,R,23.75906913
+None,1,Jordi Munoz Abreu,U,27.03627652,Philip Wilbert Major,L,20.91444216
+None,1,Ayed Zatar,R,20.84052019,Haydn Lewis,L,31.07734428
+None,0,Bruno Britez,0,18.69130732,Darian King,R,24.76386037
+None,1,Darian King,R,24.76386037,Ayed Zatar,R,20.84052019
+None,0,Seanon Williams,R,25.97125257,Bruno Britez,0,18.69130732
+None,0,Alberto Emmanuel Alvarado Larin,U,22.16563997,Federico Zeballos,U,28.67077344
+None,1,Marcelo Arevalo,R,26.28884326,Hugo Dellien,R,23.62491444
+None,0,Federico Zeballos,U,28.67077344,Marcelo Arevalo,R,26.28884326
+None,1,Rodrigo Banzer,R,20.00273785,Alberto Emmanuel Alvarado Larin,U,22.16563997
+None,1,Wilfredo Gonzalez,R,24.06570842,Luis Patino,R,23.31827515
+None,0,Christopher Diaz Figueroa,R,26.88295688,Manuel Sanchez,R,26.0698152
+None,0,Gerardo Lopez Villasenor,U,0,Christopher Diaz Figueroa,R,26.88295688
+None,0,Alberto Lim,R,17.70568104,David Agung Susanto,U,25.53045859
+None,0,Aditya Hari Sasongko,U,28.57494867,Ruben Gonzales,R,31.38672142
+None,0,David Agung Susanto,U,25.53045859,Ruben Gonzales,R,31.38672142
+None,1,Alberto Lim,R,17.70568104,Anthony Susanto,U,19.69062286
+None,0,Abdullah Maqdas,U,29.83709788,Jirat Navasirisomboon,R,20.20260096
+None,1,Mohammad Ghareeb,R,36.52566735,Wishaya Trongcharoenchaikul,R,21.81519507
+None,0,Abdullah Maqdas,U,29.83709788,Wishaya Trongcharoenchaikul,R,21.81519507
+Hard,1,Aqeel Khan,R,37.00205339,Shahin Khaledan,R,26.65023956
+Hard,1,Aisam Ul Haq Qureshi,R,36.8733744,Anoosha Shahgholi,U,35.22245038
+Hard,1,Hamid Reza Nadaf,R,24.19712526,M Abid Ali Khan Akbar,U,26.52703628
+Hard,0,Mahammad Abid,U,22.66119097,Shahin Khaledan,R,26.65023956
+None,0,Thien Nguyen Hoang,R,21.88911704,Hong Kit Jack Wong,U,18.4202601
+None,0,Hei Yin Andrew Li,R,19.84394251,Nam Hoang Ly,R,19.92881588
+None,0,Hong Kit Jack Wong,U,18.4202601,Nam Hoang Ly,R,19.92881588
+None,0,Thien Nguyen Hoang,R,21.88911704,Karan Rastogi,R,30.31348392
+None,1,Nicolaas Scholtz,R,25.98494182,Jurgen Zopp,R,28.84052019
+None,1,Lloyd George Muirhead Harris,R,19.93155373,Vladimir Ivanov,R,29.80971937
+None,0,Mattias Siimar,U,18.98973306,Lloyd George Muirhead Harris,R,19.93155373
+None,0,Nicolaas Scholtz,R,25.98494182,Vladimir Ivanov,R,29.80971937
+None,1,Nikoloz Basilashvili,R,24.93634497,Eero Vasa,U,0
+None,1,Harri Heliovaara,R,27.65776865,George Tsivadze,U,24.07665982
+None,1,Nikoloz Basilashvili,R,24.93634497,Emil Ruusuvuori,R,17.83162218
+None,1,George Tsivadze,U,24.07665982,Patrik Niklas Salminen,U,19.90691307
+None,1,Laurynas Grigelis,R,25.46475017,Lucas Andriamasilalao,R,19.60574949
+None,1,Antso Rakotondramanga,U,28.53935661,Tadas Babelis,U,19.92881588
+None,0,Antso Rakotondramanga,U,28.53935661,Laurynas Grigelis,R,25.46475017
+None,1,Jean Jacques Rakotohasy,0,22.43942505,Tomas Vaise,U,19.02532512
+None,1,Frederik Nielsen,R,33.42915811,Amine Ahouda,U,19.38672142
+None,1,Reda El Amrani,R,28.7008898,Soren Hess Olesen,U,26.05886379
+None,1,Frederik Nielsen,R,33.42915811,Reda El Amrani,R,28.7008898
+None,0,Mehdi Jdi,R,28.13141684,Soren Hess Olesen,U,26.05886379
+None,0,Lucas Catarina,R,20.42984257,Blaz Kavcic,R,29.908282
+None,1,Grega Zemlja,R,30.33812457,Romain Arneodo,R,24.49007529
+None,1,Grega Zemlja,R,30.33812457,Lucas Catarina,R,20.42984257
+None,0,Tilen Zitnik,U,25.58247776,Thomas Oger,U,36.85968515
+None,0,Martins Podzus,R,22.59000684,Casper Ruud,R,18.10814511
+None,0,Mikelis Libietis,U,24.56125941,Viktor Durasovic,U,19.86858316
+None,0,Rudolfs Mednis,U,19.03080082,Simen Sunde Bratholm,R,17.91101985
+None,1,Viktor Durasovic,U,19.86858316,Arturs Lazdins,R,19.8110883
+Hard,0,Isak Arvidsson,R,24.48459959,Malek Jaziri,R,33.0294319
+Hard,0,Aziz Dougaz,U,0,Patrik Rosenholm,R,28.90622861
+Hard,1,Malek Jaziri,R,33.0294319,Patrik Rosenholm,R,28.90622861
+Hard,1,Isak Arvidsson,R,24.48459959,Aziz Dougaz,U,0
+None,0,Petros Chrysochos,R,20.81314168,Cem Ilkel,R,21.44558522
+None,0,Menelaos Efstathiou,U,17.91649555,Marsel Ilhan,R,29.63997262
+None,1,Marsel Ilhan,R,29.63997262,Petros Chrysochos,R,20.81314168
+None,1,Altug Celikbilek,U,20.39698836,Nicholas Campbell,U,46.03696099
+Clay,0,Guido Pella,L,26.70773443,Paolo Lorenzi,R,35.1266256
+Clay,0,Carlos Berlocq,R,33.99041752,Andreas Seppi,R,32.94182067
+Clay,0,Paolo Lorenzi,R,35.1266256,Carlos Berlocq,R,33.99041752
+Clay,0,Guido Pella,L,26.70773443,Fabio Fognini,R,29.68925394
+Hard,0,Philipp Kohlschreiber,R,33.29226557,Steve Darcis,R,32.8843258
+Hard,1,Alexander Zverev,R,19.78097194,Arthur De Greef,R,24.84599589
+Hard,0,Alexander Zverev,R,19.78097194,Steve Darcis,R,32.8843258
+Hard,1,Ruben Bemelmans,L,29.045859,Mischa Zverev,L,29.44284736
+Hard,1,Daniel Evans,R,26.69130732,Denis Shapovalov,L,17.79603012
+Hard,0,Kyle Edmund,R,22.06160164,Vasek Pospisil,R,26.60643395
+Hard,1,Vasek Pospisil,R,26.60643395,Daniel Evans,R,26.69130732
+Hard,0,Denis Shapovalov,L,17.79603012,Kyle Edmund,R,22.06160164
+Hard,0,Jiri Vesely,L,23.55920602,Jordan Thompson,R,22.7816564
+Hard,0,Jan Satral,R,26.52156057,Nick Kyrgios,R,21.76317591
+Hard,1,Jiri Vesely,L,23.55920602,Samuel Groth,R,29.28405202
+Hard,0,Jan Satral,R,26.52156057,Jordan Thompson,R,22.7816564
+Hard,0,Pablo Carreno Busta,R,25.55509925,Franco Skugor,R,29.36344969
+Hard,1,Roberto Bautista Agut,R,28.79671458,Ante Pavic,R,27.90143737
+Hard,0,Franco Skugor,R,29.36344969,Roberto Bautista Agut,R,28.79671458
+Hard,0,Nikola Mektic,R,28.10130048,Pablo Carreno Busta,R,25.55509925
+Hard,0,Taro Daniel,R,24.00821355,Richard Gasquet,R,30.6201232
+Hard,1,Gilles Simon,R,32.09308693,Yoshihito Nishioka,L,21.34428474
+Hard,0,Yoshihito Nishioka,L,21.34428474,Nicolas Mahut,R,35.02532512
+Hard,0,Pierre Hugues Herbert,R,25.87268994,Yasutaka Uchiyama,R,24.48733744
+Hard,1,Viktor Troicki,R,30.9705681,Karen Khachanov,R,20.6954141
+Hard,0,Daniil Medvedev,R,20.96919918,Novak Djokovic,R,29.69472964
+Hard,0,Konstantin Kravchuk,R,31.93429158,Dusan Lajovic,R,26.58726899
+Hard,1,Daniil Medvedev,R,20.96919918,Nenad Zimonjic,R,40.65708419
+Hard,0,Marco Chiudinelli,R,35.38945927,Jack Sock,R,24.3504449
+Hard,1,John Isner,R,31.76454483,Henri Laaksonen,R,24.83504449
+Hard,0,Adrien Bossel,L,30.091718,Sam Querrey,R,29.31690623
+Hard,1,Steve Johnson,R,27.10198494,Antoine Bellier,U,20.28473648
+Hard,0,Richard Gasquet,R,30.63928816,Alexander Zverev,R,19.80013689
+Hard,0,Benoit Paire,R,27.75085558,Richard Gasquet,R,30.63928816
+Hard,0,Jo Wilfried Tsonga,R,31.80835044,Alexander Zverev,R,19.80013689
+Hard,1,Benoit Paire,R,27.75085558,Dustin Brown,R,32.16427105
+Hard,1,Richard Gasquet,R,30.63928816,Kenny De Schepper,L,29.69472964
+Hard,1,Alexander Zverev,R,19.80013689,Jeremy Chardy,R,29.98494182
+Hard,1,Jo Wilfried Tsonga,R,31.80835044,Daniil Medvedev,R,20.98836413
+Hard,1,Dustin Brown,R,32.16427105,Marin Cilic,R,28.35865845
+Hard,1,Benoit Paire,R,27.75085558,Feliciano Lopez,L,35.38124572
+Hard,1,Richard Gasquet,R,30.63928816,Malek Jaziri,R,33.04859685
+Hard,0,Illya Marchenko,R,29.41546886,Kenny De Schepper,L,29.69472964
+Hard,1,Jeremy Chardy,R,29.98494182,Paul Henri Mathieu,R,35.06913073
+Hard,1,Alexander Zverev,R,19.80013689,Aljaz Bedene,R,27.55646817
+Hard,0,Fernando Verdasco,L,33.229295,Daniil Medvedev,R,20.98836413
+Hard,0,Pierre Hugues Herbert,R,25.89185489,Jo Wilfried Tsonga,R,31.80835044
+Hard,0,Guillermo Garcia Lopez,R,33.67830253,Dustin Brown,R,32.16427105
+Hard,0,Karen Khachanov,R,20.71457906,Benoit Paire,R,27.75085558
+Hard,0,Julien Benneteau,R,35.1321013,Feliciano Lopez,L,35.38124572
+Hard,1,Malek Jaziri,R,33.04859685,Tristan Lamasine,R,23.92607803
+Hard,0,Quentin Halys,R,20.28199863,Illya Marchenko,R,29.41546886
+Hard,1,Kenny De Schepper,L,29.69472964,Mischa Zverev,L,29.46201232
+Hard,1,Jeremy Chardy,R,29.98494182,Marcel Granollers,R,30.82272416
+Hard,1,Paul Henri Mathieu,R,35.06913073,Vincent Millot,L,31.01984942
+Hard,0,Borna Coric,R,20.22997947,Aljaz Bedene,R,27.55646817
+Hard,0,Gregoire Barrere,R,22.97330595,Fernando Verdasco,L,33.229295
+Hard,1,Daniil Medvedev,R,20.98836413,Tobias Kamke,R,30.71594798
+Hard,1,Pierre Hugues Herbert,R,25.89185489,Calvin Hemery,R,22.02600958
+Clay,0,Paolo Lorenzi,R,35.14579055,Victor Estrella,R,36.51471595
+Clay,0,Thomaz Bellucci,L,29.10609172,Victor Estrella,R,36.51471595
+Clay,1,Paolo Lorenzi,R,35.14579055,Albert Ramos,L,29.0568104
+Clay,1,Victor Estrella,R,36.51471595,Federico Gaio,R,24.92539357
+Clay,0,Renzo Olivo,R,24.89801506,Thomaz Bellucci,L,29.10609172
+Clay,1,Paolo Lorenzi,R,35.14579055,Rajeev Ram,R,32.88980151
+Clay,0,Roberto Carballes Baena,R,23.87679671,Albert Ramos,L,29.0568104
+Clay,1,Victor Estrella,R,36.51471595,Ivo Karlovic,R,37.94113621
+Clay,1,Federico Gaio,R,24.92539357,Gerald Melzer,L,26.57084189
+Clay,0,Janko Tipsarevic,R,32.62696783,Thomaz Bellucci,L,29.10609172
+Clay,0,Santiago Giraldo,R,29.19644079,Renzo Olivo,R,24.89801506
+Clay,1,Rajeev Ram,R,32.88980151,Nicolas Kicker,R,24.47638604
+Clay,1,Paolo Lorenzi,R,35.14579055,Matthew Ebden,R,29.19917864
+Clay,0,Giovanni Lapentti,R,34.03422313,Roberto Carballes Baena,R,23.87679671
+Clay,0,Alejandro Falla,L,33.23203285,Albert Ramos,L,29.0568104
+Clay,1,Victor Estrella,R,36.51471595,Andrej Martin,R,27.38124572
+Clay,1,Federico Gaio,R,24.92539357,Joao Souza,R,28.69815195
+Clay,0,Horacio Zeballos,L,31.78097194,Gerald Melzer,L,26.57084189
+Clay,1,Janko Tipsarevic,R,32.62696783,Daniel Gimeno Traver,R,31.50171116
+Clay,1,Santiago Giraldo,R,29.19644079,Benjamin Becker,R,35.6440794
+Clay,0,Emilio Gomez,R,25.19370294,Renzo Olivo,R,24.89801506
+Clay,0,Alexandr Dolgopolov,R,28.24914442,Rajeev Ram,R,32.88980151
+Clay,0,Guido Andreozzi,R,25.50855578,Nicolas Kicker,R,24.47638604
+Clay,1,Matthew Ebden,R,29.19917864,Agustin Velotti,R,24.7063655
+Clay,1,Giovanni Lapentti,R,34.03422313,Thiago Monteiro,L,22.68856947
+Clay,1,Roberto Carballes Baena,R,23.87679671,Rogerio Dutra Silva,R,33.01026694
+Clay,1,Alejandro Falla,L,33.23203285,Alessandro Giannessi,L,26.69130732
+Hard,0,David Goffin,R,26.16837782,Grigor Dimitrov,R,25.7303217
+Hard,1,Grigor Dimitrov,R,25.7303217,Nikoloz Basilashvili,R,24.95550992
+Hard,1,David Goffin,R,26.16837782,Roberto Bautista Agut,R,28.81587953
+Hard,0,Martin Klizan,L,27.57563313,Nikoloz Basilashvili,R,24.95550992
+Hard,1,Grigor Dimitrov,R,25.7303217,Viktor Troicki,R,30.98973306
+Hard,1,Roberto Bautista Agut,R,28.81587953,Gilles Muller,L,33.74948665
+Hard,1,David Goffin,R,26.16837782,Steve Darcis,R,32.90349076
+Hard,1,Nikoloz Basilashvili,R,24.95550992,Dominic Thiem,R,23.42778919
+Hard,0,Daniel Brands,R,29.56057495,Martin Klizan,L,27.57563313
+Hard,0,Jerzy Janowicz,R,26.23408624,Grigor Dimitrov,R,25.7303217
+Hard,1,Viktor Troicki,R,30.98973306,Robin Haase,R,29.83983573
+Hard,0,Mikhail Youzhny,R,34.6201232,Gilles Muller,L,33.74948665
+Hard,0,Cedrik Marcel Stebe,L,26.32991102,Roberto Bautista Agut,R,28.81587953
+Hard,0,Andreas Seppi,R,32.96098563,Steve Darcis,R,32.90349076
+Hard,0,Radu Albot,R,27.23887748,David Goffin,R,26.16837782
+Hard,0,Adrian Mannarino,L,28.60780287,Nikoloz Basilashvili,R,24.95550992
+Hard,1,Daniel Brands,R,29.56057495,Marco Chiudinelli,R,35.40862423
+Hard,0,Andrey Kuznetsov,R,25.95756331,Martin Klizan,L,27.57563313
+Hard,1,Jerzy Janowicz,R,26.23408624,Dudi Sela,R,31.84394251
+Hard,1,Robin Haase,R,29.83983573,Dimitar Kuzmanov,R,23.52908966
+Hard,1,Viktor Troicki,R,30.98973306,Cem Ilkel,R,21.46475017
+Hard,1,Gilles Muller,L,33.74948665,Mathias Bourgue,R,23.05270363
+Hard,0,Marko Tepavac,R,22.84188912,Mikhail Youzhny,R,34.6201232
+Hard,1,Cedrik Marcel Stebe,L,26.32991102,Teymuraz Gabashvili,R,31.70978782
+Hard,1,Steve Darcis,R,32.90349076,Maximilian Marterer,L,21.64818617
+Hard,0,Damir Dzumhur,R,24.71731691,Andreas Seppi,R,32.96098563
+Hard,0,Alexandar Lazarov,R,19.25256674,Radu Albot,R,27.23887748
+Clay,0,Kei Nishikori,R,27.1266256,Alexandr Dolgopolov,R,28.26830938
+Clay,1,Kei Nishikori,R,27.1266256,Carlos Berlocq,R,34.02874743
+Clay,0,Pablo Carreno Busta,R,25.59342916,Alexandr Dolgopolov,R,28.26830938
+Clay,1,Kei Nishikori,R,27.1266256,Joao Sousa,R,27.87679671
+Clay,0,Thiago Monteiro,L,22.70773443,Carlos Berlocq,R,34.02874743
+Clay,1,Pablo Carreno Busta,R,25.59342916,Albert Ramos,L,29.07597536
+Clay,1,Alexandr Dolgopolov,R,28.26830938,Gerald Melzer,L,26.59000684
+Clay,1,Kei Nishikori,R,27.1266256,Diego Sebastian Schwartzman,R,24.49555099
+Clay,0,Federico Delbonis,L,26.36002738,Joao Sousa,R,27.87679671
+Clay,1,Carlos Berlocq,R,34.02874743,David Ferrer,R,34.86926762
+Clay,1,Thiago Monteiro,L,22.70773443,Tommy Robredo,R,34.78986995
+Clay,0,Leonardo Mayer,R,29.7522245,Albert Ramos,L,29.07597536
+Clay,0,Alessandro Giannessi,L,26.71047228,Pablo Carreno Busta,R,25.59342916
+Clay,1,Gerald Melzer,L,26.59000684,Guido Andreozzi,R,25.52772074
+Clay,1,Alexandr Dolgopolov,R,28.26830938,Pablo Cuevas,R,31.11841205
+Clay,1,Diego Sebastian Schwartzman,R,24.49555099,Facundo Bagnis,L,26.96235455
+Clay,0,Stephane Robert,R,36.74469541,Federico Delbonis,L,26.36002738
+Clay,0,Horacio Zeballos,L,31.80013689,Joao Sousa,R,27.87679671
+Clay,1,Carlos Berlocq,R,34.02874743,Jozef Kovalik,R,24.27652293
+Clay,1,Thiago Monteiro,L,22.70773443,Victor Estrella,R,36.5338809
+Clay,0,Fabio Fognini,R,29.72758385,Tommy Robredo,R,34.78986995
+Clay,0,Guido Pella,L,26.74606434,Albert Ramos,L,29.07597536
+Clay,1,Leonardo Mayer,R,29.7522245,Gastao Elias,R,26.22313484
+Clay,0,Rogerio Dutra Silva,R,33.0294319,Alessandro Giannessi,L,26.71047228
+Clay,1,Gerald Melzer,L,26.59000684,Paolo Lorenzi,R,35.16495551
+Clay,0,Renzo Olivo,R,24.91718001,Guido Andreozzi,R,25.52772074
+Clay,1,Alexandr Dolgopolov,R,28.26830938,Janko Tipsarevic,R,32.64613279
+Hard,0,Nikoloz Basilashvili,R,24.97467488,Ryan Harrison,R,24.77207392
+Hard,1,Nikoloz Basilashvili,R,24.97467488,Mikhail Kukushkin,R,29.13620808
+Hard,0,Donald Young,L,27.56194387,Ryan Harrison,R,24.77207392
+Hard,1,Nikoloz Basilashvili,R,24.97467488,Matthew Ebden,R,29.2183436
+Hard,1,Mikhail Kukushkin,R,29.13620808,Steve Johnson,R,27.14031485
+Hard,1,Ryan Harrison,R,24.77207392,Damir Dzumhur,R,24.73648186
+Hard,1,Donald Young,L,27.56194387,John Isner,R,31.80287474
+Hard,0,Ivo Karlovic,R,37.96030116,Nikoloz Basilashvili,R,24.97467488
+Hard,1,Matthew Ebden,R,29.2183436,Taylor Harry Fritz,R,19.29637235
+Hard,1,Steve Johnson,R,27.14031485,Tim Smyczek,R,29.12525667
+Hard,1,Mikhail Kukushkin,R,29.13620808,Darian King,R,24.80219028
+Hard,0,Steve Darcis,R,32.92265572,Damir Dzumhur,R,24.73648186
+Hard,1,Ryan Harrison,R,24.77207392,Sam Querrey,R,29.35523614
+Hard,0,Reilly Opelka,U,19.46338125,Donald Young,L,27.56194387
+Hard,1,John Isner,R,31.80287474,Yoshihito Nishioka,L,21.38261465
+Hard,0,Jordan Thompson,R,22.81998631,Nikoloz Basilashvili,R,24.97467488
+Hard,1,Matthew Ebden,R,29.2183436,Peter Polansky,R,28.66529774
+Hard,1,Taylor Harry Fritz,R,19.29637235,Yen Hsun Lu,R,33.50308008
+Hard,1,Tim Smyczek,R,29.12525667,Francis Tiafoe,R,19.06639288
+Hard,1,Mikhail Kukushkin,R,29.13620808,Benjamin Becker,R,35.66324435
+Hard,0,Bernard Tomic,R,24.31485284,Darian King,R,24.80219028
+Hard,1,Steve Darcis,R,32.92265572,Radu Albot,R,27.25804244
+Hard,0,Kevin Anderson,R,30.74332649,Damir Dzumhur,R,24.73648186
+Hard,0,Konstantin Kravchuk,R,31.97262149,Ryan Harrison,R,24.77207392
+Hard,0,Adrian Mannarino,L,28.62696783,Donald Young,L,27.56194387
+Hard,1,Reilly Opelka,U,19.46338125,Jared Donaldson,R,20.34770705
+Hard,1,Yoshihito Nishioka,L,21.38261465,Guillermo Garcia Lopez,R,33.69746749
+Hard,1,Jo Wilfried Tsonga,R,31.8275154,David Goffin,R,26.18754278
+Hard,0,Tomas Berdych,R,31.40862423,Jo Wilfried Tsonga,R,31.8275154
+Hard,1,David Goffin,R,26.18754278,Pierre Hugues Herbert,R,25.91101985
+Hard,0,Marin Cilic,R,28.37782341,Jo Wilfried Tsonga,R,31.8275154
+Hard,1,Tomas Berdych,R,31.40862423,Martin Klizan,L,27.59479808
+Hard,0,Grigor Dimitrov,R,25.74948665,David Goffin,R,26.18754278
+Hard,0,Dominic Thiem,R,23.44695414,Pierre Hugues Herbert,R,25.91101985
+Hard,1,Marin Cilic,R,28.37782341,Borna Coric,R,20.24914442
+Hard,0,Gilles Muller,L,33.76865161,Jo Wilfried Tsonga,R,31.8275154
+Hard,0,Richard Gasquet,R,30.65845311,Tomas Berdych,R,31.40862423
+Hard,0,Philipp Kohlschreiber,R,33.33059548,Martin Klizan,L,27.59479808
+Hard,1,Grigor Dimitrov,R,25.74948665,Denis Istomin,R,30.4366872
+Hard,1,David Goffin,R,26.18754278,Robin Haase,R,29.85900068
+Hard,1,Pierre Hugues Herbert,R,25.91101985,Evgeny Donskoy,R,26.76796715
+Hard,0,Gilles Simon,R,32.13141684,Dominic Thiem,R,23.44695414
+Hard,0,Benoit Paire,R,27.77002053,Marin Cilic,R,28.37782341
+Hard,0,Karen Khachanov,R,20.73374401,Borna Coric,R,20.24914442
+Hard,0,Tallon Griekspoor,R,20.61875428,Gilles Muller,L,33.76865161
+Hard,0,Stefanos Tsitsipas,R,18.50787132,Jo Wilfried Tsonga,R,31.8275154
+Hard,0,Marius Copil,R,26.32717317,Tomas Berdych,R,31.40862423
+Hard,1,Richard Gasquet,R,30.65845311,Viktor Troicki,R,31.00889802
+Hard,1,Martin Klizan,L,27.59479808,Fernando Verdasco,L,33.24845996
+Hard,1,Philipp Kohlschreiber,R,33.33059548,Lucas Pouille,R,22.97330595
+Hard,0,Mischa Zverev,L,29.48117728,Grigor Dimitrov,R,25.74948665
+Hard,1,Denis Istomin,R,30.4366872,Aljaz Bedene,R,27.57563313
+Hard,1,Robin Haase,R,29.85900068,Florian Mayer,R,33.36071184
+Hard,1,David Goffin,R,26.18754278,Andrey Kuznetsov,R,25.97672827
+Hard,1,Evgeny Donskoy,R,26.76796715,Marcel Granollers,R,30.84188912
+Hard,0,Feliciano Lopez,L,35.40041068,Pierre Hugues Herbert,R,25.91101985
+Hard,0,Nicolas Mahut,R,35.06365503,Gilles Simon,R,32.13141684
+Hard,0,Alexander Zverev,R,19.81930185,Dominic Thiem,R,23.44695414
+None,1,Zhe Li,R,30.40109514,Ti Chen,R,33.36618754
+None,1,Yibing Wu,R,17.33607118,Jason Jung,R,27.6659822
+None,1,Zhe Li,R,30.40109514,Kuan Yi Lee,U,20.42984257
+None,1,Zhizhen Zhang,U,20.32854209,Hsien Yin Peng,U,27.14579055
+Hard,0,Juan Martin Del Potro,R,28.41067762,Milos Raonic,R,26.15195072
+Hard,0,Donald Young,L,27.58110883,Jack Sock,R,24.40793977
+Hard,0,Kyle Edmund,R,22.11909651,Milos Raonic,R,26.15195072
+Hard,1,Juan Martin Del Potro,R,28.41067762,Sam Querrey,R,29.3744011
+Hard,1,Jack Sock,R,24.40793977,Steve Johnson,R,27.15947981
+Hard,1,Milos Raonic,R,26.15195072,Borna Coric,R,20.26830938
+Hard,1,Kyle Edmund,R,22.11909651,Yen Hsun Lu,R,33.52224504
+Hard,0,Jared Donaldson,R,20.36687201,Sam Querrey,R,29.3744011
+Hard,1,Juan Martin Del Potro,R,28.41067762,Damir Dzumhur,R,24.75564682
+Hard,0,Yoshihito Nishioka,L,21.4017796,Steve Johnson,R,27.15947981
+Hard,0,Guillermo Garcia Lopez,R,33.71663244,Jack Sock,R,24.40793977
+Hard,1,Steve Darcis,R,32.94182067,Nikoloz Basilashvili,R,24.99383984
+Hard,1,Donald Young,L,27.58110883,Taylor Harry Fritz,R,19.3155373
+Hard,0,Tim Smyczek,R,29.14442163,Milos Raonic,R,26.15195072
+Hard,1,Borna Coric,R,20.26830938,Santiago Giraldo,R,29.23477071
+Hard,0,Bjorn Fratangelo,R,23.59206023,Yen Hsun Lu,R,33.52224504
+Hard,0,Adrian Mannarino,L,28.64613279,Kyle Edmund,R,22.11909651
+Hard,1,Sam Querrey,R,29.3744011,Dudi Sela,R,31.88227242
+Hard,0,Mikhail Kukushkin,R,29.15537303,Jared Donaldson,R,20.36687201
+Hard,1,Damir Dzumhur,R,24.75564682,Konstantin Kravchuk,R,31.99178645
+Hard,1,Juan Martin Del Potro,R,28.41067762,Kevin Anderson,R,30.76249144
+Hard,1,Steve Johnson,R,27.15947981,Stefan Kozlov,R,19.05270363
+Hard,1,Yoshihito Nishioka,L,21.4017796,Kimmer Coppejans,R,23.03627652
+Hard,0,Dustin Brown,R,32.20260096,Guillermo Garcia Lopez,R,33.71663244
+Hard,0,Radu Albot,R,27.27720739,Jack Sock,R,24.40793977
+Hard,0,Bernard Tomic,R,24.3340178,Steve Darcis,R,32.94182067
+Hard,0,Tommy Haas,R,38.88569473,Nikoloz Basilashvili,R,24.99383984
+Hard,1,Taylor Harry Fritz,R,19.3155373,Akira Santillan,R,19.75085558
+Hard,0,Ivo Karlovic,R,37.97946612,Donald Young,L,27.58110883
+Hard,0,Lucas Pouille,R,22.99247091,Jo Wilfried Tsonga,R,31.84668036
+Hard,0,Richard Gasquet,R,30.67761807,Lucas Pouille,R,22.99247091
+Hard,0,Nick Kyrgios,R,21.82067077,Jo Wilfried Tsonga,R,31.84668036
+Hard,0,Gael Monfils,R,30.47227926,Richard Gasquet,R,30.67761807
+Hard,1,Lucas Pouille,R,22.99247091,Daniil Medvedev,R,21.02669405
+Hard,0,Norbert Gombos,R,26.52429843,Nick Kyrgios,R,21.82067077
+Hard,1,Jo Wilfried Tsonga,R,31.84668036,Gilles Simon,R,32.15058179
+Hard,0,Sergiy Stakhovsky,R,31.12388775,Gael Monfils,R,30.47227926
+Hard,0,Mikhail Youzhny,R,34.65845311,Richard Gasquet,R,30.67761807
+Hard,1,Lucas Pouille,R,22.99247091,Aljaz Bedene,R,27.59479808
+Hard,1,Daniil Medvedev,R,21.02669405,Jan Lennard Struff,R,26.82546201
+Hard,0,Nicolas Mahut,R,35.08281999,Norbert Gombos,R,26.52429843
+Hard,0,Malek Jaziri,R,33.08692676,Nick Kyrgios,R,21.82067077
+Hard,1,Gilles Simon,R,32.15058179,Julien Benneteau,R,35.17043121
+Hard,0,Illya Marchenko,R,29.45379877,Jo Wilfried Tsonga,R,31.84668036
+Hard,0,Jiri Vesely,L,23.61670089,Sergiy Stakhovsky,R,31.12388775
+Hard,0,Stefanos Tsitsipas,R,18.52703628,Mikhail Youzhny,R,34.65845311
+Hard,0,Robin Haase,R,29.87816564,Richard Gasquet,R,30.67761807
+Hard,0,Paul Henri Mathieu,R,35.10746064,Aljaz Bedene,R,27.59479808
+Hard,1,Jan Lennard Struff,R,26.82546201,Jeremy Chardy,R,30.02327173
+Hard,0,Benoit Paire,R,27.78918549,Daniil Medvedev,R,21.02669405
+Hard,1,Nicolas Mahut,R,35.08281999,Alexander Zverev,R,19.8384668
+Hard,0,Evgeny Donskoy,R,26.7871321,Norbert Gombos,R,26.52429843
+Hard,0,Andrey Kuznetsov,R,25.99589322,Malek Jaziri,R,33.08692676
+Hard,1,Gilles Simon,R,32.15058179,Karen Khachanov,R,20.75290897
+Hard,1,Julien Benneteau,R,35.17043121,Denis Shapovalov,L,17.85352498
+Hard,0,Andrey Rublev,R,19.33744011,Illya Marchenko,R,29.45379877
+Clay,0,Pablo Carreno Busta,R,25.61259411,Dominic Thiem,R,23.4661191
+Clay,1,Pablo Carreno Busta,R,25.61259411,Casper Ruud,R,18.16563997
+Clay,0,Albert Ramos,L,29.09514031,Dominic Thiem,R,23.4661191
+Clay,1,Casper Ruud,R,18.16563997,Thiago Monteiro,L,22.72689938
+Clay,1,Pablo Carreno Busta,R,25.61259411,Alexandr Dolgopolov,R,28.28747433
+Clay,1,Albert Ramos,L,29.09514031,Nicolas Kicker,R,24.51471595
+Clay,1,Dominic Thiem,R,23.4661191,Diego Sebastian Schwartzman,R,24.51471595
+Clay,1,Thiago Monteiro,L,22.72689938,Thomaz Bellucci,L,29.14442163
+Clay,0,Roberto Carballes Baena,R,23.91512663,Casper Ruud,R,18.16563997
+Clay,1,Pablo Carreno Busta,R,25.61259411,Victor Estrella,R,36.55304586
+Clay,1,Alexandr Dolgopolov,R,28.28747433,Horacio Zeballos,L,31.81930185
+Clay,1,Albert Ramos,L,29.09514031,Fabio Fognini,R,29.7467488
+Clay,0,Arthur De Greef,R,24.90349076,Nicolas Kicker,R,24.51471595
+Clay,0,Federico Delbonis,L,26.37919233,Diego Sebastian Schwartzman,R,24.51471595
+Clay,1,Dominic Thiem,R,23.4661191,Dusan Lajovic,R,26.64476386
+Clay,0,Kei Nishikori,R,27.14579055,Thomaz Bellucci,L,29.14442163
+Clay,1,Thiago Monteiro,L,22.72689938,Gastao Elias,R,26.24229979
+Clay,1,Casper Ruud,R,18.16563997,Rogerio Dutra Silva,R,33.04859685
+Clay,1,Roberto Carballes Baena,R,23.91512663,Joao Sousa,R,27.89596167
+Clay,0,Joao Souza,R,28.73648186,Pablo Carreno Busta,R,25.61259411
+Clay,1,Victor Estrella,R,36.55304586,Guido Pella,L,26.7652293
+Clay,1,Horacio Zeballos,L,31.81930185,Carlos Berlocq,R,34.04791239
+Clay,1,Alexandr Dolgopolov,R,28.28747433,David Ferrer,R,34.88843258
+Clay,0,Stephane Robert,R,36.76386037,Albert Ramos,L,29.09514031
+Clay,0,Tommy Robredo,R,34.80903491,Fabio Fognini,R,29.7467488
+Clay,0,Marco Cecchinato,R,24.39151266,Nicolas Kicker,R,24.51471595
+Clay,0,Pablo Cuevas,R,31.137577,Arthur De Greef,R,24.90349076
+Clay,0,Paolo Lorenzi,R,35.18412047,Federico Delbonis,L,26.37919233
+Clay,1,Diego Sebastian Schwartzman,R,24.51471595,Renzo Olivo,R,24.93634497
+Clay,1,Dusan Lajovic,R,26.64476386,Facundo Bagnis,L,26.98151951
+Clay,0,Janko Tipsarevic,R,32.66529774,Dominic Thiem,R,23.4661191
+Hard,0,Rafael Nadal,L,30.73785079,Sam Querrey,R,29.39356605
+Hard,1,Sam Querrey,R,29.39356605,Nick Kyrgios,R,21.83983573
+Hard,1,Rafael Nadal,L,30.73785079,Marin Cilic,R,28.41615332
+Hard,1,Nick Kyrgios,R,21.83983573,Novak Djokovic,R,29.77138946
+Hard,1,Sam Querrey,R,29.39356605,Dominic Thiem,R,23.48528405
+Hard,1,Rafael Nadal,L,30.73785079,Yoshihito Nishioka,L,21.42094456
+Hard,0,Juan Martin Del Potro,R,28.42984257,Novak Djokovic,R,29.77138946
+Hard,0,Donald Young,L,27.60027379,Nick Kyrgios,R,21.83983573
+Hard,1,Dominic Thiem,R,23.48528405,Adrian Mannarino,L,28.66529774
+Hard,0,David Goffin,R,26.22587269,Sam Querrey,R,29.39356605
+Hard,1,Steve Johnson,R,27.17864476,Ernesto Escobedo,R,20.65160849
+Hard,1,Marin Cilic,R,28.41615332,Borna Coric,R,20.28747433
+Hard,1,Yoshihito Nishioka,L,21.42094456,Jordan Thompson,R,22.85831622
+Hard,1,Rafael Nadal,L,30.73785079,Paolo Lorenzi,R,35.20328542
+Hard,1,Novak Djokovic,R,29.77138946,Martin Klizan,L,27.63312799
+Hard,0,Francis Tiafoe,R,19.10472279,Juan Martin Del Potro,R,28.42984257
+Hard,0,Bernard Tomic,R,24.35318275,Donald Young,L,27.60027379
+Hard,1,Nick Kyrgios,R,21.83983573,Dudi Sela,R,31.90143737
+Hard,0,Gilles Simon,R,32.16974675,Dominic Thiem,R,23.48528405
+Hard,0,Taylor Harry Fritz,R,19.33470226,Adrian Mannarino,L,28.66529774
+Hard,0,Kyle Edmund,R,22.13826146,Sam Querrey,R,29.39356605
+Hard,0,Stephane Robert,R,36.78302533,David Goffin,R,26.22587269
+Hard,1,Steve Johnson,R,27.17864476,John Isner,R,31.84120465
+Hard,0,Stefan Kozlov,R,19.07186858,Ernesto Escobedo,R,20.65160849
+Hard,1,Borna Coric,R,20.28747433,Lucas Gomez,U,21.54962355
+Hard,0,Alexandr Dolgopolov,R,28.30663929,Marin Cilic,R,28.41615332
+Hard,1,Yoshihito Nishioka,L,21.42094456,Jack Sock,R,24.42710472
+Hard,1,Jordan Thompson,R,22.85831622,Feliciano Lopez,L,35.43874059
+Hard,1,Paolo Lorenzi,R,35.20328542,Yen Hsun Lu,R,33.54140999
+Hard,0,Mischa Zverev,L,29.51950719,Rafael Nadal,L,30.73785079
+Hard,0,Fernando Verdasco,L,33.28678987,Andy Murray,R,29.79055441
+Hard,0,Lucas Pouille,R,23.01163587,Andy Murray,R,29.79055441
+Hard,0,Robin Haase,R,29.8973306,Fernando Verdasco,L,33.28678987
+Hard,1,Andy Murray,R,29.79055441,Philipp Kohlschreiber,R,33.36892539
+Hard,1,Lucas Pouille,R,23.01163587,Evgeny Donskoy,R,26.80629706
+Hard,0,Gael Monfils,R,30.49144422,Fernando Verdasco,L,33.28678987
+Hard,0,Damir Dzumhur,R,24.77481177,Robin Haase,R,29.8973306
+Hard,0,Guillermo Garcia Lopez,R,33.7357974,Andy Murray,R,29.79055441
+Hard,0,Daniil Medvedev,R,21.045859,Philipp Kohlschreiber,R,33.36892539
+Hard,0,Roger Federer,R,35.55646817,Evgeny Donskoy,R,26.80629706
+Hard,1,Lucas Pouille,R,23.01163587,Marius Copil,R,26.36550308
+Hard,1,Fernando Verdasco,L,33.28678987,Roberto Bautista Agut,R,28.8733744
+Hard,0,Daniel Evans,R,26.76796715,Gael Monfils,R,30.49144422
+Hard,1,Robin Haase,R,29.8973306,Tomas Berdych,R,31.44695414
+Hard,0,Marcel Granollers,R,30.88021903,Damir Dzumhur,R,24.77481177
+Hard,0,Malek Jaziri,R,33.10609172,Andy Murray,R,29.79055441
+Hard,0,Viktor Troicki,R,31.04722793,Guillermo Garcia Lopez,R,33.7357974
+Hard,0,Omar Awadhy,R,35.1156742,Daniil Medvedev,R,21.045859
+Hard,1,Philipp Kohlschreiber,R,33.36892539,Gilles Muller,L,33.80698152
+Hard,0,Benoit Paire,R,27.80835044,Roger Federer,R,35.55646817
+Hard,1,Evgeny Donskoy,R,26.80629706,Mikhail Youzhny,R,34.67761807
+Hard,0,Jan Lennard Struff,R,26.84462697,Marius Copil,R,26.36550308
+Hard,1,Lucas Pouille,R,23.01163587,Adam Pavlasek,R,22.39014374
+Hard,0,Karen Khachanov,R,20.77207392,Roberto Bautista Agut,R,28.8733744
+Hard,0,Andreas Seppi,R,33.01848049,Fernando Verdasco,L,33.28678987
+Hard,0,Dustin Brown,R,32.22176591,Daniel Evans,R,26.76796715
+Hard,1,Gael Monfils,R,30.49144422,Mohamed Safwat,R,26.4421629
+Hard,0,Lukas Rosol,R,31.59753593,Tomas Berdych,R,31.44695414
+Hard,1,Robin Haase,R,29.8973306,Denis Istomin,R,30.47501711
+Hard,1,Marcel Granollers,R,30.88021903,Jiri Vesely,L,23.63586585
+Hard,1,Damir Dzumhur,R,24.77481177,Stanislas Wawrinka,R,31.92060233
+Clay,1,Pablo Cuevas,R,31.15674196,Pablo Carreno Busta,R,25.63175907
+Clay,0,Joao Sousa,R,27.91512663,Albert Ramos,L,29.11430527
+Clay,1,Pablo Carreno Busta,R,25.63175907,Fabio Fognini,R,29.76591376
+Clay,0,Diego Sebastian Schwartzman,R,24.5338809,Pablo Cuevas,R,31.15674196
+Clay,0,Federico Delbonis,L,26.39835729,Joao Sousa,R,27.91512663
+Clay,1,Albert Ramos,L,29.11430527,Guido Pella,L,26.78439425
+Clay,1,Pablo Carreno Busta,R,25.63175907,Joao Souza,R,28.75564682
+Clay,0,Alessandro Giannessi,L,26.74880219,Fabio Fognini,R,29.76591376
+Clay,1,Pablo Cuevas,R,31.15674196,Facundo Bagnis,L,27.00068446
+Clay,0,Gerald Melzer,L,26.62833676,Diego Sebastian Schwartzman,R,24.5338809
+Clay,0,Casper Ruud,R,18.18480493,Federico Delbonis,L,26.39835729
+Clay,1,Joao Sousa,R,27.91512663,Renzo Olivo,R,24.95550992
+Clay,1,Guido Pella,L,26.78439425,Carlos Berlocq,R,34.06707734
+Clay,0,Gastao Elias,R,26.26146475,Albert Ramos,L,29.11430527
+Clay,0,Horacio Zeballos,L,31.8384668,Joao Souza,R,28.75564682
+Clay,0,Rogerio Dutra Silva,R,33.06776181,Alessandro Giannessi,L,26.74880219
+Clay,1,Fabio Fognini,R,29.76591376,Marco Cecchinato,R,24.41067762
+Clay,1,Facundo Bagnis,L,27.00068446,Dusan Lajovic,R,26.66392882
+Clay,1,Gerald Melzer,L,26.62833676,Victor Estrella,R,36.57221081
+Clay,0,Thomaz Bellucci,L,29.16358658,Diego Sebastian Schwartzman,R,24.5338809
+Clay,1,Federico Delbonis,L,26.39835729,Jozef Kovalik,R,24.31485284
+Clay,0,Akira Santillan,R,19.77002053,Casper Ruud,R,18.18480493
+Clay,0,Inigo Cervantes Huegun,R,27.24435318,Renzo Olivo,R,24.95550992
+Clay,0,Thiago Monteiro,L,22.74606434,Carlos Berlocq,R,34.06707734
+Clay,1,Guido Pella,L,26.78439425,Guilherme Clezar,R,24.15879535
+Clay,0,Orlando Luz,R,19.05270363,Gastao Elias,R,26.26146475
+Clay,1,Pablo Cuevas,R,31.15674196,Albert Ramos,L,29.11430527
+Hard,0,Stanislas Wawrinka,R,31.93976728,Roger Federer,R,35.57563313
+Hard,1,Stanislas Wawrinka,R,31.93976728,Pablo Carreno Busta,R,25.65092402
+Hard,0,Jack Sock,R,24.44626968,Roger Federer,R,35.57563313
+Hard,1,Pablo Carreno Busta,R,25.65092402,Pablo Cuevas,R,31.17590691
+Hard,0,Dominic Thiem,R,23.50444901,Stanislas Wawrinka,R,31.93976728
+Hard,1,Jack Sock,R,24.44626968,Kei Nishikori,R,27.18412047
+Hard,0,Dusan Lajovic,R,26.68309377,Pablo Carreno Busta,R,25.65092402
+Hard,1,Pablo Cuevas,R,31.17590691,David Goffin,R,26.24503765
+Hard,0,Yoshihito Nishioka,L,21.44010951,Stanislas Wawrinka,R,31.93976728
+Hard,1,Dominic Thiem,R,23.50444901,Gael Monfils,R,30.51060917
+Hard,1,Jack Sock,R,24.44626968,Malek Jaziri,R,33.12525667
+Hard,1,Kei Nishikori,R,27.18412047,Donald Young,L,27.61943874
+Hard,0,Rafael Nadal,L,30.75701574,Roger Federer,R,35.57563313
+Hard,0,Novak Djokovic,R,29.79055441,Nick Kyrgios,R,21.85900068
+Hard,1,Dusan Lajovic,R,26.68309377,Vasek Pospisil,R,26.70225873
+Hard,1,David Goffin,R,26.24503765,Albert Ramos,L,29.13347023
+Hard,1,Pablo Cuevas,R,31.17590691,Fabio Fognini,R,29.78507871
+Hard,1,Stanislas Wawrinka,R,31.93976728,Philipp Kohlschreiber,R,33.38809035
+Hard,1,Yoshihito Nishioka,L,21.44010951,Tomas Berdych,R,31.4661191
+Hard,0,John Isner,R,31.86036961,Gael Monfils,R,30.51060917
+Hard,0,Mischa Zverev,L,29.53867214,Dominic Thiem,R,23.50444901
+Hard,0,Taylor Harry Fritz,R,19.35386721,Malek Jaziri,R,33.12525667
+Hard,0,Grigor Dimitrov,R,25.80698152,Jack Sock,R,24.44626968
+Hard,1,Donald Young,L,27.61943874,Lucas Pouille,R,23.03080082
+Hard,0,Gilles Muller,L,33.82614648,Kei Nishikori,R,27.18412047
+Hard,0,Fernando Verdasco,L,33.30595483,Rafael Nadal,L,30.75701574
+Hard,0,Steve Johnson,R,27.19780972,Roger Federer,R,35.57563313
+Hard,0,Alexander Zverev,R,19.87679671,Nick Kyrgios,R,21.85900068
+Hard,0,Juan Martin Del Potro,R,28.44900753,Novak Djokovic,R,29.79055441
+Hard,1,Vasek Pospisil,R,26.70225873,Andy Murray,R,29.80971937
+Hard,1,Dusan Lajovic,R,26.68309377,Feliciano Lopez,L,35.45790554
+Hard,0,Peter Gojowczyk,R,27.64134155,Pablo Carreno Busta,R,25.65092402
+Hard,0,Adrian Mannarino,L,28.6844627,Roberto Bautista Agut,R,28.89253936
+Hard,0,Karen Khachanov,R,20.79123888,David Goffin,R,26.24503765
+Hard,1,Albert Ramos,L,29.13347023,Damir Dzumhur,R,24.79397673
+Hard,1,Pablo Cuevas,R,31.17590691,Martin Klizan,L,27.65229295
+Hard,1,Fabio Fognini,R,29.78507871,Jo Wilfried Tsonga,R,31.88501027
+Hard,0,Paolo Lorenzi,R,35.22245038,Stanislas Wawrinka,R,31.93976728
+Hard,1,Philipp Kohlschreiber,R,33.38809035,Alexandr Dolgopolov,R,28.32580424
+Hard,0,Ivo Karlovic,R,38.01779603,Yoshihito Nishioka,L,21.44010951
+Hard,0,Bjorn Fratangelo,R,23.63039014,Tomas Berdych,R,31.4661191
+Hard,0,Darian King,R,24.85968515,Gael Monfils,R,30.51060917
+Hard,0,Mikhail Kukushkin,R,29.19370294,John Isner,R,31.86036961
+Hard,1,Mischa Zverev,L,29.53867214,Joao Sousa,R,27.93429158
+Hard,0,Jeremy Chardy,R,30.06160164,Dominic Thiem,R,23.50444901
+Hard,0,Marin Cilic,R,28.43531828,Taylor Harry Fritz,R,19.35386721
+Hard,1,Malek Jaziri,R,33.12525667,Marcel Granollers,R,30.89938398
+Hard,0,Henri Laaksonen,R,24.93086927,Jack Sock,R,24.44626968
+Hard,1,Grigor Dimitrov,R,25.80698152,Mikhail Youzhny,R,34.69678303
+Hard,0,Jan Lennard Struff,R,26.86379192,Lucas Pouille,R,23.03080082
+Hard,1,Donald Young,L,27.61943874,Sam Querrey,R,29.41273101
+Hard,0,Jiri Vesely,L,23.6550308,Gilles Muller,L,33.82614648
+Hard,1,Kei Nishikori,R,27.18412047,Daniel Evans,R,26.7871321
+Hard,1,Rafael Nadal,L,30.75701574,Guido Pella,L,26.80355921
+Hard,0,Pierre Hugues Herbert,R,25.96851472,Fernando Verdasco,L,33.30595483
+Hard,0,Kevin Anderson,R,30.80082136,Steve Johnson,R,27.19780972
+Hard,0,Stephane Robert,R,36.80219028,Roger Federer,R,35.57563313
+Hard,0,Horacio Zeballos,L,31.85763176,Nick Kyrgios,R,21.85900068
+Hard,1,Alexander Zverev,R,19.87679671,Facundo Bagnis,L,27.01984942
+Hard,0,Federico Delbonis,L,26.41752225,Juan Martin Del Potro,R,28.44900753
+Hard,0,Kyle Edmund,R,22.15742642,Novak Djokovic,R,29.79055441
+Hard,1,Vasek Pospisil,R,26.70225873,Yen Hsun Lu,R,33.56057495
+Hard,0,Francis Tiafoe,R,19.12388775,Dusan Lajovic,R,26.68309377
+Hard,1,Peter Gojowczyk,R,27.64134155,Reilly Opelka,U,19.52087611
+Hard,0,Juan Monaco,R,32.93634497,Adrian Mannarino,L,28.6844627
+Hard,0,Tommy Robredo,R,34.84736482,Karen Khachanov,R,20.79123888
+Hard,1,Damir Dzumhur,R,24.79397673,Ryan Harrison,R,24.82956879
+Hard,1,Martin Klizan,L,27.65229295,Thiago Monteiro,L,22.7652293
+Hard,1,Fabio Fognini,R,29.78507871,Konstantin Kravchuk,R,32.03011636
+Hard,0,Robin Haase,R,29.91649555,Paolo Lorenzi,R,35.22245038
+Hard,0,Viktor Troicki,R,31.06639288,Alexandr Dolgopolov,R,28.32580424
+Hard,0,Elias Ymer,R,20.90349076,Yoshihito Nishioka,L,21.44010951
+Hard,1,Bjorn Fratangelo,R,23.63039014,Bernard Tomic,R,24.37234771
+Hard,1,Darian King,R,24.85968515,Nikoloz Basilashvili,R,25.03216975
+Hard,1,Mikhail Kukushkin,R,29.19370294,Jordan Thompson,R,22.87748118
+Hard,1,Joao Sousa,R,27.93429158,Diego Sebastian Schwartzman,R,24.55304586
+Hard,0,Radu Albot,R,27.3155373,Jeremy Chardy,R,30.06160164
+Hard,0,Benoit Paire,R,27.8275154,Taylor Harry Fritz,R,19.35386721
+Hard,1,Malek Jaziri,R,33.12525667,Nicolas Mahut,R,35.1211499
+Hard,1,Henri Laaksonen,R,24.93086927,Borna Coric,R,20.30663929
+Hard,0,Daniil Medvedev,R,21.06502396,Mikhail Youzhny,R,34.69678303
+Hard,0,Santiago Giraldo,R,29.27310062,Jan Lennard Struff,R,26.86379192
+Hard,1,Donald Young,L,27.61943874,Stefan Kozlov,R,19.09103354
+Hard,0,Renzo Olivo,R,24.97467488,Jiri Vesely,L,23.6550308
+Hard,0,Dustin Brown,R,32.24093087,Daniel Evans,R,26.7871321
+Hard,1,Guido Pella,L,26.80355921,Guillermo Garcia Lopez,R,33.75496235
+Hard,1,Pierre Hugues Herbert,R,25.96851472,Thomaz Bellucci,L,29.18275154
+Hard,1,Kevin Anderson,R,30.80082136,Federico Gaio,R,25.00205339
+Hard,1,Stephane Robert,R,36.80219028,Dudi Sela,R,31.92060233
+Hard,0,Marius Copil,R,26.38466804,Horacio Zeballos,L,31.85763176
+Hard,0,Julien Benneteau,R,35.20876112,Facundo Bagnis,L,27.01984942
+Hard,1,Federico Delbonis,L,26.41752225,Andrey Kuznetsov,R,26.03422313
+Hard,0,Gastao Elias,R,26.28062971,Kyle Edmund,R,22.15742642
+Hard,0,Rafael Nadal,L,30.79534565,Roger Federer,R,35.61396304
+Hard,0,Nick Kyrgios,R,21.8973306,Roger Federer,R,35.61396304
+Hard,1,Rafael Nadal,L,30.79534565,Fabio Fognini,R,29.82340862
+Hard,0,Alexander Zverev,R,19.91512663,Nick Kyrgios,R,21.8973306
+Hard,1,Roger Federer,R,35.61396304,Tomas Berdych,R,31.50444901
+Hard,1,Rafael Nadal,L,30.79534565,Jack Sock,R,24.48459959
+Hard,1,Fabio Fognini,R,29.82340862,Kei Nishikori,R,27.22245038
+Hard,1,Alexander Zverev,R,19.91512663,Stanislas Wawrinka,R,31.97809719
+Hard,0,David Goffin,R,26.28336756,Nick Kyrgios,R,21.8973306
+Hard,0,Roberto Bautista Agut,R,28.93086927,Roger Federer,R,35.61396304
+Hard,0,Adrian Mannarino,L,28.72279261,Tomas Berdych,R,31.50444901
+Hard,0,Nicolas Mahut,R,35.15947981,Rafael Nadal,L,30.79534565
+Hard,1,Jack Sock,R,24.48459959,Jared Donaldson,R,20.44353183
+Hard,1,Fabio Fognini,R,29.82340862,Donald Young,L,27.65776865
+Hard,1,Kei Nishikori,R,27.22245038,Federico Delbonis,L,26.45585216
+Hard,1,Stanislas Wawrinka,R,31.97809719,Malek Jaziri,R,33.16358658
+Hard,0,John Isner,R,31.89869952,Alexander Zverev,R,19.91512663
+Hard,0,Ivo Karlovic,R,38.05612594,Nick Kyrgios,R,21.8973306
+Hard,1,David Goffin,R,26.28336756,Diego Sebastian Schwartzman,R,24.59137577
+Hard,1,Roger Federer,R,35.61396304,Juan Martin Del Potro,R,28.48733744
+Hard,1,Roberto Bautista Agut,R,28.93086927,Sam Querrey,R,29.45106092
+Hard,1,Tomas Berdych,R,31.50444901,Gilles Muller,L,33.86447639
+Hard,0,Borna Coric,R,20.3449692,Adrian Mannarino,L,28.72279261
+Hard,1,Rafael Nadal,L,30.79534565,Philipp Kohlschreiber,R,33.42642026
+Hard,1,Nicolas Mahut,R,35.15947981,Guido Pella,L,26.84188912
+Hard,0,Jiri Vesely,L,23.69336071,Jack Sock,R,24.48459959
+Hard,1,Fabio Fognini,R,29.82340862,Jeremy Chardy,R,30.09993155
+Hard,1,Donald Young,L,27.65776865,Benoit Paire,R,27.86584531
+Hard,0,Jan Lennard Struff,R,26.90212183,Federico Delbonis,L,26.45585216
+Hard,1,Kei Nishikori,R,27.22245038,Fernando Verdasco,L,33.34428474
+Hard,0,Horacio Zeballos,L,31.89596167,Stanislas Wawrinka,R,31.97809719
+Hard,0,Feliciano Lopez,L,35.49623546,Malek Jaziri,R,33.16358658
+Hard,1,John Isner,R,31.89869952,Thomaz Bellucci,L,29.22108145
+Hard,1,Alexander Zverev,R,19.91512663,Yen Hsun Lu,R,33.59890486
+Hard,1,Nick Kyrgios,R,21.8973306,Damir Dzumhur,R,24.83230664
+Hard,0,Andrey Kuznetsov,R,26.07255305,Ivo Karlovic,R,38.05612594
+Hard,1,Diego Sebastian Schwartzman,R,24.59137577,David Ferrer,R,34.9650924
+Hard,1,David Goffin,R,26.28336756,Darian King,R,24.89801506
+Hard,0,Francis Tiafoe,R,19.16221766,Roger Federer,R,35.61396304
+Hard,1,Juan Martin Del Potro,R,28.48733744,Robin Haase,R,29.95482546
+Hard,1,Sam Querrey,R,29.45106092,Tommy Robredo,R,34.88569473
+Hard,1,Roberto Bautista Agut,R,28.93086927,Mikhail Kukushkin,R,29.23203285
+Hard,0,Andrey Rublev,R,19.41409993,Tomas Berdych,R,31.50444901
+Hard,1,Gilles Muller,L,33.86447639,Andreas Seppi,R,33.07597536
+Hard,1,Adrian Mannarino,L,28.72279261,Paolo Lorenzi,R,35.26078029
+Hard,1,Borna Coric,R,20.3449692,Dominic Thiem,R,23.54277892
+Hard,1,Rafael Nadal,L,30.79534565,Dudi Sela,R,31.95893224
+Hard,0,Taylor Harry Fritz,R,19.39219713,Philipp Kohlschreiber,R,33.42642026
+Hard,1,Nicolas Mahut,R,35.15947981,Steve Johnson,R,27.23613963
+Hard,0,Grigor Dimitrov,R,25.84531143,Guido Pella,L,26.84188912
+Hard,1,Jack Sock,R,24.48459959,Yoshihito Nishioka,L,21.47843943
+Hard,0,Albert Ramos,L,29.17180014,Jiri Vesely,L,23.69336071
+Hard,1,Jared Donaldson,R,20.44353183,Mischa Zverev,L,29.57700205
+Hard,1,Milos Raonic,R,26.22861054,Viktor Troicki,R,31.10472279
+Hard,1,Jeremy Chardy,R,30.09993155,Marin Cilic,R,28.47364819
+Hard,0,Joao Sousa,R,27.97262149,Fabio Fognini,R,29.82340862
+Hard,1,Benoit Paire,R,27.86584531,Pablo Cuevas,R,31.21423682
+Hard,1,Donald Young,L,27.65776865,Lucas Pouille,R,23.06913073
+Hard,0,Pablo Carreno Busta,R,25.68925394,Federico Delbonis,L,26.45585216
+Hard,0,Gilles Simon,R,32.22724162,Jan Lennard Struff,R,26.90212183
+Hard,1,Fernando Verdasco,L,33.34428474,Ernesto Escobedo,R,20.70910335
+Hard,0,Kevin Anderson,R,30.83915127,Kei Nishikori,R,27.22245038
+Hard,0,Gastao Elias,R,26.31895962,Horacio Zeballos,L,31.89596167
+Hard,1,Malek Jaziri,R,33.16358658,Alexandr Dolgopolov,R,28.36413415
+Hard,0,Stephane Robert,R,36.84052019,Thomaz Bellucci,L,29.22108145
+Hard,0,Casper Ruud,R,18.24229979,Yen Hsun Lu,R,33.59890486
+Hard,0,Hyeon Chung,R,20.83504449,Damir Dzumhur,R,24.83230664
+Hard,0,Denis Istomin,R,30.53251198,Andrey Kuznetsov,R,26.07255305
+Hard,1,Diego Sebastian Schwartzman,R,24.59137577,Karen Khachanov,R,20.82956879
+Hard,0,Lukas Lacko,R,29.37713895,Darian King,R,24.89801506
+Hard,0,Konstantin Kravchuk,R,32.06844627,Francis Tiafoe,R,19.16221766
+Hard,0,Mikael Ymer,R,18.52703628,Robin Haase,R,29.95482546
+Hard,1,Tommy Robredo,R,34.88569473,Nikoloz Basilashvili,R,25.07049966
+Hard,0,Mikhail Youzhny,R,34.73511294,Mikhail Kukushkin,R,29.23203285
+Hard,0,Florian Mayer,R,33.45653662,Andrey Rublev,R,19.41409993
+Hard,0,Radu Albot,R,27.35386721,Andreas Seppi,R,33.07597536
+Hard,1,Adrian Mannarino,L,28.72279261,Benjamin Becker,R,35.75906913
+Hard,1,Borna Coric,R,20.3449692,Marcel Granollers,R,30.93771389
+Hard,0,Christian Harrison,R,22.80903491,Dudi Sela,R,31.95893224
+Hard,0,Adam Pavlasek,R,22.4476386,Taylor Harry Fritz,R,19.39219713
+Hard,1,Nicolas Mahut,R,35.15947981,Michael Mmoh,R,19.18959617
+Hard,0,Tim Smyczek,R,29.22108145,Guido Pella,L,26.84188912
+Hard,0,Jordan Thompson,R,22.91581109,Yoshihito Nishioka,L,21.47843943
+Hard,0,Tommy Haas,R,38.96235455,Jiri Vesely,L,23.69336071
+Hard,0,Kyle Edmund,R,22.19575633,Jared Donaldson,R,20.44353183
+Hard,1,Viktor Troicki,R,31.10472279,Thiago Monteiro,L,22.80355921
+Hard,1,Jeremy Chardy,R,30.09993155,Facundo Bagnis,L,27.05817933
+Hard,0,Ryan Harrison,R,24.8678987,Fabio Fognini,R,29.82340862
+Hard,0,Martin Klizan,L,27.69062286,Benoit Paire,R,27.86584531
+Hard,0,Dustin Brown,R,32.27926078,Donald Young,L,27.65776865
+Hard,1,Federico Delbonis,L,26.45585216,Juan Monaco,R,32.97467488
+Hard,1,Jan Lennard Struff,R,26.90212183,Aljaz Bedene,R,27.67145791
+Hard,1,Ernesto Escobedo,R,20.70910335,Daniel Evans,R,26.82546201
+Hard,1,Kevin Anderson,R,30.83915127,Dusan Lajovic,R,26.72142368
+Clay,0,Emilio Gomez,R,25.34702259,Thomaz Bellucci,L,29.25941136
+Clay,1,Thiago Monteiro,L,22.84188912,Roberto Quiroz,L,25.10882957
+Clay,1,Thomaz Bellucci,L,29.25941136,Ivan Endara,U,29.08145106
+Clay,1,Thiago Monteiro,L,22.84188912,Gonzalo Escobar,L,28.19986311
+Clay,0,Nicolas Jarry,R,21.47843943,Santiago Giraldo,R,29.34976044
+Clay,0,Eduardo Struvay,R,26.29431896,Christian Garin,R,20.84325804
+Clay,1,Santiago Giraldo,R,29.34976044,Christian Garin,R,20.84325804
+Clay,1,Mikhail Kukushkin,R,29.27036277,Di Wu,R,25.5523614
+Clay,1,Dmitry Popko,R,20.44079398,Ze Zhang,R,26.74880219
+Clay,0,Aleksandr Nedovyesov,R,30.13004791,Ze Zhang,R,26.74880219
+Clay,1,Dmitry Popko,R,20.44079398,Di Wu,R,25.5523614
+Hard,0,Temur Ismailov,R,22.21765914,Ramkumar Ramanathan,R,22.40109514
+Hard,1,Prajnesh Gunneswaran,U,27.38945927,Sanjar Fayziev,U,22.68035592
+Hard,1,Ramkumar Ramanathan,R,22.40109514,Sanjar Fayziev,U,22.68035592
+Hard,0,Prajnesh Gunneswaran,U,27.38945927,Temur Ismailov,R,22.21765914
+Hard,0,Gerald Melzer,L,26.72416153,Egor Gerasimov,R,24.39151266
+Hard,1,Ilya Ivashka,R,23.10472279,Jurgen Melzer,L,35.86584531
+Hard,0,Gerald Melzer,L,26.72416153,Ilya Ivashka,R,23.10472279
+Hard,1,Robin Haase,R,29.99315537,Mirza Basic,R,25.72758385
+Hard,1,Damir Dzumhur,R,24.87063655,Thiemo De Bakker,R,28.53661875
+Hard,0,Damir Dzumhur,R,24.87063655,Robin Haase,R,29.99315537
+Clay,1,Gastao Elias,R,26.35728953,Artem Smirnov,U,29.16632444
+Clay,1,Joao Sousa,R,28.0109514,Mykyta Mashtakov,U,18.04517454
+Clay,1,Joao Sousa,R,28.0109514,Artem Smirnov,U,29.16632444
+Clay,1,Pedro Sousa,R,28.85147159,Illia Biloborodko,0,15.90691307
+Hard,1,Christopher Diaz Figueroa,R,27.05544148,Adam Hornby,0,0
+Hard,0,Luciano Ramazzini,R,23.24435318,Darian King,R,24.93634497
+Hard,0,Christopher Diaz Figueroa,R,27.05544148,Darian King,R,24.93634497
+Hard,1,Wilfredo Gonzalez,R,24.23819302,Haydn Lewis,L,31.24982888
+Hard,1,Marcelo Arevalo,R,26.46132786,Jesus Bandres,U,26.17385353
+Hard,0,Alberto Emmanuel Alvarado Larin,U,22.33812457,Ricardo Rodriguez,R,23.93155373
+Hard,0,Ricardo Rodriguez,R,23.93155373,Marcelo Arevalo,R,26.46132786
+Hard,0,Rafael Arevalo,R,30.74880219,Luis David Martinez,U,27.89322382
+Hard,1,Wishaya Trongcharoenchaikul,R,21.98767967,Alberto Lim,R,17.87816564
+Hard,0,Jeson Patrombon,R,24.01916496,Jirat Navasirisomboon,R,20.37508556
+Hard,1,Wishaya Trongcharoenchaikul,R,21.98767967,Patrick Tierro,U,31.67145791
+Hard,1,Jirat Navasirisomboon,R,20.37508556,Alberto Lim,R,17.87816564
+Hard,1,Nikoloz Basilashvili,R,25.10882957,Tadas Babelis,U,20.10130048
+Hard,1,Laurynas Grigelis,R,25.63723477,George Tsivadze,U,24.24914442
+Hard,0,Laurynas Grigelis,R,25.63723477,Nikoloz Basilashvili,R,25.10882957
+Hard,1,Lukas Mugevicius,R,22.32169747,George Tsivadze,U,24.24914442
+Hard,1,Casper Ruud,R,18.28062971,Soren Hess Olesen,U,26.23134839
+Hard,0,Viktor Durasovic,U,20.04106776,Frederik Nielsen,R,33.60164271
+Hard,0,Casper Ruud,R,18.28062971,Frederik Nielsen,R,33.60164271
+Hard,0,Simen Sunde Bratholm,R,18.08350445,August Holmgren,R,18.9486653
+Hard,0,Mike Urbanija,R,27.26899384,Lloyd George Muirhead Harris,R,20.10403833
+Hard,0,Grega Zemlja,R,30.51060917,Nicolaas Scholtz,R,26.15742642
+Hard,0,Tilen Zitnik,U,25.75496235,Lloyd George Muirhead Harris,R,20.10403833
+Hard,0,Tomislav Ternar,U,26.54620123,Nicolaas Scholtz,R,26.15742642
+Clay,1,Christian Lindell,R,25.36892539,Marsel Ilhan,R,29.81245722
+Clay,0,Cem Ilkel,R,21.61806982,Elias Ymer,R,20.98015058
+Clay,0,Altug Celikbilek,U,20.56947296,Elias Ymer,R,20.98015058
+Clay,0,Anil Yuksel,L,26.87474333,Christian Lindell,R,25.36892539
+Hard,0,Jack Sock,R,24.5229295,Jordan Thompson,R,22.954141
+Hard,1,Nick Kyrgios,R,21.93566051,John Isner,R,31.93702943
+Hard,1,Nick Kyrgios,R,21.93566051,Sam Querrey,R,29.48939083
+Hard,1,John Isner,R,31.93702943,Samuel Groth,R,29.45653662
+Clay,1,Lucas Pouille,R,23.10746064,Kyle Edmund,R,22.23408624
+Clay,1,Jeremy Chardy,R,30.13826146,Daniel Evans,R,26.86379192
+Clay,0,Julien Benneteau,R,35.28542094,Daniel Evans,R,26.86379192
+Clay,0,Kyle Edmund,R,22.23408624,Jeremy Chardy,R,30.13826146
+Hard,0,Paolo Lorenzi,R,35.2991102,Steve Darcis,R,33.0568104
+Hard,0,Andreas Seppi,R,33.11430527,David Goffin,R,26.32169747
+Hard,1,David Goffin,R,26.32169747,Paolo Lorenzi,R,35.2991102
+Hard,0,Joris De Loore,R,23.95071869,Alessandro Giannessi,L,26.84462697
+Hard,1,Novak Djokovic,R,29.86721424,Albert Ramos,L,29.21013005
+Hard,0,Pablo Carreno Busta,R,25.72758385,Viktor Troicki,R,31.1430527
+Hard,1,Dusan Lajovic,R,26.75975359,Jaume Munar,U,19.91238877
+Hard,0,Nenad Zimonjic,R,40.82956879,Albert Ramos,L,29.21013005
+Clay,1,Steve Johnson,R,27.2936345,Thomaz Bellucci,L,29.27857632
+Clay,0,Jack Sock,R,24.54209446,Steve Johnson,R,27.2936345
+Clay,0,Ernesto Escobedo,R,20.76659822,Thomaz Bellucci,L,29.27857632
+Clay,1,Jack Sock,R,24.54209446,Feliciano Lopez,L,35.55373032
+Clay,1,Steve Johnson,R,27.2936345,Fernando Verdasco,L,33.4017796
+Clay,1,Thomaz Bellucci,L,29.27857632,Sam Querrey,R,29.50855578
+Clay,1,Ernesto Escobedo,R,20.76659822,John Isner,R,31.95619439
+Clay,1,Jack Sock,R,24.54209446,Tommy Haas,R,39.01984942
+Clay,1,Feliciano Lopez,L,35.55373032,Hyeon Chung,R,20.89253936
+Clay,1,Steve Johnson,R,27.2936345,Dustin Brown,R,32.33675565
+Clay,0,Nicolas Kicker,R,24.64887064,Fernando Verdasco,L,33.4017796
+Clay,1,Thomaz Bellucci,L,29.27857632,Maximo Gonzalez,R,33.724846
+Clay,1,Sam Querrey,R,29.50855578,Horacio Zeballos,L,31.95345654
+Clay,0,Thiago Monteiro,L,22.86105407,Ernesto Escobedo,R,20.76659822
+Clay,0,Leonardo Mayer,R,29.90554415,John Isner,R,31.95619439
+Clay,0,Reilly Opelka,U,19.61670089,Tommy Haas,R,39.01984942
+Clay,1,Hyeon Chung,R,20.89253936,Victor Estrella,R,36.68720055
+Clay,0,Bjorn Fratangelo,R,23.72621492,Feliciano Lopez,L,35.55373032
+Clay,1,Dustin Brown,R,32.33675565,Juan Monaco,R,33.03216975
+Clay,0,Noah Rubin,R,21.13347023,Nicolas Kicker,R,24.64887064
+Clay,0,Kevin Anderson,R,30.89664613,Fernando Verdasco,L,33.4017796
+Clay,1,Thomaz Bellucci,L,29.27857632,Francis Tiafoe,R,19.21971253
+Clay,0,Jared Donaldson,R,20.50102669,Maximo Gonzalez,R,33.724846
+Clay,1,Horacio Zeballos,L,31.95345654,Rogerio Dutra Silva,R,33.18275154
+Clay,0,Donald Young,L,27.71526352,Thiago Monteiro,L,22.86105407
+Clay,1,Ernesto Escobedo,R,20.76659822,Tennys Sandgren,R,25.71937029
+Clay,1,Leonardo Mayer,R,29.90554415,Adam Pavlasek,R,22.50513347
+Clay,0,Philipp Kohlschreiber,R,33.48391513,Borna Coric,R,20.40246407
+Clay,1,Philipp Kohlschreiber,R,33.48391513,Benoit Paire,R,27.92334018
+Clay,0,Jiri Vesely,L,23.75085558,Borna Coric,R,20.40246407
+Clay,1,Benoit Paire,R,27.92334018,Tommy Robredo,R,34.9431896
+Clay,1,Philipp Kohlschreiber,R,33.48391513,Jan Lennard Struff,R,26.9596167
+Clay,1,Jiri Vesely,L,23.75085558,Paolo Lorenzi,R,35.31827515
+Clay,0,Albert Ramos,L,29.229295,Borna Coric,R,20.40246407
+Clay,1,Tommy Robredo,R,34.9431896,Grigor Dimitrov,R,25.9028063
+Clay,0,Radu Albot,R,27.41136208,Benoit Paire,R,27.92334018
+Clay,0,Jeremy Chardy,R,30.15742642,Philipp Kohlschreiber,R,33.48391513
+Clay,0,Amine Ahouda,U,19.57837098,Jan Lennard Struff,R,26.9596167
+Clay,1,Paolo Lorenzi,R,35.31827515,Gianluigi Quinzi,L,21.18822724
+Clay,0,Mischa Zverev,L,29.63449692,Jiri Vesely,L,23.75085558
+Clay,0,Reda El Amrani,R,28.89253936,Borna Coric,R,20.40246407
+Clay,0,Laslo Djere,R,21.85626283,Albert Ramos,L,29.229295
+Clay,1,Tommy Robredo,R,34.9431896,Sergiy Stakhovsky,R,31.25804244
+Clay,1,Radu Albot,R,27.41136208,Nicolas Almagro,R,31.63586585
+Clay,0,Carlos Berlocq,R,34.18206708,Benoit Paire,R,27.92334018
+Clay,0,Malek Jaziri,R,33.22108145,Jeremy Chardy,R,30.15742642
+Clay,1,Jan Lennard Struff,R,26.9596167,Taro Daniel,R,24.19986311
+Clay,0,Marcel Granollers,R,30.99520876,Amine Ahouda,U,19.57837098
+Clay,0,Guillermo Garcia Lopez,R,33.85078713,Paolo Lorenzi,R,35.31827515
+Clay,1,Gianluigi Quinzi,L,21.18822724,Paul Henri Mathieu,R,35.24161533
+Clay,0,Luca Vanni,R,31.84941821,Jiri Vesely,L,23.75085558
+Clay,1,Borna Coric,R,20.40246407,Diego Sebastian Schwartzman,R,24.64887064
+Clay,1,Reda El Amrani,R,28.89253936,Federico Delbonis,L,26.51334702
+Clay,0,Martin Klizan,L,27.74811773,Laslo Djere,R,21.85626283
+Clay,1,Rafael Nadal,L,30.87200548,Albert Ramos,L,29.24845996
+Clay,1,Albert Ramos,L,29.24845996,Lucas Pouille,R,23.14579055
+Clay,1,Rafael Nadal,L,30.87200548,David Goffin,R,26.36002738
+Clay,1,Albert Ramos,L,29.24845996,Marin Cilic,R,28.55030801
+Clay,0,Pablo Cuevas,R,31.29089665,Lucas Pouille,R,23.14579055
+Clay,1,Rafael Nadal,L,30.87200548,Diego Sebastian Schwartzman,R,24.66803559
+Clay,1,David Goffin,R,26.36002738,Novak Djokovic,R,29.90554415
+Clay,1,Albert Ramos,L,29.24845996,Andy Murray,R,29.9247091
+Clay,1,Marin Cilic,R,28.55030801,Tomas Berdych,R,31.58110883
+Clay,0,Stanislas Wawrinka,R,32.05475702,Pablo Cuevas,R,31.29089665
+Clay,0,Adrian Mannarino,L,28.79945243,Lucas Pouille,R,23.14579055
+Clay,1,Diego Sebastian Schwartzman,R,24.66803559,Jan Lennard Struff,R,26.97878166
+Clay,1,Rafael Nadal,L,30.87200548,Alexander Zverev,R,19.99178645
+Clay,0,Dominic Thiem,R,23.61943874,David Goffin,R,26.36002738
+Clay,0,Pablo Carreno Busta,R,25.76591376,Novak Djokovic,R,29.90554415
+Clay,0,Gilles Muller,L,33.94113621,Andy Murray,R,29.9247091
+Clay,1,Albert Ramos,L,29.24845996,Carlos Berlocq,R,34.20123203
+Clay,1,Tomas Berdych,R,31.58110883,Tommy Haas,R,39.03901437
+Clay,1,Marin Cilic,R,28.55030801,Jeremy Chardy,R,30.17659138
+Clay,1,Stanislas Wawrinka,R,32.05475702,Jiri Vesely,L,23.77002053
+Clay,0,Joao Sousa,R,28.04928131,Pablo Cuevas,R,31.29089665
+Clay,1,Lucas Pouille,R,23.14579055,Paolo Lorenzi,R,35.33744011
+Clay,1,Adrian Mannarino,L,28.79945243,Jo Wilfried Tsonga,R,32
+Clay,0,Grigor Dimitrov,R,25.92197125,Jan Lennard Struff,R,26.97878166
+Clay,0,Roberto Bautista Agut,R,29.00752909,Diego Sebastian Schwartzman,R,24.66803559
+Clay,1,Alexander Zverev,R,19.99178645,Feliciano Lopez,L,35.57289528
+Clay,1,Rafael Nadal,L,30.87200548,Kyle Edmund,R,22.27241615
+Clay,1,Dominic Thiem,R,23.61943874,Robin Haase,R,30.03148528
+Clay,0,Nicolas Almagro,R,31.6550308,David Goffin,R,26.36002738
+Clay,1,Pablo Carreno Busta,R,25.76591376,Karen Khachanov,R,20.90622861
+Clay,0,Gilles Simon,R,32.30390144,Novak Djokovic,R,29.90554415
+Clay,0,Tommy Robredo,R,34.96235455,Gilles Muller,L,33.94113621
+Clay,1,Carlos Berlocq,R,34.20123203,Pierre Hugues Herbert,R,26.08350445
+Clay,1,Albert Ramos,L,29.24845996,Renzo Olivo,R,25.08966461
+Clay,1,Tomas Berdych,R,31.58110883,Andrey Kuznetsov,R,26.14921287
+Clay,0,Benoit Paire,R,27.94250513,Tommy Haas,R,39.03901437
+Clay,1,Jeremy Chardy,R,30.17659138,Borna Coric,R,20.42162902
+Clay,1,Jiri Vesely,L,23.77002053,Mischa Zverev,L,29.65366188
+Clay,0,Florian Mayer,R,33.53319644,Joao Sousa,R,28.04928131
+Clay,0,Viktor Troicki,R,31.18138261,Pablo Cuevas,R,31.29089665
+Clay,0,Ryan Harrison,R,24.94455852,Lucas Pouille,R,23.14579055
+Clay,0,Marcel Granollers,R,31.01437372,Paolo Lorenzi,R,35.33744011
+Clay,1,Adrian Mannarino,L,28.79945243,Guillermo Garcia Lopez,R,33.86995209
+Clay,1,Jan Lennard Struff,R,26.97878166,Casper Ruud,R,18.31895962
+Clay,0,Bernard Tomic,R,24.48733744,Diego Sebastian Schwartzman,R,24.66803559
+Clay,0,Nikoloz Basilashvili,R,25.14715948,Roberto Bautista Agut,R,29.00752909
+Clay,1,Alexander Zverev,R,19.99178645,Andreas Seppi,R,33.15263518
+Clay,1,Feliciano Lopez,L,35.57289528,Daniil Medvedev,R,21.18001369
+Clay,0,Daniel Evans,R,26.90212183,Kyle Edmund,R,22.27241615
+Clay,0,Damir Dzumhur,R,24.90896646,Robin Haase,R,30.03148528
+Clay,1,Nicolas Almagro,R,31.6550308,Martin Klizan,L,27.76728268
+Clay,1,David Goffin,R,26.36002738,Steve Darcis,R,33.09514031
+Clay,0,Fabio Fognini,R,29.90006845,Pablo Carreno Busta,R,25.76591376
+Clay,0,Nicolas Mahut,R,35.23613963,Karen Khachanov,R,20.90622861
+Clay,1,Gilles Simon,R,32.30390144,Malek Jaziri,R,33.24024641
+Clay,0,Dominic Thiem,R,23.6386037,Rafael Nadal,L,30.89117043
+Clay,0,Andy Murray,R,29.94387406,Dominic Thiem,R,23.6386037
+Clay,1,Rafael Nadal,L,30.89117043,Horacio Zeballos,L,31.99178645
+Clay,0,Albert Ramos,L,29.26762491,Andy Murray,R,29.94387406
+Clay,0,Yuichi Sugita,R,28.59685147,Dominic Thiem,R,23.6386037
+Clay,1,Rafael Nadal,L,30.89117043,Hyeon Chung,R,20.93086927
+Clay,0,Karen Khachanov,R,20.92539357,Horacio Zeballos,L,31.99178645
+Clay,0,Feliciano Lopez,L,35.59206023,Andy Murray,R,29.94387406
+Clay,0,Roberto Bautista Agut,R,29.02669405,Albert Ramos,L,29.26762491
+Clay,1,Dominic Thiem,R,23.6386037,Daniel Evans,R,26.92128679
+Clay,1,Yuichi Sugita,R,28.59685147,Pablo Carreno Busta,R,25.78507871
+Clay,1,Hyeon Chung,R,20.93086927,Alexander Zverev,R,20.0109514
+Clay,0,Kevin Anderson,R,30.93497604,Rafael Nadal,L,30.89117043
+Clay,1,Karen Khachanov,R,20.92539357,David Goffin,R,26.37919233
+Clay,1,Horacio Zeballos,L,31.99178645,Benoit Paire,R,27.96167009
+Clay,1,Feliciano Lopez,L,35.59206023,Albert Montanes,R,36.40793977
+Clay,1,Albert Ramos,L,29.26762491,Casper Ruud,R,18.33812457
+Clay,1,Roberto Bautista Agut,R,29.02669405,Jan Lennard Struff,R,26.99794661
+Clay,1,Dominic Thiem,R,23.6386037,Kyle Edmund,R,22.29158111
+Clay,0,Mischa Zverev,L,29.67282683,Daniel Evans,R,26.92128679
+Clay,0,Richard Gasquet,R,30.85010267,Yuichi Sugita,R,28.59685147
+Clay,0,Andreas Seppi,R,33.17180014,Pablo Carreno Busta,R,25.78507871
+Clay,1,Alexander Zverev,R,20.0109514,Nicolas Almagro,R,31.67419576
+Clay,0,Philipp Kohlschreiber,R,33.52224504,Hyeon Chung,R,20.93086927
+Clay,1,Kevin Anderson,R,30.93497604,David Ferrer,R,35.06091718
+Clay,1,Rafael Nadal,L,30.89117043,Rogerio Dutra Silva,R,33.22108145
+Clay,0,Nikoloz Basilashvili,R,25.16632444,David Goffin,R,26.37919233
+Clay,1,Karen Khachanov,R,20.92539357,Pablo Cuevas,R,31.3100616
+Clay,1,Horacio Zeballos,L,31.99178645,Joao Sousa,R,28.06844627
+Clay,1,Benoit Paire,R,27.96167009,Marcel Granollers,R,31.03353867
+Clay,1,Bernard Tomic,R,24.5065024,Dustin Brown,R,32.37508556
+Clay,1,Albert Montanes,R,36.40793977,Guillermo Garcia Lopez,R,33.88911704
+Clay,1,Casper Ruud,R,18.33812457,Radu Albot,R,27.44969199
+Clay,1,Jan Lennard Struff,R,26.99794661,Pierre Hugues Herbert,R,26.1026694
+Clay,1,Kyle Edmund,R,22.29158111,Jeremy Chardy,R,30.19575633
+Clay,1,Daniel Evans,R,26.92128679,Thiago Monteiro,L,22.89938398
+Clay,0,Tommy Robredo,R,34.98151951,Yuichi Sugita,R,28.59685147
+Clay,1,Andreas Seppi,R,33.17180014,Mikael Ymer,R,18.62286105
+Clay,1,Nicolas Almagro,R,31.67419576,Steven Diez,R,26.10540726
+Clay,0,Denis Istomin,R,30.62833676,Hyeon Chung,R,20.93086927
+Clay,0,Carlos Berlocq,R,34.22039699,Kevin Anderson,R,30.93497604
+Clay,1,Rogerio Dutra Silva,R,33.22108145,Renzo Olivo,R,25.10882957
+Clay,1,Nikoloz Basilashvili,R,25.16632444,Taro Daniel,R,24.23819302
+Clay,0,Thomaz Bellucci,L,29.31690623,Karen Khachanov,R,20.92539357
+Clay,0,Santiago Giraldo,R,29.4072553,Horacio Zeballos,L,31.99178645
+Clay,0,Malek Jaziri,R,33.25941136,Marcel Granollers,R,31.03353867
+Clay,0,Aljaz Bedene,R,27.76728268,Lucas Pouille,R,23.16495551
+Clay,1,Lucas Pouille,R,23.16495551,Paolo Lorenzi,R,35.35660507
+Clay,1,Aljaz Bedene,R,27.76728268,Laslo Djere,R,21.89459274
+Clay,0,Martin Klizan,L,27.78644764,Lucas Pouille,R,23.16495551
+Clay,0,Andrey Kuznetsov,R,26.16837782,Paolo Lorenzi,R,35.35660507
+Clay,0,Fernando Verdasco,L,33.44010951,Laslo Djere,R,21.89459274
+Clay,0,Ivo Karlovic,R,38.15195072,Aljaz Bedene,R,27.76728268
+Clay,0,Jiri Vesely,L,23.78918549,Lucas Pouille,R,23.16495551
+Clay,0,Bjorn Fratangelo,R,23.76454483,Martin Klizan,L,27.78644764
+Clay,1,Andrey Kuznetsov,R,26.16837782,Fabio Fognini,R,29.9192334
+Clay,1,Paolo Lorenzi,R,35.35660507,Sergiy Stakhovsky,R,31.29637235
+Clay,0,Viktor Troicki,R,31.20054757,Laslo Djere,R,21.89459274
+Clay,1,Fernando Verdasco,L,33.44010951,Marton Fucsovics,R,25.2073922
+Clay,0,Robin Haase,R,30.05065024,Aljaz Bedene,R,27.76728268
+Clay,0,Damir Dzumhur,R,24.92813142,Ivo Karlovic,R,38.15195072
+Clay,1,Jiri Vesely,L,23.78918549,Borna Coric,R,20.44079398
+Clay,1,Martin Klizan,L,27.78644764,Maximilian Marterer,L,21.85900068
+Clay,1,Bjorn Fratangelo,R,23.76454483,Gilles Simon,R,32.32306639
+Clay,0,Ryan Harrison,R,24.96372348,Andrey Kuznetsov,R,26.16837782
+Clay,0,Florian Mayer,R,33.5523614,Sergiy Stakhovsky,R,31.29637235
+Clay,0,Mikhail Kukushkin,R,29.32785763,Paolo Lorenzi,R,35.35660507
+Clay,0,Evgeny Donskoy,R,26.9596167,Viktor Troicki,R,31.20054757
+Clay,0,Daniil Medvedev,R,21.19917864,Laslo Djere,R,21.89459274
+Clay,1,Marton Fucsovics,R,25.2073922,Mikhail Youzhny,R,34.83093771
+Clay,0,Diego Sebastian Schwartzman,R,24.68720055,Robin Haase,R,30.05065024
+Clay,1,Aljaz Bedene,R,27.76728268,Marius Copil,R,26.51882272
+Clay,1,Damir Dzumhur,R,24.92813142,Steve Darcis,R,33.11430527
+Clay,0,Gilles Muller,L,33.97946612,Pablo Carreno Busta,R,25.80424367
+Clay,0,David Ferrer,R,35.08008214,Pablo Carreno Busta,R,25.80424367
+Clay,0,Kevin Anderson,R,30.954141,Gilles Muller,L,33.97946612
+Clay,1,Pablo Carreno Busta,R,25.80424367,Nicolas Almagro,R,31.69336071
+Clay,0,Ryan Harrison,R,24.98288843,David Ferrer,R,35.08008214
+Clay,1,Gilles Muller,L,33.97946612,Taro Daniel,R,24.25735797
+Clay,0,Richard Gasquet,R,30.86926762,Kevin Anderson,R,30.954141
+Clay,1,Pablo Carreno Busta,R,25.80424367,Tommy Robredo,R,35.00068446
+Clay,1,Nicolas Almagro,R,31.69336071,Gastao Elias,R,26.43394935
+Clay,0,Frederico Ferreira Silva,L,22.12183436,David Ferrer,R,35.08008214
+Clay,0,Bjorn Fratangelo,R,23.78370979,Taro Daniel,R,24.25735797
+Clay,1,Gilles Muller,L,33.97946612,Pedro Sousa,R,28.92813142
+Clay,0,Joao Domingues,R,23.57015743,Kevin Anderson,R,30.954141
+Clay,0,Carlos Berlocq,R,34.23956194,Richard Gasquet,R,30.86926762
+Clay,0,Evgeny Donskoy,R,26.97878166,Tommy Robredo,R,35.00068446
+Clay,0,Malek Jaziri,R,33.27857632,Gastao Elias,R,26.43394935
+Clay,0,Benoit Paire,R,27.98083504,Nicolas Almagro,R,31.69336071
+Clay,1,Frederico Ferreira Silva,L,22.12183436,Denis Istomin,R,30.64750171
+Clay,0,Guillermo Garcia Lopez,R,33.908282,Ryan Harrison,R,24.98288843
+Clay,1,Juan Martin Del Potro,R,28.60232717,Yuichi Sugita,R,28.61601643
+Clay,0,Joao Sousa,R,28.08761123,Bjorn Fratangelo,R,23.78370979
+Clay,0,Renzo Olivo,R,25.12799452,Taro Daniel,R,24.25735797
+Clay,1,Pedro Sousa,R,28.92813142,Paul Henri Mathieu,R,35.2991102
+Clay,0,Kyle Edmund,R,22.31074606,Joao Domingues,R,23.57015743
+Clay,0,Salvatore Caruso,R,24.37508556,Kevin Anderson,R,30.954141
+Clay,0,Elias Ymer,R,21.0568104,Carlos Berlocq,R,34.23956194
+Clay,1,Marin Cilic,R,28.58863792,Milos Raonic,R,26.34360027
+Clay,0,Viktor Troicki,R,31.21971253,Milos Raonic,R,26.34360027
+Clay,0,Diego Sebastian Schwartzman,R,24.7063655,Marin Cilic,R,28.58863792
+Clay,0,Bernard Tomic,R,24.52566735,Milos Raonic,R,26.34360027
+Clay,1,Viktor Troicki,R,31.21971253,Laslo Djere,R,21.9137577
+Clay,0,Dusan Lajovic,R,26.83641342,Diego Sebastian Schwartzman,R,24.7063655
+Clay,0,Steve Darcis,R,33.13347023,Marin Cilic,R,28.58863792
+Clay,1,Milos Raonic,R,26.34360027,Aljaz Bedene,R,27.78644764
+Clay,0,Rogerio Dutra Silva,R,33.24024641,Bernard Tomic,R,24.52566735
+Clay,0,Paolo Lorenzi,R,35.37577002,Laslo Djere,R,21.9137577
+Clay,1,Viktor Troicki,R,31.21971253,Karen Khachanov,R,20.94455852
+Clay,1,Dusan Lajovic,R,26.83641342,Mikhail Youzhny,R,34.85010267
+Clay,0,Jordan Thompson,R,23.03080082,Diego Sebastian Schwartzman,R,24.7063655
+Clay,1,Steve Darcis,R,33.13347023,Jiri Vesely,L,23.80835044
+Clay,0,Damir Dzumhur,R,24.94729637,Marin Cilic,R,28.58863792
+Clay,1,Aljaz Bedene,R,27.78644764,Marton Fucsovics,R,25.22655715
+Clay,1,Rogerio Dutra Silva,R,33.24024641,Riccardo Bellotti,R,25.73853525
+Clay,1,Bernard Tomic,R,24.52566735,Mohamed Safwat,R,26.6146475
+Clay,1,Laslo Djere,R,21.9137577,Daniel Brands,R,29.79055441
+Clay,1,Karen Khachanov,R,20.94455852,Nikoloz Basilashvili,R,25.18548939
+Clay,1,Viktor Troicki,R,31.21971253,Marcos Baghdatis,R,31.87132101
+Clay,0,Borna Coric,R,20.45995893,Dusan Lajovic,R,26.83641342
+Clay,0,Cem Ilkel,R,21.69472964,Mikhail Youzhny,R,34.85010267
+Clay,0,Adrian Menendez Maceiras,R,31.50718686,Jordan Thompson,R,23.03080082
+Clay,1,Steve Darcis,R,33.13347023,Dudi Sela,R,32.07392197
+Clay,0,Marcel Granollers,R,31.05270363,Jiri Vesely,L,23.80835044
+Clay,1,Damir Dzumhur,R,24.94729637,Stefanos Tsitsipas,R,18.71868583
+Clay,1,Alexander Zverev,R,20.03011636,Guido Pella,L,26.95687885
+Clay,0,Hyeon Chung,R,20.95003422,Guido Pella,L,26.95687885
+Clay,1,Alexander Zverev,R,20.03011636,Roberto Bautista Agut,R,29.045859
+Clay,1,Hyeon Chung,R,20.95003422,Martin Klizan,L,27.80561259
+Clay,1,Guido Pella,L,26.95687885,Horacio Zeballos,L,32.0109514
+Clay,0,Jan Lennard Struff,R,27.01711157,Alexander Zverev,R,20.03011636
+Clay,0,Yannick Hanfmann,U,25.46475017,Roberto Bautista Agut,R,29.045859
+Clay,0,Gael Monfils,R,30.66392882,Hyeon Chung,R,20.95003422
+Clay,0,Mischa Zverev,L,29.69199179,Martin Klizan,L,27.80561259
+Clay,1,Guido Pella,L,26.95687885,Fabio Fognini,R,29.93839836
+Clay,1,Horacio Zeballos,L,32.0109514,Philipp Kohlschreiber,R,33.54140999
+Clay,1,Jan Lennard Struff,R,27.01711157,Tommy Haas,R,39.07734428
+Clay,1,Alexander Zverev,R,20.03011636,Jeremy Chardy,R,30.21492129
+Clay,0,Thomaz Bellucci,L,29.33607118,Yannick Hanfmann,U,25.46475017
+Clay,0,Marius Copil,R,26.53798768,Roberto Bautista Agut,R,29.045859
+Clay,1,Hyeon Chung,R,20.95003422,Maximilian Marterer,L,21.87816564
+Clay,0,Nicolas Kicker,R,24.7063655,Martin Klizan,L,27.80561259
+Clay,0,Dustin Brown,R,32.39425051,Mischa Zverev,L,29.69199179
+Clay,1,Guido Pella,L,26.95687885,Cedrik Marcel Stebe,L,26.55989049
+Clay,0,Andreas Seppi,R,33.19096509,Horacio Zeballos,L,32.0109514
+Clay,0,Casper Ruud,R,18.35728953,Philipp Kohlschreiber,R,33.54140999
+Clay,0,Daniel Masur,R,22.88843258,Jan Lennard Struff,R,27.01711157
+Clay,1,Tommy Haas,R,39.07734428,Sergiy Stakhovsky,R,31.3155373
+Clay,0,Jozef Kovalik,R,24.48733744,Jeremy Chardy,R,30.21492129
+Clay,1,Thomaz Bellucci,L,29.33607118,Mikhail Kukushkin,R,29.34702259
+Clay,0,Gerald Melzer,L,26.80082136,Yannick Hanfmann,U,25.46475017
+Clay,0,Thiago Monteiro,L,22.91854894,Marius Copil,R,26.53798768
+Clay,1,Rafael Nadal,L,30.92950034,Dominic Thiem,R,23.67693361
+Clay,0,Pablo Cuevas,R,31.34839151,Dominic Thiem,R,23.67693361
+Clay,1,Rafael Nadal,L,30.92950034,Novak Djokovic,R,29.96303901
+Clay,1,Dominic Thiem,R,23.67693361,Borna Coric,R,20.47912389
+Clay,1,Pablo Cuevas,R,31.34839151,Alexander Zverev,R,20.04928131
+Clay,0,David Goffin,R,26.41752225,Rafael Nadal,L,30.92950034
+Clay,0,Andy Murray,R,29.98220397,Borna Coric,R,20.47912389
+Clay,1,Dominic Thiem,R,23.67693361,Grigor Dimitrov,R,25.97946612
+Clay,0,Benoit Paire,R,28,Pablo Cuevas,R,31.34839151
+Clay,1,Alexander Zverev,R,20.04928131,Tomas Berdych,R,31.6386037
+Clay,0,Milos Raonic,R,26.36276523,David Goffin,R,26.41752225
+Clay,0,Nick Kyrgios,R,22.03148528,Rafael Nadal,L,30.92950034
+Clay,1,Kei Nishikori,R,27.35660507,David Ferrer,R,35.09924709
+Clay,1,Novak Djokovic,R,29.96303901,Feliciano Lopez,L,35.63039014
+Clay,0,Marius Copil,R,26.55715264,Andy Murray,R,29.98220397
+Clay,1,Borna Coric,R,20.47912389,Pierre Hugues Herbert,R,26.14099932
+Clay,0,Ivo Karlovic,R,38.19028063,Grigor Dimitrov,R,25.97946612
+Clay,1,Dominic Thiem,R,23.67693361,Jared Donaldson,R,20.57768652
+Clay,1,Benoit Paire,R,28,Stanislas Wawrinka,R,32.11225188
+Clay,1,Pablo Cuevas,R,31.34839151,Nicolas Mahut,R,35.2936345
+Clay,1,Tomas Berdych,R,31.6386037,Robin Haase,R,30.08898015
+Clay,0,Marin Cilic,R,28.60780287,Alexander Zverev,R,20.04928131
+Clay,1,Milos Raonic,R,26.36276523,Gilles Muller,L,33.99863107
+Clay,1,David Goffin,R,26.41752225,Florian Mayer,R,33.59069131
+Clay,1,Nick Kyrgios,R,22.03148528,Ryan Harrison,R,25.00205339
+Clay,1,Rafael Nadal,L,30.92950034,Fabio Fognini,R,29.95756331
+Clay,0,Diego Sebastian Schwartzman,R,24.72553046,Kei Nishikori,R,27.35660507
+Clay,0,Gilles Simon,R,32.3613963,Feliciano Lopez,L,35.63039014
+Clay,0,Nicolas Almagro,R,31.71252567,Novak Djokovic,R,29.96303901
+Clay,0,Guillermo Garcia Lopez,R,33.92744695,Marius Copil,R,26.55715264
+Clay,1,Borna Coric,R,20.47912389,Mischa Zverev,L,29.71115674
+Clay,1,Pierre Hugues Herbert,R,26.14099932,Lucas Pouille,R,23.20328542
+Clay,1,Grigor Dimitrov,R,25.97946612,Philipp Kohlschreiber,R,33.56057495
+Clay,0,Roberto Bautista Agut,R,29.06502396,Ivo Karlovic,R,38.19028063
+Clay,1,Jared Donaldson,R,20.57768652,Adrian Mannarino,L,28.8569473
+Clay,1,Benoit Paire,R,28,Pablo Carreno Busta,R,25.82340862
+Clay,1,Pablo Cuevas,R,31.34839151,Thomaz Bellucci,L,29.35523614
+Clay,1,Nicolas Mahut,R,35.2936345,Jack Sock,R,24.61875428
+Clay,1,Tomas Berdych,R,31.6386037,Denis Istomin,R,30.66666667
+Clay,1,Robin Haase,R,30.08898015,Daniel Evans,R,26.9596167
+Clay,1,Alexander Zverev,R,20.04928131,Fernando Verdasco,L,33.47843943
+Clay,1,Gilles Muller,L,33.99863107,Tommy Haas,R,39.09650924
+Clay,1,Florian Mayer,R,33.59069131,Marcel Granollers,R,31.07186858
+Clay,1,David Goffin,R,26.41752225,Karen Khachanov,R,20.96372348
+Clay,0,Marcos Baghdatis,R,31.89048597,Nick Kyrgios,R,22.03148528
+Clay,1,Ryan Harrison,R,25.00205339,Bernard Tomic,R,24.54483231
+Clay,0,Joao Sousa,R,28.10677618,Fabio Fognini,R,29.95756331
+Clay,1,Diego Sebastian Schwartzman,R,24.72553046,Albert Ramos,L,29.30595483
+Clay,1,David Ferrer,R,35.09924709,Mikhail Kukushkin,R,29.36618754
+Clay,1,Jo Wilfried Tsonga,R,32.05749487,Andrey Kuznetsov,R,26.20670773
+Clay,0,Gael Monfils,R,30.68309377,Gilles Simon,R,32.3613963
+Clay,1,Feliciano Lopez,L,35.63039014,Ernesto Escobedo,R,20.84325804
+Clay,1,Nicolas Almagro,R,31.71252567,Tommy Robredo,R,35.01984942
+Clay,1,Alexander Zverev,R,20.06844627,Novak Djokovic,R,29.98220397
+Clay,0,John Isner,R,32.05201917,Alexander Zverev,R,20.06844627
+Clay,0,Dominic Thiem,R,23.69609856,Novak Djokovic,R,29.98220397
+Clay,1,Alexander Zverev,R,20.06844627,Milos Raonic,R,26.38193018
+Clay,0,Marin Cilic,R,28.62696783,John Isner,R,32.05201917
+Clay,0,Rafael Nadal,L,30.9486653,Dominic Thiem,R,23.69609856
+Clay,1,Novak Djokovic,R,29.98220397,Juan Martin Del Potro,R,28.64065708
+Clay,1,Alexander Zverev,R,20.06844627,Fabio Fognini,R,29.97672827
+Clay,0,Tomas Berdych,R,31.65776865,Milos Raonic,R,26.38193018
+Clay,0,Stanislas Wawrinka,R,32.13141684,John Isner,R,32.05201917
+Clay,1,Marin Cilic,R,28.62696783,David Goffin,R,26.4366872
+Clay,1,Dominic Thiem,R,23.69609856,Sam Querrey,R,29.60438056
+Clay,1,Rafael Nadal,L,30.9486653,Jack Sock,R,24.63791923
+Clay,1,Juan Martin Del Potro,R,28.64065708,Kei Nishikori,R,27.37577002
+Clay,1,Novak Djokovic,R,29.98220397,Roberto Bautista Agut,R,29.08418891
+Clay,1,Fabio Fognini,R,29.97672827,Andy Murray,R,30.00136893
+Clay,1,Alexander Zverev,R,20.06844627,Viktor Troicki,R,31.25804244
+Clay,0,Carlos Berlocq,R,34.27789185,Tomas Berdych,R,31.65776865
+Clay,1,Milos Raonic,R,26.38193018,Tommy Haas,R,39.1156742
+Clay,1,Stanislas Wawrinka,R,32.13141684,Benoit Paire,R,28.01916496
+Clay,0,Florian Mayer,R,33.60985626,John Isner,R,32.05201917
+Clay,0,Fernando Verdasco,L,33.49760438,David Goffin,R,26.4366872
+Clay,0,Ryan Harrison,R,25.02121834,Marin Cilic,R,28.62696783
+Clay,0,Pablo Cuevas,R,31.36755647,Dominic Thiem,R,23.69609856
+Clay,1,Sam Querrey,R,29.60438056,Jan Lennard Struff,R,27.05544148
+Clay,0,Jiri Vesely,L,23.84668036,Jack Sock,R,24.63791923
+Clay,0,Nicolas Almagro,R,31.73169062,Rafael Nadal,L,30.9486653
+Clay,1,Kei Nishikori,R,27.37577002,David Ferrer,R,35.11841205
+Clay,0,Kyle Edmund,R,22.34907598,Juan Martin Del Potro,R,28.64065708
+Clay,1,Roberto Bautista Agut,R,29.08418891,Pablo Carreno Busta,R,25.84257358
+Clay,1,Novak Djokovic,R,29.98220397,Aljaz Bedene,R,27.82477755
+Clay,1,Fabio Fognini,R,29.97672827,Matteo Berrettini,U,21.08966461
+Clay,0,Stefano Napolitano,R,22.09445585,Viktor Troicki,R,31.25804244
+Clay,0,Kevin Anderson,R,30.99247091,Alexander Zverev,R,20.06844627
+Clay,0,Mischa Zverev,L,29.7303217,Tomas Berdych,R,31.65776865
+Clay,1,Carlos Berlocq,R,34.27789185,Robin Haase,R,30.10814511
+Clay,0,Ernesto Escobedo,R,20.862423,Tommy Haas,R,39.1156742
+Clay,0,Nicolas Mahut,R,35.31279945,Benoit Paire,R,28.01916496
+Clay,1,Florian Mayer,R,33.60985626,Thiago Monteiro,L,22.95687885
+Clay,0,Albert Ramos,L,29.32511978,John Isner,R,32.05201917
+Clay,0,Thomaz Bellucci,L,29.3744011,David Goffin,R,26.4366872
+Clay,1,Fernando Verdasco,L,33.49760438,Donald Young,L,27.8110883
+Clay,0,Jared Donaldson,R,20.59685147,Ryan Harrison,R,25.02121834
+Clay,1,Pablo Cuevas,R,31.36755647,Adrian Mannarino,L,28.87611225
+Clay,1,Jan Lennard Struff,R,27.05544148,Bernard Tomic,R,24.56399726
+Clay,0,Lucas Pouille,R,23.22245038,Sam Querrey,R,29.60438056
+Clay,1,Jack Sock,R,24.63791923,Diego Sebastian Schwartzman,R,24.74469541
+Clay,1,Jiri Vesely,L,23.84668036,Daniel Evans,R,26.97878166
+Clay,1,Nicolas Almagro,R,31.73169062,Andreas Seppi,R,33.229295
+Clay,0,Feliciano Lopez,L,35.6495551,David Ferrer,R,35.11841205
+Clay,1,Kyle Edmund,R,22.34907598,Joao Sousa,R,28.12594114
+Clay,1,Juan Martin Del Potro,R,28.64065708,Grigor Dimitrov,R,25.99863107
+Clay,0,Gilles Simon,R,32.38056126,Pablo Carreno Busta,R,25.84257358
+Clay,0,Alexandr Dolgopolov,R,28.5174538,Roberto Bautista Agut,R,29.08418891
+Clay,0,Gianluca Mager,R,22.45311431,Aljaz Bedene,R,27.82477755
+Clay,1,Stanislas Wawrinka,R,32.15058179,Mischa Zverev,L,29.74948665
+Clay,1,Stanislas Wawrinka,R,32.15058179,Andrey Kuznetsov,R,26.24503765
+Clay,0,Kei Nishikori,R,27.39493498,Mischa Zverev,L,29.74948665
+Clay,1,Stanislas Wawrinka,R,32.15058179,Sam Querrey,R,29.62354552
+Clay,0,Cedrik Marcel Stebe,L,26.61738535,Andrey Kuznetsov,R,26.24503765
+Clay,0,Steve Johnson,R,27.40862423,Mischa Zverev,L,29.74948665
+Clay,1,Kei Nishikori,R,27.39493498,Kevin Anderson,R,31.01163587
+Clay,1,Stanislas Wawrinka,R,32.15058179,Rogerio Dutra Silva,R,33.29774127
+Clay,1,Sam Querrey,R,29.62354552,Franco Skugor,R,29.67008898
+Clay,1,Andrey Kuznetsov,R,26.24503765,Albert Ramos,L,29.34428474
+Clay,1,Cedrik Marcel Stebe,L,26.61738535,Janko Tipsarevic,R,32.91444216
+Clay,1,Steve Johnson,R,27.40862423,Horacio Zeballos,L,32.06844627
+Clay,0,John Isner,R,32.07118412,Mischa Zverev,L,29.74948665
+Clay,1,Kevin Anderson,R,31.01163587,Jared Donaldson,R,20.61601643
+Clay,1,Kei Nishikori,R,27.39493498,Mikhail Kukushkin,R,29.40451745
+Clay,0,Joao Sousa,R,28.14510609,Rogerio Dutra Silva,R,33.29774127
+Clay,1,Franco Skugor,R,29.67008898,Tommy Robredo,R,35.05817933
+Clay,1,Sam Querrey,R,29.62354552,Daniel Altmaier,U,18.69130732
+Clay,1,Andrey Kuznetsov,R,26.24503765,Thomaz Bellucci,L,29.39356605
+Clay,0,Jan Lennard Struff,R,27.07460643,Cedrik Marcel Stebe,L,26.61738535
+Clay,1,Janko Tipsarevic,R,32.91444216,Ryan Harrison,R,25.0403833
+Clay,1,Steve Johnson,R,27.40862423,Stephane Robert,R,37.01300479
+Clay,1,Horacio Zeballos,L,32.06844627,Dusan Lajovic,R,26.89390828
+Clay,0,Robin Haase,R,30.12731006,Mischa Zverev,L,29.74948665
+Clay,1,Kevin Anderson,R,31.01163587,Paolo Lorenzi,R,35.43326489
+Clay,0,Victor Estrella,R,36.80219028,Jared Donaldson,R,20.61601643
+Clay,1,Mikhail Kukushkin,R,29.40451745,Roberto Marcora,R,27.72621492
+Clay,0,Tomas Berdych,R,31.67693361,Jo Wilfried Tsonga,R,32.09582478
+Clay,0,Milos Raonic,R,26.40109514,Tomas Berdych,R,31.67693361
+Clay,1,Jo Wilfried Tsonga,R,32.09582478,Nikoloz Basilashvili,R,25.24298426
+Clay,1,Milos Raonic,R,26.40109514,Gastao Elias,R,26.49144422
+Clay,1,Tomas Berdych,R,31.67693361,Gilles Simon,R,32.39972621
+Clay,0,Nicolas Kicker,R,24.76386037,Nikoloz Basilashvili,R,25.24298426
+Clay,1,Jo Wilfried Tsonga,R,32.09582478,Karen Khachanov,R,21.00205339
+Clay,0,Denis Istomin,R,30.70499658,Milos Raonic,R,26.40109514
+Clay,0,Juan Martin Del Potro,R,28.65982204,Gastao Elias,R,26.49144422
+Clay,1,Tomas Berdych,R,31.67693361,Hyeon Chung,R,21.00752909
+Clay,0,Kyle Edmund,R,22.36824093,Gilles Simon,R,32.39972621
+Clay,1,Nikoloz Basilashvili,R,25.24298426,Andreas Seppi,R,33.24845996
+Clay,1,Nicolas Kicker,R,24.76386037,Nick Kyrgios,R,22.0698152
+Clay,1,Karen Khachanov,R,21.00205339,Jordan Thompson,R,23.08829569
+Clay,1,Jo Wilfried Tsonga,R,32.09582478,Carlos Berlocq,R,34.29705681
+Clay,1,Denis Istomin,R,30.70499658,Thanasi Kokkinakis,R,21.11430527
+Clay,1,Gastao Elias,R,26.49144422,Radu Albot,R,27.52635181
+Clay,1,Juan Martin Del Potro,R,28.65982204,Quentin Halys,R,20.56947296
+Clay,0,Donald Young,L,27.83025325,Hyeon Chung,R,21.00752909
+Clay,1,Kyle Edmund,R,22.36824093,Thiago Monteiro,L,22.97604381
+Clay,1,Gilles Simon,R,32.39972621,Daniil Medvedev,R,21.27583847
+Clay,1,Nikoloz Basilashvili,R,25.24298426,Borna Coric,R,20.5174538
+Clay,1,Andreas Seppi,R,33.24845996,Damir Dzumhur,R,25.00479124
+Clay,1,Nicolas Kicker,R,24.76386037,Dustin Brown,R,32.45174538
+Clay,1,Jordan Thompson,R,23.08829569,Benoit Paire,R,28.03832991
+Clay,0,Renzo Olivo,R,25.18548939,Karen Khachanov,R,21.00205339
+Clay,1,Carlos Berlocq,R,34.29705681,Tennys Sandgren,R,25.83436003
+Clay,0,Andrey Kuznetsov,R,26.2642026,Andy Murray,R,30.03969884
+Clay,1,Martin Klizan,L,27.88227242,Laurent Lokoli,R,22.61190965
+Clay,1,Nicolas Almagro,R,31.77002053,Marcos Baghdatis,R,31.94798084
+Clay,0,Guido Pella,L,27.03353867,Juan Martin Del Potro,R,28.678987
+Clay,0,Jordan Thompson,R,23.10746064,John Isner,R,32.09034908
+Clay,0,Ricardas Berankis,R,26.93771389,Paolo Lorenzi,R,35.45242984
+Clay,0,Nicolas Jarry,R,21.63175907,Karen Khachanov,R,21.02121834
+Clay,0,Jan Lennard Struff,R,27.09377139,Tomas Berdych,R,31.69609856
+Clay,1,Fernando Verdasco,L,33.53593429,Alexander Zverev,R,20.10677618
+Clay,0,Jared Donaldson,R,20.63518138,Pierre Hugues Herbert,R,26.19849418
+Clay,1,Nicolas Kicker,R,24.78302533,Damir Dzumhur,R,25.02395619
+Clay,0,Maxime Hamou,R,21.97399042,Pablo Cuevas,R,31.40588638
+Clay,0,Sam Querrey,R,29.64271047,Hyeon Chung,R,21.02669405
+Clay,1,Denis Istomin,R,30.72416153,Ernesto Escobedo,R,20.90075291
+Clay,0,Radu Albot,R,27.54551677,Jeremy Chardy,R,30.29158111
+Clay,0,Thanasi Kokkinakis,R,21.13347023,Kei Nishikori,R,27.41409993
+Clay,1,Stanislas Wawrinka,R,32.16974675,Jozef Kovalik,R,24.56399726
+Clay,1,Alexandr Dolgopolov,R,28.55578371,Carlos Berlocq,R,34.31622177
+Clay,1,Andreas Seppi,R,33.26762491,Santiago Giraldo,R,29.50308008
+Clay,1,Fabio Fognini,R,30.01505818,Francis Tiafoe,R,19.35386721
+Clay,1,Richard Gasquet,R,30.94592745,Arthur De Greef,R,25.17180014
+Clay,0,Teymuraz Gabashvili,R,32.0164271,Victor Estrella,R,36.82135524
+Clay,1,Thiago Monteiro,L,22.99520876,Alexandre Muller,U,20.32032854
+Clay,1,Gael Monfils,R,30.74058864,Dustin Brown,R,32.47091034
+Clay,0,Jo Wilfried Tsonga,R,32.11498973,Renzo Olivo,R,25.20465435
+Clay,0,Gastao Elias,R,26.51060917,Kyle Edmund,R,22.38740589
+Clay,0,Malek Jaziri,R,33.35523614,Kevin Anderson,R,31.03080082
+Clay,0,Philipp Kohlschreiber,R,33.61806982,Nick Kyrgios,R,22.08898015
+Clay,1,David Ferrer,R,35.15674196,Donald Young,L,27.84941821
+Clay,1,Feliciano Lopez,L,35.68788501,Bjorn Fratangelo,R,23.86036961
+Clay,1,Konstantin Kravchuk,R,32.26009582,Federico Delbonis,L,26.64750171
+Clay,0,Ernests Gulbis,R,28.74469541,Marin Cilic,R,28.66529774
+Clay,1,Milos Raonic,R,26.4202601,Steve Darcis,R,33.21013005
+Clay,0,Mikhail Youzhny,R,34.92676249,Rogerio Dutra Silva,R,33.31690623
+Clay,1,Marco Trungelliti,R,27.32375086,Quentin Halys,R,20.58863792
+Clay,0,Gilles Muller,L,34.05612594,Guillermo Garcia Lopez,R,33.98494182
+Clay,0,Florian Mayer,R,33.64818617,Pablo Carreno Busta,R,25.88090349
+Clay,0,Jerzy Janowicz,R,26.54072553,Taro Daniel,R,24.3340178
+Clay,1,Tommy Robredo,R,35.07734428,Daniel Evans,R,27.01711157
+Clay,0,Stephane Robert,R,37.03216975,Grigor Dimitrov,R,26.03696099
+Clay,1,Jiri Vesely,L,23.88501027,Jack Sock,R,24.67624914
+Clay,1,Aljaz Bedene,R,27.86310746,Ryan Harrison,R,25.05954825
+Clay,0,Tennys Sandgren,R,25.85352498,Mikhail Kukushkin,R,29.42368241
+Clay,1,Roberto Bautista Agut,R,29.12251882,John Millman,R,27.95619439
+Clay,1,Nikoloz Basilashvili,R,25.26214921,Gilles Simon,R,32.41889117
+Clay,1,Viktor Troicki,R,31.29637235,Evgeny Donskoy,R,27.05544148
+Clay,1,Robin Haase,R,30.14647502,Alex De Minaur,R,18.27789185
+Clay,1,Rafael Nadal,L,30.98699521,Benoit Paire,R,28.05749487
+Clay,0,Bernard Tomic,R,24.60232717,Dominic Thiem,R,23.73442847
+Clay,0,Nicolas Mahut,R,35.35112936,Simone Bolelli,R,31.6386037
+Clay,0,Mathias Bourgue,R,23.35934292,Borna Coric,R,20.53661875
+Clay,1,Steve Johnson,R,27.42778919,Yuichi Sugita,R,28.69267625
+Clay,0,Stefanos Tsitsipas,R,18.79534565,Ivo Karlovic,R,38.2477755
+Clay,1,Horacio Zeballos,L,32.08761123,Adrian Mannarino,L,28.91444216
+Clay,0,Yen Hsun Lu,R,33.79055441,Sergiy Stakhovsky,R,31.39219713
+Clay,1,David Goffin,R,26.47501711,Paul Henri Mathieu,R,35.37577002
+Clay,0,Julien Benneteau,R,35.43874059,Lucas Pouille,R,23.26078029
+Clay,0,Dusan Lajovic,R,26.91307324,Thomaz Bellucci,L,29.41273101
+Clay,1,Benjamin Bonzi,U,20.96919918,Daniil Medvedev,R,21.29500342
+Clay,1,Albert Ramos,L,29.36344969,Marius Copil,R,26.6146475
+Clay,0,Mischa Zverev,L,29.76865161,Stefano Napolitano,R,22.13278576
+Clay,1,Diego Sebastian Schwartzman,R,24.78302533,Andrey Rublev,R,19.60574949
+Clay,0,Janko Tipsarevic,R,32.93360712,Joao Sousa,R,28.16427105
+Clay,1,Novak Djokovic,R,30.02053388,Marcel Granollers,R,31.12936345
+Clay,1,Andy Murray,R,30.03969884,Martin Klizan,L,27.88227242
+Clay,0,Nicolas Almagro,R,31.77002053,Juan Martin Del Potro,R,28.678987
+Clay,1,John Isner,R,32.09034908,Paolo Lorenzi,R,35.45242984
+Clay,0,Tomas Berdych,R,31.69609856,Karen Khachanov,R,21.02121834
+Clay,1,Fernando Verdasco,L,33.53593429,Pierre Hugues Herbert,R,26.19849418
+Clay,1,Pablo Cuevas,R,31.40588638,Nicolas Kicker,R,24.78302533
+Clay,1,Hyeon Chung,R,21.02669405,Denis Istomin,R,30.72416153
+Clay,0,Jeremy Chardy,R,30.29158111,Kei Nishikori,R,27.41409993
+Clay,1,Stanislas Wawrinka,R,32.16974675,Alexandr Dolgopolov,R,28.55578371
+Clay,1,Fabio Fognini,R,30.01505818,Andreas Seppi,R,33.26762491
+Clay,0,Victor Estrella,R,36.82135524,Richard Gasquet,R,30.94592745
+Clay,1,Gael Monfils,R,30.74058864,Thiago Monteiro,L,22.99520876
+Clay,0,Renzo Olivo,R,25.20465435,Kyle Edmund,R,22.38740589
+Clay,1,Kevin Anderson,R,31.03080082,Nick Kyrgios,R,22.08898015
+Clay,0,David Ferrer,R,35.15674196,Feliciano Lopez,L,35.68788501
+Clay,1,Marin Cilic,R,28.66529774,Konstantin Kravchuk,R,32.26009582
+Clay,0,Rogerio Dutra Silva,R,33.31690623,Milos Raonic,R,26.4202601
+Clay,1,Guillermo Garcia Lopez,R,33.98494182,Marco Trungelliti,R,27.32375086
+Clay,1,Pablo Carreno Busta,R,25.88090349,Taro Daniel,R,24.3340178
+Clay,0,Tommy Robredo,R,35.07734428,Grigor Dimitrov,R,26.03696099
+Clay,1,Jiri Vesely,L,23.88501027,Aljaz Bedene,R,27.86310746
+Clay,1,Roberto Bautista Agut,R,29.12251882,Mikhail Kukushkin,R,29.42368241
+Clay,0,Viktor Troicki,R,31.29637235,Nikoloz Basilashvili,R,25.26214921
+Clay,1,Rafael Nadal,L,30.98699521,Robin Haase,R,30.14647502
+Clay,0,Simone Bolelli,R,31.6386037,Dominic Thiem,R,23.73442847
+Clay,1,Steve Johnson,R,27.42778919,Borna Coric,R,20.53661875
+Clay,0,Ivo Karlovic,R,38.2477755,Horacio Zeballos,L,32.08761123
+Clay,0,Sergiy Stakhovsky,R,31.39219713,David Goffin,R,26.47501711
+Clay,1,Lucas Pouille,R,23.26078029,Thomaz Bellucci,L,29.41273101
+Clay,0,Benjamin Bonzi,U,20.96919918,Albert Ramos,L,29.36344969
+Clay,0,Stefano Napolitano,R,22.13278576,Diego Sebastian Schwartzman,R,24.78302533
+Clay,1,Novak Djokovic,R,30.02053388,Joao Sousa,R,28.16427105
+Clay,0,Juan Martin Del Potro,R,28.678987,Andy Murray,R,30.03969884
+Clay,0,John Isner,R,32.09034908,Karen Khachanov,R,21.02121834
+Clay,0,Pablo Cuevas,R,31.40588638,Fernando Verdasco,L,33.53593429
+Clay,1,Kei Nishikori,R,27.41409993,Hyeon Chung,R,21.02669405
+Clay,0,Fabio Fognini,R,30.01505818,Stanislas Wawrinka,R,32.16974675
+Clay,1,Gael Monfils,R,30.74058864,Richard Gasquet,R,30.94592745
+Clay,0,Kyle Edmund,R,22.38740589,Kevin Anderson,R,31.03080082
+Clay,0,Feliciano Lopez,L,35.68788501,Marin Cilic,R,28.66529774
+Clay,1,Milos Raonic,R,26.4202601,Guillermo Garcia Lopez,R,33.98494182
+Clay,0,Grigor Dimitrov,R,26.03696099,Pablo Carreno Busta,R,25.88090349
+Clay,0,Jiri Vesely,L,23.88501027,Roberto Bautista Agut,R,29.12251882
+Clay,1,Rafael Nadal,L,30.98699521,Nikoloz Basilashvili,R,25.26214921
+Clay,0,Steve Johnson,R,27.42778919,Dominic Thiem,R,23.73442847
+Clay,1,Horacio Zeballos,L,32.08761123,David Goffin,R,26.47501711
+Clay,0,Lucas Pouille,R,23.26078029,Albert Ramos,L,29.36344969
+Clay,0,Diego Sebastian Schwartzman,R,24.78302533,Novak Djokovic,R,30.02053388
+Clay,0,Karen Khachanov,R,21.02121834,Andy Murray,R,30.03969884
+Clay,1,Kei Nishikori,R,27.41409993,Fernando Verdasco,L,33.53593429
+Clay,1,Stanislas Wawrinka,R,32.16974675,Gael Monfils,R,30.74058864
+Clay,0,Kevin Anderson,R,31.03080082,Marin Cilic,R,28.66529774
+Clay,0,Milos Raonic,R,26.4202601,Pablo Carreno Busta,R,25.88090349
+Clay,0,Roberto Bautista Agut,R,29.12251882,Rafael Nadal,L,30.98699521
+Clay,0,Horacio Zeballos,L,32.08761123,Dominic Thiem,R,23.73442847
+Clay,1,Novak Djokovic,R,30.02053388,Albert Ramos,L,29.36344969
+Clay,1,Andy Murray,R,30.03969884,Kei Nishikori,R,27.41409993
+Clay,1,Stanislas Wawrinka,R,32.16974675,Marin Cilic,R,28.66529774
+Clay,0,Pablo Carreno Busta,R,25.88090349,Rafael Nadal,L,30.98699521
+Clay,1,Dominic Thiem,R,23.73442847,Novak Djokovic,R,30.02053388
+Clay,0,Andy Murray,R,30.03969884,Stanislas Wawrinka,R,32.16974675
+Clay,0,Dominic Thiem,R,23.73442847,Rafael Nadal,L,30.98699521
+Clay,1,Rafael Nadal,L,30.98699521,Stanislas Wawrinka,R,32.16974675
+Grass,0,Ivo Karlovic,R,38.28610541,Gilles Muller,L,34.09445585
+Grass,1,Ivo Karlovic,R,38.28610541,Marin Cilic,R,28.70362765
+Grass,1,Gilles Muller,L,34.09445585,Alexander Zverev,R,20.14510609
+Grass,1,Marin Cilic,R,28.70362765,Vasek Pospisil,R,26.9705681
+Grass,1,Ivo Karlovic,R,38.28610541,Daniil Medvedev,R,21.33333333
+Grass,1,Gilles Muller,L,34.09445585,Aljaz Bedene,R,27.90143737
+Grass,0,Julien Benneteau,R,35.4770705,Alexander Zverev,R,20.14510609
+Grass,1,Marin Cilic,R,28.70362765,Janko Tipsarevic,R,32.97193703
+Grass,1,Vasek Pospisil,R,26.9705681,Alexandr Dolgopolov,R,28.59411362
+Grass,0,Stefan Kozlov,R,19.35934292,Ivo Karlovic,R,38.28610541
+Grass,1,Daniil Medvedev,R,21.33333333,Thanasi Kokkinakis,R,21.17180014
+Grass,1,Aljaz Bedene,R,27.90143737,Ernesto Escobedo,R,20.93908282
+Grass,1,Gilles Muller,L,34.09445585,Andreas Seppi,R,33.30595483
+Grass,1,Julien Benneteau,R,35.4770705,Nicolas Mahut,R,35.38945927
+Grass,0,Adrian Mannarino,L,28.95277207,Alexander Zverev,R,20.14510609
+Grass,1,Janko Tipsarevic,R,32.97193703,Yuichi Sugita,R,28.73100616
+Grass,0,Tallon Griekspoor,R,20.94455852,Vasek Pospisil,R,26.9705681
+Grass,0,Steve Darcis,R,33.24845996,Alexandr Dolgopolov,R,28.59411362
+Grass,1,Stefan Kozlov,R,19.35934292,Dustin Brown,R,32.50924025
+Grass,1,Thanasi Kokkinakis,R,21.17180014,Mikhail Youzhny,R,34.9650924
+Grass,1,Daniil Medvedev,R,21.33333333,Robin Haase,R,30.18480493
+Grass,0,Denis Istomin,R,30.76249144,Aljaz Bedene,R,27.90143737
+Grass,1,Ernesto Escobedo,R,20.93908282,Jason Jung,R,27.99178645
+Grass,1,Andreas Seppi,R,33.30595483,Tatsuma Ito,R,29.06776181
+Grass,0,Dennis Novikov,R,23.59753593,Nicolas Mahut,R,35.38945927
+Grass,1,Julien Benneteau,R,35.4770705,Evgeny Donskoy,R,27.09377139
+Grass,0,Jordan Thompson,R,23.14579055,Adrian Mannarino,L,28.95277207
+Grass,0,Feliciano Lopez,L,35.72621492,Lucas Pouille,R,23.2991102
+Grass,1,Feliciano Lopez,L,35.72621492,Mischa Zverev,L,29.80698152
+Grass,0,Benoit Paire,R,28.09582478,Lucas Pouille,R,23.2991102
+Grass,1,Mischa Zverev,L,29.80698152,Tommy Haas,R,39.19233402
+Grass,1,Feliciano Lopez,L,35.72621492,Tomas Berdych,R,31.73442847
+Grass,1,Lucas Pouille,R,23.2991102,Philipp Kohlschreiber,R,33.65639973
+Grass,1,Benoit Paire,R,28.09582478,Jerzy Janowicz,R,26.57905544
+Grass,1,Tommy Haas,R,39.19233402,Roger Federer,R,35.84394251
+Grass,1,Mischa Zverev,L,29.80698152,Yannick Hanfmann,U,25.5797399
+Grass,1,Tomas Berdych,R,31.73442847,Bernard Tomic,R,24.64065708
+Grass,0,Jeremy Chardy,R,30.32991102,Feliciano Lopez,L,35.72621492
+Grass,1,Philipp Kohlschreiber,R,33.65639973,Steve Johnson,R,27.4661191
+Grass,0,Jan Lennard Struff,R,27.1321013,Lucas Pouille,R,23.2991102
+Grass,0,Peter Gojowczyk,R,27.90965092,Benoit Paire,R,28.09582478
+Grass,0,Grigor Dimitrov,R,26.0752909,Jerzy Janowicz,R,26.57905544
+Grass,0,Pierre Hugues Herbert,R,26.23682409,Tommy Haas,R,39.19233402
+Grass,1,Yannick Hanfmann,U,25.5797399,Marton Fucsovics,R,25.34154689
+Grass,1,Mischa Zverev,L,29.80698152,Malek Jaziri,R,33.39356605
+Grass,1,Bernard Tomic,R,24.64065708,Stephane Robert,R,37.07049966
+Grass,0,Florian Mayer,R,33.68651608,Jeremy Chardy,R,30.32991102
+Grass,0,Gilles Simon,R,32.45722108,Feliciano Lopez,L,35.72621492
+Grass,0,Maximilian Marterer,L,21.99315537,Steve Johnson,R,27.4661191
+Grass,0,Marcos Baghdatis,R,31.98631075,Philipp Kohlschreiber,R,33.65639973
+Grass,1,Jan Lennard Struff,R,27.1321013,Lukas Lacko,R,29.60711841
+Grass,1,Benoit Paire,R,28.09582478,Viktor Troicki,R,31.33470226
+Grass,0,Nikoloz Basilashvili,R,25.30047912,Peter Gojowczyk,R,27.90965092
+Grass,0,Andrey Kuznetsov,R,26.30253251,Jerzy Janowicz,R,26.57905544
+Grass,1,Roger Federer,R,35.86310746,Alexander Zverev,R,20.16427105
+Grass,0,Karen Khachanov,R,21.07871321,Roger Federer,R,35.86310746
+Grass,0,Richard Gasquet,R,31.00342231,Alexander Zverev,R,20.16427105
+Grass,1,Roger Federer,R,35.86310746,Florian Mayer,R,33.70568104
+Grass,0,Andrey Rublev,R,19.66324435,Karen Khachanov,R,21.07871321
+Grass,0,Roberto Bautista Agut,R,29.18001369,Alexander Zverev,R,20.16427105
+Grass,1,Richard Gasquet,R,31.00342231,Robin Haase,R,30.20396988
+Grass,0,Mischa Zverev,L,29.82614648,Roger Federer,R,35.86310746
+Grass,1,Florian Mayer,R,33.70568104,Lucas Pouille,R,23.31827515
+Grass,0,Kei Nishikori,R,27.4715948,Karen Khachanov,R,21.07871321
+Grass,0,Mikhail Youzhny,R,34.98425736,Andrey Rublev,R,19.66324435
+Grass,1,Roberto Bautista Agut,R,29.18001369,Dustin Brown,R,32.5284052
+Grass,1,Alexander Zverev,R,20.16427105,Philipp Kohlschreiber,R,33.67556468
+Grass,1,Richard Gasquet,R,31.00342231,Bernard Tomic,R,24.65982204
+Grass,0,Dominic Thiem,R,23.79192334,Robin Haase,R,30.20396988
+Grass,0,Yuichi Sugita,R,28.75017112,Roger Federer,R,35.86310746
+Grass,0,Lukas Lacko,R,29.62628337,Mischa Zverev,L,29.82614648
+Grass,1,Florian Mayer,R,33.70568104,Benoit Paire,R,28.11498973
+Grass,1,Lucas Pouille,R,23.31827515,Jan Lennard Struff,R,27.15126626
+Grass,0,Fernando Verdasco,L,33.59342916,Kei Nishikori,R,27.4715948
+Grass,0,Gilles Simon,R,32.47638604,Karen Khachanov,R,21.07871321
+Grass,0,Ivo Karlovic,R,38.30527036,Mikhail Youzhny,R,34.98425736
+Grass,0,Albert Ramos,L,29.42094456,Andrey Rublev,R,19.66324435
+Grass,0,Carlos Berlocq,R,34.37371663,Roberto Bautista Agut,R,29.18001369
+Grass,0,Vasek Pospisil,R,26.98973306,Dustin Brown,R,32.5284052
+Grass,0,Joao Sousa,R,28.22176591,Philipp Kohlschreiber,R,33.67556468
+Grass,0,Paolo Lorenzi,R,35.50992471,Alexander Zverev,R,20.16427105
+Grass,0,Gael Monfils,R,30.7980835,Richard Gasquet,R,31.00342231
+Grass,0,Tommy Haas,R,39.21149897,Bernard Tomic,R,24.65982204
+Grass,1,Robin Haase,R,30.20396988,David Ferrer,R,35.21423682
+Grass,0,Maximilian Marterer,L,22.01232033,Dominic Thiem,R,23.79192334
+Grass,0,Marin Cilic,R,28.72279261,Feliciano Lopez,L,35.74537988
+Grass,1,Marin Cilic,R,28.72279261,Gilles Muller,L,34.11362081
+Grass,1,Feliciano Lopez,L,35.74537988,Grigor Dimitrov,R,26.09445585
+Grass,1,Gilles Muller,L,34.11362081,Sam Querrey,R,29.70020534
+Grass,0,Donald Young,L,27.90691307,Marin Cilic,R,28.72279261
+Grass,0,Daniil Medvedev,R,21.35249829,Grigor Dimitrov,R,26.09445585
+Grass,1,Feliciano Lopez,L,35.74537988,Tomas Berdych,R,31.75359343
+Grass,0,Jordan Thompson,R,23.16495551,Sam Querrey,R,29.70020534
+Grass,1,Gilles Muller,L,34.11362081,Jo Wilfried Tsonga,R,32.1724846
+Grass,1,Marin Cilic,R,28.72279261,Stefan Kozlov,R,19.37850787
+Grass,0,Viktor Troicki,R,31.35386721,Donald Young,L,27.90691307
+Grass,1,Grigor Dimitrov,R,26.09445585,Julien Benneteau,R,35.49623546
+Grass,0,Thanasi Kokkinakis,R,21.19096509,Daniil Medvedev,R,21.35249829
+Grass,1,Tomas Berdych,R,31.75359343,Denis Shapovalov,L,18.17932923
+Grass,0,Jeremy Chardy,R,30.34907598,Feliciano Lopez,L,35.74537988
+Grass,0,Andy Murray,R,30.0971937,Jordan Thompson,R,23.16495551
+Grass,0,Cameron Norrie,L,21.82340862,Sam Querrey,R,29.70020534
+Grass,0,Nikoloz Basilashvili,R,25.31964408,Gilles Muller,L,34.11362081
+Grass,0,Adrian Mannarino,L,28.97193703,Jo Wilfried Tsonga,R,32.1724846
+Grass,0,John Isner,R,32.14784394,Marin Cilic,R,28.72279261
+Grass,0,Steve Johnson,R,27.48528405,Stefan Kozlov,R,19.37850787
+Grass,0,Janko Tipsarevic,R,32.99110198,Viktor Troicki,R,31.35386721
+Grass,0,Nick Kyrgios,R,22.14647502,Donald Young,L,27.90691307
+Grass,1,Grigor Dimitrov,R,26.09445585,Ryan Harrison,R,25.11704312
+Grass,1,Julien Benneteau,R,35.49623546,James Ward,R,30.35728953
+Grass,1,Daniil Medvedev,R,21.35249829,Nicolas Mahut,R,35.40862423
+Grass,0,Milos Raonic,R,26.47775496,Thanasi Kokkinakis,R,21.19096509
+Grass,1,Tomas Berdych,R,31.75359343,Steve Darcis,R,33.26762491
+Grass,1,Denis Shapovalov,L,18.17932923,Kyle Edmund,R,22.44490075
+Grass,1,Jeremy Chardy,R,30.34907598,Liam Broady,L,23.45516769
+Grass,1,Feliciano Lopez,L,35.74537988,Stanislas Wawrinka,R,32.22724162
+Grass,0,Adrian Mannarino,L,28.99110198,Yuichi Sugita,R,28.76933607
+Grass,0,Marcos Baghdatis,R,32.02464066,Yuichi Sugita,R,28.76933607
+Grass,0,Andreas Seppi,R,33.34428474,Adrian Mannarino,L,28.99110198
+Grass,1,Marcos Baghdatis,R,32.02464066,Ramkumar Ramanathan,R,22.63107461
+Grass,1,Yuichi Sugita,R,28.76933607,Daniel Altmaier,U,18.7871321
+Grass,1,Adrian Mannarino,L,28.99110198,Fernando Verdasco,L,33.61259411
+Grass,0,Radu Albot,R,27.62217659,Andreas Seppi,R,33.34428474
+Grass,0,Dominic Thiem,R,23.8110883,Ramkumar Ramanathan,R,22.63107461
+Grass,1,Marcos Baghdatis,R,32.02464066,Carlos Berlocq,R,34.39288159
+Grass,1,Yuichi Sugita,R,28.76933607,David Ferrer,R,35.23340178
+Grass,1,Daniel Altmaier,U,18.7871321,Marsel Ilhan,R,30.04243669
+Grass,0,Mohamed Safwat,R,26.76796715,Adrian Mannarino,L,28.99110198
+Grass,1,Fernando Verdasco,L,33.61259411,Steve Darcis,R,33.28678987
+Grass,0,Janko Tipsarevic,R,33.01026694,Andreas Seppi,R,33.34428474
+Grass,1,Radu Albot,R,27.62217659,Paolo Lorenzi,R,35.52908966
+Grass,0,Rogerio Dutra Silva,R,33.39356605,Ramkumar Ramanathan,R,22.63107461
+Grass,0,Nikoloz Basilashvili,R,25.33880903,Marcos Baghdatis,R,32.02464066
+Grass,0,Viktor Troicki,R,31.37303217,Carlos Berlocq,R,34.39288159
+Grass,1,Yuichi Sugita,R,28.76933607,Matthew Ebden,R,29.58247776
+Grass,1,Daniel Altmaier,U,18.7871321,Victor Estrella,R,36.89801506
+Grass,1,Marsel Ilhan,R,30.04243669,Martin Klizan,L,27.95893224
+Grass,0,Borna Coric,R,20.61327858,Adrian Mannarino,L,28.99110198
+Grass,0,Cem Ilkel,R,21.84804928,Mohamed Safwat,R,26.76796715
+Grass,1,Steve Darcis,R,33.28678987,Denis Istomin,R,30.80082136
+Grass,0,Lloyd George Muirhead Harris,R,20.3340178,Janko Tipsarevic,R,33.01026694
+Grass,0,Kamil Majchrzak,R,21.45106092,Andreas Seppi,R,33.34428474
+Grass,1,Radu Albot,R,27.62217659,Joao Sousa,R,28.24093087
+Grass,1,Novak Djokovic,R,30.0971937,Gael Monfils,R,30.81724846
+Grass,0,Daniil Medvedev,R,21.37166324,Novak Djokovic,R,30.0971937
+Grass,0,Richard Gasquet,R,31.02258727,Gael Monfils,R,30.81724846
+Grass,1,Novak Djokovic,R,30.0971937,Donald Young,L,27.92607803
+Grass,1,Daniil Medvedev,R,21.37166324,Steve Johnson,R,27.50444901
+Grass,1,Richard Gasquet,R,31.02258727,John Isner,R,32.1670089
+Grass,1,Gael Monfils,R,30.81724846,Bernard Tomic,R,24.678987
+Grass,1,Novak Djokovic,R,30.0971937,Vasek Pospisil,R,27.00889802
+Grass,1,Donald Young,L,27.92607803,Jared Donaldson,R,20.7118412
+Grass,1,Steve Johnson,R,27.50444901,Thomas Fabbiano,R,28.08487337
+Grass,1,Daniil Medvedev,R,21.37166324,Robin Haase,R,30.22313484
+Grass,1,Richard Gasquet,R,31.02258727,Kevin Anderson,R,31.10746064
+Grass,1,John Isner,R,32.1670089,Dusan Lajovic,R,26.98973306
+Grass,1,Bernard Tomic,R,24.678987,Mischa Zverev,L,29.84531143
+Grass,1,Gael Monfils,R,30.81724846,Cameron Norrie,L,21.84257358
+Grass,0,Jiri Vesely,L,23.96167009,Vasek Pospisil,R,27.00889802
+Grass,0,Kyle Edmund,R,22.46406571,Donald Young,L,27.92607803
+Grass,1,Jared Donaldson,R,20.7118412,Diego Sebastian Schwartzman,R,24.85968515
+Grass,0,Franco Skugor,R,29.76591376,Thomas Fabbiano,R,28.08487337
+Grass,1,Robin Haase,R,30.22313484,Nicolas Mahut,R,35.42778919
+Grass,0,Sam Querrey,R,29.71937029,Daniil Medvedev,R,21.37166324
+Grass,0,Francis Tiafoe,R,19.43052704,Richard Gasquet,R,31.02258727
+Grass,1,Kevin Anderson,R,31.10746064,Thomaz Bellucci,L,29.48939083
+Grass,1,Dusan Lajovic,R,26.98973306,Jeremy Chardy,R,30.36824093
+Grass,0,Ryan Harrison,R,25.13620808,Mischa Zverev,L,29.84531143
+Grass,0,Norbert Gombos,R,26.86926762,Bernard Tomic,R,24.678987
+Grass,1,Cameron Norrie,L,21.84257358,Horacio Zeballos,L,32.16427105
+Grass,0,Alexander Bublik,R,20.04380561,Andy Murray,R,30.13552361
+Grass,0,Joao Sousa,R,28.26009582,Dustin Brown,R,32.56673511
+Grass,1,Jiri Vesely,L,23.98083504,Illya Marchenko,R,29.81793292
+Grass,1,Fabio Fognini,R,30.11088296,Dmitry Tursunov,R,34.55715264
+Grass,0,Nick Kyrgios,R,22.18480493,Pierre Hugues Herbert,R,26.29431896
+Grass,0,Rogerio Dutra Silva,R,33.41273101,Benoit Paire,R,28.15331964
+Grass,0,Denis Shapovalov,L,18.21765914,Jerzy Janowicz,R,26.63655031
+Grass,1,Lucas Pouille,R,23.35660507,Malek Jaziri,R,33.45106092
+Grass,1,Jo Wilfried Tsonga,R,32.21081451,Cameron Norrie,L,21.86173854
+Grass,0,Yen Hsun Lu,R,33.88637919,Simone Bolelli,R,31.73442847
+Grass,0,Carlos Berlocq,R,34.41204654,Nikoloz Basilashvili,R,25.35797399
+Grass,1,Sam Querrey,R,29.73853525,Thomas Fabbiano,R,28.10403833
+Grass,1,Kevin Anderson,R,31.1266256,Fernando Verdasco,L,33.63175907
+Grass,0,Norbert Gombos,R,26.88843258,Andreas Seppi,R,33.36344969
+Grass,1,Ruben Bemelmans,L,29.46748802,Tommy Haas,R,39.24982888
+Grass,0,Stanislas Wawrinka,R,32.26557153,Daniil Medvedev,R,21.3908282
+Grass,0,John Millman,R,28.05201917,Rafael Nadal,L,31.08281999
+Grass,0,Denis Istomin,R,30.81998631,Donald Young,L,27.94524298
+Grass,0,Andrew Whittington,R,23.89322382,Thiago Monteiro,L,23.09103354
+Grass,1,Karen Khachanov,R,21.11704312,Andrey Kuznetsov,R,26.36002738
+Grass,1,Aljaz Bedene,R,27.95893224,Ivo Karlovic,R,38.34360027
+Grass,0,Renzo Olivo,R,25.30047912,Damir Dzumhur,R,25.11978097
+Grass,0,Henri Laaksonen,R,25.25667351,Lukas Rosol,R,31.94250513
+Grass,1,Gilles Muller,L,34.15195072,Marton Fucsovics,R,25.39904175
+Grass,1,Kei Nishikori,R,27.50992471,Marco Cecchinato,R,24.75564682
+Grass,1,Sergiy Stakhovsky,R,31.4880219,Julien Benneteau,R,35.53456537
+Grass,0,Marius Copil,R,26.71047228,Peter Gojowczyk,R,27.96714579
+Grass,0,Andreas Haider Maurer,R,30.28336756,Roberto Bautista Agut,R,29.2183436
+Grass,0,Nicolas Kicker,R,24.8788501,Steve Johnson,R,27.52361396
+Grass,0,Facundo Bagnis,L,27.34565366,Radu Albot,R,27.64134155
+Grass,0,Viktor Troicki,R,31.39219713,Florian Mayer,R,33.74401095
+Grass,1,Marin Cilic,R,28.76112252,Philipp Kohlschreiber,R,33.71389459
+Grass,1,Milos Raonic,R,26.51608487,Jan Lennard Struff,R,27.18959617
+Grass,1,Mikhail Youzhny,R,35.02258727,Nicolas Mahut,R,35.44695414
+Grass,0,Stefano Travaglia,U,25.54140999,Andrey Rublev,R,19.70157426
+Grass,1,Albert Ramos,L,29.45927447,Jordan Thompson,R,23.20328542
+Grass,1,Jack Sock,R,24.77207392,Christian Garin,R,21.09240246
+Grass,0,Thomaz Bellucci,L,29.50855578,Sebastian Ofner,R,21.14168378
+Grass,1,Francis Tiafoe,R,19.44969199,Robin Haase,R,30.24229979
+Grass,0,Evgeny Donskoy,R,27.15126626,Alexander Zverev,R,20.20260096
+Grass,0,Diego Sebastian Schwartzman,R,24.8788501,Grigor Dimitrov,R,26.13278576
+Grass,1,Marcos Baghdatis,R,32.04380561,James Ward,R,30.39561944
+Grass,1,Dudi Sela,R,32.24640657,Marcel Granollers,R,31.22518823
+Grass,1,John Isner,R,32.18617385,Taylor Harry Fritz,R,19.67967146
+Grass,0,Bernard Tomic,R,24.69815195,Mischa Zverev,L,29.86447639
+Grass,0,Taro Daniel,R,24.42984257,Mikhail Kukushkin,R,29.51950719
+Grass,0,Stefanos Tsitsipas,R,18.89117043,Dusan Lajovic,R,27.00889802
+Grass,1,Roger Federer,R,35.90143737,Alexandr Dolgopolov,R,28.65160849
+Grass,1,Dominic Thiem,R,23.83025325,Vasek Pospisil,R,27.02806297
+Grass,0,Nicolas Jarry,R,21.72758385,Gilles Simon,R,32.51471595
+Grass,1,Jared Donaldson,R,20.73100616,Janko Tipsarevic,R,33.0294319
+Grass,1,Paolo Lorenzi,R,35.54825462,Horacio Zeballos,L,32.183436
+Grass,1,David Ferrer,R,35.25256674,Richard Gasquet,R,31.04175222
+Grass,0,Ricardas Berankis,R,27.03353867,Steve Darcis,R,33.30595483
+Grass,0,Borna Coric,R,20.63244353,Ryan Harrison,R,25.15537303
+Grass,0,Jeremy Chardy,R,30.38740589,Tomas Berdych,R,31.79192334
+Grass,0,Daniel Brands,R,29.96303901,Gael Monfils,R,30.83641342
+Grass,0,Alexander Ward,U,27.17590691,Kyle Edmund,R,22.48323066
+Grass,0,Brydan Klein,R,27.50444901,Yuichi Sugita,R,28.78850103
+Grass,0,Feliciano Lopez,L,35.78370979,Adrian Mannarino,L,29.01026694
+Grass,1,Juan Martin Del Potro,R,28.77481177,Thanasi Kokkinakis,R,21.229295
+Grass,1,Ernests Gulbis,R,28.84052019,Victor Estrella,R,36.91718001
+Grass,0,Ernesto Escobedo,R,20.99657769,Adam Pavlasek,R,22.73511294
+Grass,0,Martin Klizan,L,27.97809719,Novak Djokovic,R,30.11635866
+Grass,1,Andy Murray,R,30.13552361,Dustin Brown,R,32.56673511
+Grass,1,Fabio Fognini,R,30.11088296,Jiri Vesely,L,23.98083504
+Grass,0,Pierre Hugues Herbert,R,26.29431896,Benoit Paire,R,28.15331964
+Grass,1,Jerzy Janowicz,R,26.63655031,Lucas Pouille,R,23.35660507
+Grass,1,Jo Wilfried Tsonga,R,32.21081451,Simone Bolelli,R,31.73442847
+Grass,1,Sam Querrey,R,29.73853525,Nikoloz Basilashvili,R,25.35797399
+Grass,0,Andreas Seppi,R,33.36344969,Kevin Anderson,R,31.1266256
+Grass,1,Ruben Bemelmans,L,29.46748802,Daniil Medvedev,R,21.3908282
+Grass,0,Donald Young,L,27.94524298,Rafael Nadal,L,31.08281999
+Grass,1,Karen Khachanov,R,21.11704312,Thiago Monteiro,L,23.09103354
+Grass,0,Damir Dzumhur,R,25.11978097,Aljaz Bedene,R,27.95893224
+Grass,1,Gilles Muller,L,34.15195072,Lukas Rosol,R,31.94250513
+Grass,1,Kei Nishikori,R,27.50992471,Sergiy Stakhovsky,R,31.4880219
+Grass,1,Roberto Bautista Agut,R,29.2183436,Peter Gojowczyk,R,27.96714579
+Grass,0,Radu Albot,R,27.64134155,Steve Johnson,R,27.52361396
+Grass,0,Florian Mayer,R,33.74401095,Marin Cilic,R,28.76112252
+Grass,1,Milos Raonic,R,26.51608487,Mikhail Youzhny,R,35.02258727
+Grass,0,Andrey Rublev,R,19.70157426,Albert Ramos,L,29.45927447
+Grass,0,Jack Sock,R,24.77207392,Sebastian Ofner,R,21.14168378
+Grass,1,Alexander Zverev,R,20.20260096,Francis Tiafoe,R,19.44969199
+Grass,0,Marcos Baghdatis,R,32.04380561,Grigor Dimitrov,R,26.13278576
+Grass,0,John Isner,R,32.18617385,Dudi Sela,R,32.24640657
+Grass,1,Mischa Zverev,L,29.86447639,Mikhail Kukushkin,R,29.51950719
+Grass,0,Dusan Lajovic,R,27.00889802,Roger Federer,R,35.90143737
+Grass,0,Gilles Simon,R,32.51471595,Dominic Thiem,R,23.83025325
+Grass,1,Jared Donaldson,R,20.73100616,Paolo Lorenzi,R,35.54825462
+Grass,1,David Ferrer,R,35.25256674,Steve Darcis,R,33.30595483
+Grass,1,Tomas Berdych,R,31.79192334,Ryan Harrison,R,25.15537303
+Grass,0,Kyle Edmund,R,22.48323066,Gael Monfils,R,30.83641342
+Grass,0,Yuichi Sugita,R,28.78850103,Adrian Mannarino,L,29.01026694
+Grass,1,Ernests Gulbis,R,28.84052019,Juan Martin Del Potro,R,28.77481177
+Grass,1,Novak Djokovic,R,30.11635866,Adam Pavlasek,R,22.73511294
+Grass,0,Fabio Fognini,R,30.11088296,Andy Murray,R,30.13552361
+Grass,0,Jerzy Janowicz,R,26.63655031,Benoit Paire,R,28.15331964
+Grass,1,Sam Querrey,R,29.73853525,Jo Wilfried Tsonga,R,32.21081451
+Grass,0,Ruben Bemelmans,L,29.46748802,Kevin Anderson,R,31.1266256
+Grass,1,Rafael Nadal,L,31.08281999,Karen Khachanov,R,21.11704312
+Grass,0,Aljaz Bedene,R,27.95893224,Gilles Muller,L,34.15195072
+Grass,1,Roberto Bautista Agut,R,29.2183436,Kei Nishikori,R,27.50992471
+Grass,0,Steve Johnson,R,27.52361396,Marin Cilic,R,28.76112252
+Grass,1,Milos Raonic,R,26.51608487,Albert Ramos,L,29.45927447
+Grass,0,Sebastian Ofner,R,21.14168378,Alexander Zverev,R,20.20260096
+Grass,0,Dudi Sela,R,32.24640657,Grigor Dimitrov,R,26.13278576
+Grass,0,Mischa Zverev,L,29.86447639,Roger Federer,R,35.90143737
+Grass,0,Jared Donaldson,R,20.73100616,Dominic Thiem,R,23.83025325
+Grass,1,Tomas Berdych,R,31.79192334,David Ferrer,R,35.25256674
+Grass,1,Adrian Mannarino,L,29.01026694,Gael Monfils,R,30.83641342
+Grass,1,Novak Djokovic,R,30.11635866,Ernests Gulbis,R,28.84052019
+Grass,0,Benoit Paire,R,28.15331964,Andy Murray,R,30.13552361
+Grass,0,Kevin Anderson,R,31.1266256,Sam Querrey,R,29.73853525
+Grass,0,Rafael Nadal,L,31.08281999,Gilles Muller,L,34.15195072
+Grass,0,Roberto Bautista Agut,R,29.2183436,Marin Cilic,R,28.76112252
+Grass,0,Alexander Zverev,R,20.20260096,Milos Raonic,R,26.51608487
+Grass,1,Roger Federer,R,35.90143737,Grigor Dimitrov,R,26.13278576
+Grass,0,Dominic Thiem,R,23.83025325,Tomas Berdych,R,31.79192334
+Grass,0,Adrian Mannarino,L,29.01026694,Novak Djokovic,R,30.11635866
+Grass,1,Sam Querrey,R,29.73853525,Andy Murray,R,30.13552361
+Grass,1,Marin Cilic,R,28.76112252,Gilles Muller,L,34.15195072
+Grass,1,Roger Federer,R,35.90143737,Milos Raonic,R,26.51608487
+Grass,1,Tomas Berdych,R,31.79192334,Novak Djokovic,R,30.11635866
+Grass,1,Marin Cilic,R,28.76112252,Sam Querrey,R,29.73853525
+Grass,1,Roger Federer,R,35.90143737,Tomas Berdych,R,31.79192334
+Grass,1,Roger Federer,R,35.90143737,Marin Cilic,R,28.76112252

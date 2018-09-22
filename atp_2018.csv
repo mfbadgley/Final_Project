@@ -1,0 +1,1413 @@
+tourney_id,tourney_name,surface,player_1_win,player_1,Player_1_hand,Player_1_age,player_2,Player_2_hand,Player_2_age
+2018-M020,Brisbane,Hard,0,Ryan Harrison,R,25.65366188,Nick Kyrgios,R,22.68309377
+2018-M020,Brisbane,Hard,1,Nick Kyrgios,R,22.68309377,Grigor Dimitrov,R,26.63107461
+2018-M020,Brisbane,Hard,0,Alex De Minaur,R,18.87200548,Ryan Harrison,R,25.65366188
+2018-M020,Brisbane,Hard,0,Kyle Edmund,R,22.98151951,Grigor Dimitrov,R,26.63107461
+2018-M020,Brisbane,Hard,0,Alexandr Dolgopolov,R,29.14989733,Nick Kyrgios,R,22.68309377
+2018-M020,Brisbane,Hard,0,Michael Mmoh,R,19.97535934,Alex De Minaur,R,18.87200548
+2018-M020,Brisbane,Hard,1,Ryan Harrison,R,25.65366188,Denis Istomin,R,31.31827515
+2018-M020,Brisbane,Hard,1,Grigor Dimitrov,R,26.63107461,John Millman,R,28.55030801
+2018-M020,Brisbane,Hard,1,Kyle Edmund,R,22.98151951,Hyeon Chung,R,21.62080767
+2018-M020,Brisbane,Hard,1,Nick Kyrgios,R,22.68309377,Matthew Ebden,R,30.09993155
+2018-M020,Brisbane,Hard,0,Horacio Zeballos,L,32.68172485,Alexandr Dolgopolov,R,29.14989733
+2018-M020,Brisbane,Hard,0,Mischa Zverev,L,30.36276523,Michael Mmoh,R,19.97535934
+2018-M020,Brisbane,Hard,1,Alex De Minaur,R,18.87200548,Milos Raonic,R,27.01437372
+2018-M020,Brisbane,Hard,0,Jared Donaldson,R,21.229295,Denis Istomin,R,31.31827515
+2018-M020,Brisbane,Hard,0,Yannick Hanfmann,U,26.13552361,Ryan Harrison,R,25.65366188
+2018-M020,Brisbane,Hard,1,John Millman,R,28.55030801,Peter Polansky,R,29.54688569
+2018-M020,Brisbane,Hard,0,Denis Shapovalov,L,18.71594798,Kyle Edmund,R,22.98151951
+2018-M020,Brisbane,Hard,1,Hyeon Chung,R,21.62080767,Gilles Muller,L,34.65023956
+2018-M020,Brisbane,Hard,1,Matthew Ebden,R,30.09993155,Francis Tiafoe,R,19.94798084
+2018-M020,Brisbane,Hard,1,Horacio Zeballos,L,32.68172485,Ernesto Escobedo,R,21.49486653
+2018-M020,Brisbane,Hard,1,Alexandr Dolgopolov,R,29.14989733,Diego Sebastian Schwartzman,R,25.37713895
+2018-M020,Brisbane,Hard,0,John Patrick Smith,L,28.07665982,Mischa Zverev,L,30.36276523
+2018-M020,Brisbane,Hard,0,Federico Delbonis,L,27.24161533,Michael Mmoh,R,19.97535934
+2018-M020,Brisbane,Hard,1,Alex De Minaur,R,18.87200548,Steve Johnson,R,28.02190281
+2018-M020,Brisbane,Hard,1,Denis Istomin,R,31.31827515,Damir Dzumhur,R,25.61806982
+2018-M020,Brisbane,Hard,0,Jordan Thompson,R,23.70157426,Jared Donaldson,R,21.229295
+2018-M020,Brisbane,Hard,1,Ryan Harrison,R,25.65366188,Leonardo Mayer,R,30.63381246
+2018-0451,Doha,Hard,1,Gael Monfils,R,31.33470226,Andrey Rublev,R,20.19986311
+2018-0451,Doha,Hard,1,Andrey Rublev,R,20.19986311,Guido Pella,L,27.62765229
+2018-0451,Doha,Hard,1,Dominic Thiem,R,24.32854209,Stefanos Tsitsipas,R,19.38945927
+2018-0451,Doha,Hard,0,Peter Gojowczyk,R,28.46543463,Gael Monfils,R,31.33470226
+2018-0451,Doha,Hard,1,Guido Pella,L,27.62765229,Mirza Basic,R,26.47501711
+2018-0451,Doha,Hard,0,Borna Coric,R,21.13073238,Andrey Rublev,R,20.19986311
+2018-0451,Doha,Hard,0,Aljaz Bedene,R,28.45722108,Dominic Thiem,R,24.32854209
+2018-0451,Doha,Hard,1,Stefanos Tsitsipas,R,19.38945927,Richard Gasquet,R,31.54004107
+2018-0451,Doha,Hard,1,Gael Monfils,R,31.33470226,Jan Lennard Struff,R,27.68788501
+2018-0451,Doha,Hard,1,Peter Gojowczyk,R,28.46543463,Matteo Berrettini,U,21.72210815
+2018-0451,Doha,Hard,0,Feliciano Lopez,L,36.28199863,Mirza Basic,R,26.47501711
+2018-0451,Doha,Hard,0,Stefano Travaglia,U,26.03969884,Guido Pella,L,27.62765229
+2018-0451,Doha,Hard,1,Andrey Rublev,R,20.19986311,Fernando Verdasco,L,34.13004791
+2018-0451,Doha,Hard,1,Borna Coric,R,21.13073238,Nikoloz Basilashvili,R,25.85626283
+2018-0451,Doha,Hard,0,Evgeny Donskoy,R,27.6495551,Dominic Thiem,R,24.32854209
+2018-0451,Doha,Hard,1,Aljaz Bedene,R,28.45722108,Malek Jaziri,R,33.94934976
+2018-0451,Doha,Hard,0,Florian Mayer,R,34.24229979,Stefanos Tsitsipas,R,19.38945927
+2018-0451,Doha,Hard,0,Victor Estrella,R,37.41546886,Richard Gasquet,R,31.54004107
+2018-0451,Doha,Hard,0,Tomas Berdych,R,32.29021218,Jan Lennard Struff,R,27.68788501
+2018-0451,Doha,Hard,1,Gael Monfils,R,31.33470226,Paolo Lorenzi,R,36.04654346
+2018-0451,Doha,Hard,0,Viktor Troicki,R,31.89048597,Matteo Berrettini,U,21.72210815
+2018-0451,Doha,Hard,0,Filip Krajinovic,R,25.84531143,Peter Gojowczyk,R,28.46543463
+2018-0451,Doha,Hard,0,Guillermo Garcia Lopez,R,34.57905544,Feliciano Lopez,L,36.28199863
+2018-0451,Doha,Hard,0,Andreas Haider Maurer,R,30.7816564,Mirza Basic,R,26.47501711
+2018-0451,Doha,Hard,1,Stefano Travaglia,U,26.03969884,Jabor Al Mutawa,U,23.61670089
+2018-0451,Doha,Hard,1,Guido Pella,L,27.62765229,Albert Ramos,L,29.95756331
+2018-0451,Doha,Hard,1,Fernando Verdasco,L,34.13004791,Dudi Sela,R,32.74469541
+2018-0451,Doha,Hard,0,Cedrik Marcel Stebe,L,27.23066393,Andrey Rublev,R,20.19986311
+2018-0451,Doha,Hard,0,Thomas Fabbiano,R,28.60232717,Nikoloz Basilashvili,R,25.85626283
+2018-0451,Doha,Hard,1,Borna Coric,R,21.13073238,Pablo Carreno Busta,R,26.47501711
+2018-0891,Pune,Hard,1,Gilles Simon,R,33.01300479,Kevin Anderson,R,31.62491444
+2018-0891,Pune,Hard,1,Gilles Simon,R,33.01300479,Marin Cilic,R,29.25941136
+2018-0891,Pune,Hard,1,Kevin Anderson,R,31.62491444,Benoit Paire,R,28.65160849
+2018-0891,Pune,Hard,0,Pierre Hugues Herbert,R,26.7926078,Marin Cilic,R,29.25941136
+2018-0891,Pune,Hard,0,Ricardo Ojeda Lara,U,24.93086927,Gilles Simon,R,33.01300479
+2018-0891,Pune,Hard,1,Benoit Paire,R,28.65160849,Robin Haase,R,30.74058864
+2018-0891,Pune,Hard,1,Kevin Anderson,R,31.62491444,Mikhail Kukushkin,R,30.01779603
+2018-0891,Pune,Hard,1,Marin Cilic,R,29.25941136,Ramkumar Ramanathan,R,23.14852841
+2018-0891,Pune,Hard,0,Yuki Bhambri,R,25.49486653,Pierre Hugues Herbert,R,26.7926078
+2018-0891,Pune,Hard,1,Gilles Simon,R,33.01300479,Roberto Bautista Agut,R,29.71663244
+2018-0891,Pune,Hard,1,Ricardo Ojeda Lara,U,24.93086927,Ilya Ivashka,R,23.85215606
+2018-0891,Pune,Hard,1,Robin Haase,R,30.74058864,Nicolas Jarry,R,22.22587269
+2018-0891,Pune,Hard,1,Benoit Paire,R,28.65160849,Marton Fucsovics,R,25.8973306
+2018-0891,Pune,Hard,0,Laslo Djere,R,22.58453114,Mikhail Kukushkin,R,30.01779603
+2018-0891,Pune,Hard,0,Thiago Monteiro,L,23.58932238,Kevin Anderson,R,31.62491444
+2018-0891,Pune,Hard,0,Roberto Carballes Baena,R,24.77754962,Ramkumar Ramanathan,R,23.14852841
+2018-0891,Pune,Hard,0,Arjun Kadhe,R,23.9835729,Yuki Bhambri,R,25.49486653
+2018-0891,Pune,Hard,0,Marco Cecchinato,R,25.25393566,Pierre Hugues Herbert,R,26.7926078
+2018-0891,Pune,Hard,1,Gilles Simon,R,33.01300479,Tennys Sandgren,R,26.4476386
+2018-0891,Pune,Hard,1,Ilya Ivashka,R,23.85215606,Sumit Nagal,R,20.37782341
+2018-0891,Pune,Hard,0,Jiri Vesely,L,24.47912389,Ricardo Ojeda Lara,U,24.93086927
+2018-0891,Pune,Hard,1,Robin Haase,R,30.74058864,Blaz Kavcic,R,30.82819986
+2018-0891,Pune,Hard,1,Nicolas Jarry,R,22.22587269,Pablo Andujar,R,31.93976728
+2018-0891,Pune,Hard,1,Marton Fucsovics,R,25.8973306,Nicolas Kicker,R,25.37713895
+2018-0891,Pune,Hard,0,Radu Albot,R,28.13963039,Mikhail Kukushkin,R,30.01779603
+2018-0891,Pune,Hard,0,Marius Copil,R,27.20876112,Laslo Djere,R,22.58453114
+2018-0891,Pune,Hard,0,Ruben Bemelmans,L,29.96577687,Thiago Monteiro,L,23.58932238
+2018-0301,Auckland,Hard,0,Juan Martin Del Potro,R,29.29226557,Roberto Bautista Agut,R,29.7357974
+2018-0301,Auckland,Hard,1,Roberto Bautista Agut,R,29.7357974,Robin Haase,R,30.75975359
+2018-0301,Auckland,Hard,0,David Ferrer,R,35.77002053,Juan Martin Del Potro,R,29.29226557
+2018-0301,Auckland,Hard,0,Peter Gojowczyk,R,28.48459959,Robin Haase,R,30.75975359
+2018-0301,Auckland,Hard,0,Jiri Vesely,L,24.49828884,Roberto Bautista Agut,R,29.7357974
+2018-0301,Auckland,Hard,1,David Ferrer,R,35.77002053,Hyeon Chung,R,21.63997262
+2018-0301,Auckland,Hard,0,Karen Khachanov,R,21.63449692,Juan Martin Del Potro,R,29.29226557
+2018-0301,Auckland,Hard,1,Peter Gojowczyk,R,28.48459959,Jack Sock,R,25.28952772
+2018-0301,Auckland,Hard,0,Lukas Lacko,R,30.18206708,Robin Haase,R,30.75975359
+2018-0301,Auckland,Hard,0,Sam Querrey,R,30.25598905,Jiri Vesely,L,24.49828884
+2018-0301,Auckland,Hard,0,Steve Johnson,R,28.04106776,Roberto Bautista Agut,R,29.7357974
+2018-0301,Auckland,Hard,0,Joao Sousa,R,28.77754962,David Ferrer,R,35.77002053
+2018-0301,Auckland,Hard,1,Hyeon Chung,R,21.63997262,John Isner,R,32.70362765
+2018-0301,Auckland,Hard,1,Karen Khachanov,R,21.63449692,Pablo Cuevas,R,32.01916496
+2018-0301,Auckland,Hard,0,Denis Shapovalov,L,18.73511294,Juan Martin Del Potro,R,29.29226557
+2018-0301,Auckland,Hard,0,Tim Smyczek,R,30.02600958,Peter Gojowczyk,R,28.48459959
+2018-0301,Auckland,Hard,0,Casper Ruud,R,19.04722793,Robin Haase,R,30.75975359
+2018-0301,Auckland,Hard,0,Stefanos Tsitsipas,R,19.40862423,Lukas Lacko,R,30.18206708
+2018-0301,Auckland,Hard,1,Jiri Vesely,L,24.49828884,Radu Albot,R,28.15879535
+2018-0301,Auckland,Hard,1,Steve Johnson,R,28.04106776,Liam Caruana,U,19.96167009
+2018-0301,Auckland,Hard,0,Michael Venus,R,30.23134839,Roberto Bautista Agut,R,29.7357974
+2018-0301,Auckland,Hard,1,David Ferrer,R,35.77002053,Yibing Wu,R,18.23682409
+2018-0301,Auckland,Hard,1,Joao Sousa,R,28.77754962,Donald Young,L,28.46269678
+2018-0301,Auckland,Hard,1,Hyeon Chung,R,21.63997262,Tennys Sandgren,R,26.46680356
+2018-0301,Auckland,Hard,0,Taro Daniel,R,24.94729637,Pablo Cuevas,R,32.01916496
+2018-0301,Auckland,Hard,1,Karen Khachanov,R,21.63449692,Yuichi Sugita,R,29.30595483
+2018-0301,Auckland,Hard,1,Denis Shapovalov,L,18.73511294,Rogerio Dutra Silva,R,33.9301848
+2018-M001,Sydney,Hard,0,Alex De Minaur,R,18.89117043,Daniil Medvedev,R,21.908282
+2018-M001,Sydney,Hard,1,Daniil Medvedev,R,21.908282,Fabio Fognini,R,30.62833676
+2018-M001,Sydney,Hard,1,Alex De Minaur,R,18.89117043,Benoit Paire,R,28.67077344
+2018-M001,Sydney,Hard,0,Paolo Lorenzi,R,36.06570842,Daniil Medvedev,R,21.908282
+2018-M001,Sydney,Hard,1,Fabio Fognini,R,30.62833676,Adrian Mannarino,L,29.52772074
+2018-M001,Sydney,Hard,1,Alex De Minaur,R,18.89117043,Feliciano Lopez,L,36.30116359
+2018-M001,Sydney,Hard,1,Benoit Paire,R,28.67077344,Gilles Muller,L,34.66940452
+2018-M001,Sydney,Hard,0,Albert Ramos,L,29.97672827,Paolo Lorenzi,R,36.06570842
+2018-M001,Sydney,Hard,1,Daniil Medvedev,R,21.908282,Jared Donaldson,R,21.24845996
+2018-M001,Sydney,Hard,1,Fabio Fognini,R,30.62833676,Alexandr Dolgopolov,R,29.16906229
+2018-M001,Sydney,Hard,0,Ricardas Berankis,R,27.55099247,Adrian Mannarino,L,29.52772074
+2018-M001,Sydney,Hard,1,Alex De Minaur,R,18.89117043,Damir Dzumhur,R,25.63723477
+2018-M001,Sydney,Hard,1,Feliciano Lopez,L,36.30116359,Diego Sebastian Schwartzman,R,25.3963039
+2018-M001,Sydney,Hard,1,Benoit Paire,R,28.67077344,Leonardo Mayer,R,30.65297741
+2018-M001,Sydney,Hard,0,John Millman,R,28.56947296,Gilles Muller,L,34.66940452
+2018-M001,Sydney,Hard,0,Jordan Thompson,R,23.72073922,Paolo Lorenzi,R,36.06570842
+2018-M001,Sydney,Hard,1,Jared Donaldson,R,21.24845996,Gilles Simon,R,33.03216975
+2018-M001,Sydney,Hard,0,Philipp Kohlschreiber,R,34.23134839,Daniil Medvedev,R,21.908282
+2018-M001,Sydney,Hard,0,Viktor Troicki,R,31.90965092,Alexandr Dolgopolov,R,29.16906229
+2018-M001,Sydney,Hard,1,Ricardas Berankis,R,27.55099247,Alex Bolt,L,25.00752909
+2018-M001,Sydney,Hard,1,Adrian Mannarino,L,29.52772074,Evgeny Donskoy,R,27.66872005
+2018-M001,Sydney,Hard,0,Jan Lennard Struff,R,27.70704997,Damir Dzumhur,R,25.63723477
+2018-M001,Sydney,Hard,0,Fernando Verdasco,L,34.14921287,Alex De Minaur,R,18.89117043
+2018-M001,Sydney,Hard,0,Aleksandar Vukic,R,21.75770021,Feliciano Lopez,L,36.30116359
+2018-M001,Sydney,Hard,1,Leonardo Mayer,R,30.65297741,Mischa Zverev,L,30.38193018
+2018-M001,Sydney,Hard,0,Aljaz Bedene,R,28.47638604,Benoit Paire,R,28.67077344
+2018-M001,Sydney,Hard,1,John Millman,R,28.56947296,Alexei Popyrin,U,18.42847365
+2018-580,Australian Open,Hard,0,Victor Estrella,R,37.45379877,Rafael Nadal,L,31.61943874
+2018-580,Australian Open,Hard,0,Nicolas Jarry,R,22.2642026,Leonardo Mayer,R,30.67214237
+2018-580,Australian Open,Hard,0,Borna Coric,R,21.16906229,John Millman,R,28.58863792
+2018-580,Australian Open,Hard,0,Paolo Lorenzi,R,36.08487337,Damir Dzumhur,R,25.65639973
+2018-580,Australian Open,Hard,1,Diego Sebastian Schwartzman,R,25.41546886,Dusan Lajovic,R,27.54551677
+2018-580,Australian Open,Hard,0,Quentin Halys,R,21.22108145,Casper Ruud,R,19.06639288
+2018-580,Australian Open,Hard,1,Alexandr Dolgopolov,R,29.18822724,Andreas Haider Maurer,R,30.81998631
+2018-580,Australian Open,Hard,1,Matthew Ebden,R,30.13826146,John Isner,R,32.72279261
+2018-580,Australian Open,Hard,0,Jason Kubler,R,24.65982204,Pablo Carreno Busta,R,26.51334702
+2018-580,Australian Open,Hard,0,Marius Copil,R,27.24709103,Gilles Simon,R,33.0513347
+2018-580,Australian Open,Hard,1,Malek Jaziri,R,33.98767967,Salvatore Caruso,R,25.08418891
+2018-580,Australian Open,Hard,1,Gilles Muller,L,34.68856947,Federico Delbonis,L,27.27994524
+2018-580,Australian Open,Hard,0,Mikhail Youzhny,R,35.55920602,Pablo Cuevas,R,32.03832991
+2018-580,Australian Open,Hard,0,Dudi Sela,R,32.78302533,Ryan Harrison,R,25.69199179
+2018-580,Australian Open,Hard,0,Dustin Brown,R,33.10335387,Joao Sousa,R,28.79671458
+2018-580,Australian Open,Hard,0,Vasek Pospisil,R,27.56468172,Marin Cilic,R,29.29774127
+2018-580,Australian Open,Hard,1,Grigor Dimitrov,R,26.66940452,Dennis Novak,R,24.38329911
+2018-580,Australian Open,Hard,0,Elias Ymer,R,21.76591376,Mackenzie Mcdonald,R,22.75154004
+2018-580,Australian Open,Hard,1,Marcos Baghdatis,R,32.58042437,Yuki Bhambri,R,25.53319644
+2018-580,Australian Open,Hard,1,Andrey Rublev,R,20.23819302,David Ferrer,R,35.78918549
+2018-580,Australian Open,Hard,1,Nick Kyrgios,R,22.72142368,Rogerio Dutra Silva,R,33.94934976
+2018-580,Australian Open,Hard,0,Alex Bolt,L,25.02669405,Viktor Troicki,R,31.92881588
+2018-580,Australian Open,Hard,1,Denis Shapovalov,L,18.75427789,Stefanos Tsitsipas,R,19.42778919
+2018-580,Australian Open,Hard,0,Kevin King,U,26.88021903,Jo Wilfried Tsonga,R,32.74743326
+2018-580,Australian Open,Hard,1,Kyle Edmund,R,23.01984942,Kevin Anderson,R,31.66324435
+2018-580,Australian Open,Hard,1,Denis Istomin,R,31.35660507,Pierre Hugues Herbert,R,26.83093771
+2018-580,Australian Open,Hard,1,Nikoloz Basilashvili,R,25.89459274,Gerald Melzer,L,27.50992471
+2018-580,Australian Open,Hard,0,Lucas Pouille,R,23.89322382,Ruben Bemelmans,L,30.00410678
+2018-580,Australian Open,Hard,1,Yoshihito Nishioka,L,22.30253251,Philipp Kohlschreiber,R,34.25051335
+2018-580,Australian Open,Hard,0,Corentin Moutet,L,18.74332649,Andreas Seppi,R,33.90006845
+2018-580,Australian Open,Hard,0,Laslo Djere,R,22.62286105,Ivo Karlovic,R,38.88021903
+2018-580,Australian Open,Hard,0,Jack Sock,R,25.30869268,Yuichi Sugita,R,29.32511978
+2018-580,Australian Open,Hard,0,Guido Pella,L,27.6659822,Dominic Thiem,R,24.36687201
+2018-580,Australian Open,Hard,0,Steve Johnson,R,28.06023272,Denis Kudla,R,25.41273101
+2018-580,Australian Open,Hard,1,Jiri Vesely,L,24.5174538,Vaclav Safranek,R,23.65776865
+2018-580,Australian Open,Hard,0,Matteo Berrettini,U,21.76043806,Adrian Mannarino,L,29.54688569
+2018-580,Australian Open,Hard,1,Fernando Verdasco,L,34.16837782,Roberto Bautista Agut,R,29.75496235
+2018-580,Australian Open,Hard,1,Maximilian Marterer,L,22.58726899,Cedrik Marcel Stebe,L,27.26899384
+2018-580,Australian Open,Hard,0,Jeremy Chardy,R,30.92402464,Tennys Sandgren,R,26.48596851
+2018-580,Australian Open,Hard,0,Ricardas Berankis,R,27.57015743,Stanislas Wawrinka,R,32.80219028
+2018-580,Australian Open,Hard,0,Donald Young,L,28.48186174,Novak Djokovic,R,30.65297741
+2018-580,Australian Open,Hard,1,Gael Monfils,R,31.37303217,Jaume Munar,U,20.69815195
+2018-580,Australian Open,Hard,0,Alexei Popyrin,U,18.4476386,Tim Smyczek,R,30.04517454
+2018-580,Australian Open,Hard,1,Albert Ramos,L,29.99589322,Jared Donaldson,R,21.26762491
+2018-580,Australian Open,Hard,1,Hyeon Chung,R,21.65913758,Mischa Zverev,L,30.40109514
+2018-580,Australian Open,Hard,0,Thanasi Kokkinakis,R,21.76591376,Daniil Medvedev,R,21.92744695
+2018-580,Australian Open,Hard,0,Mikhail Kukushkin,R,30.05612594,Peter Gojowczyk,R,28.50376454
+2018-580,Australian Open,Hard,1,Alexander Zverev,R,20.73921971,Thomas Fabbiano,R,28.64065708
+2018-580,Australian Open,Hard,0,Matthias Bachinger,R,30.78986995,David Goffin,R,27.10746064
+2018-580,Australian Open,Hard,0,Taro Daniel,R,24.96646133,Julien Benneteau,R,36.07118412
+2018-580,Australian Open,Hard,1,Evgeny Donskoy,R,27.68788501,Florian Mayer,R,34.28062971
+2018-580,Australian Open,Hard,0,Horacio Zeballos,L,32.72005476,Fabio Fognini,R,30.64750171
+2018-580,Australian Open,Hard,1,Tomas Berdych,R,32.32854209,Alex De Minaur,R,18.91033539
+2018-580,Australian Open,Hard,1,Guillermo Garcia Lopez,R,34.61738535,Benoit Paire,R,28.6899384
+2018-580,Australian Open,Hard,0,Peter Polansky,R,29.58521561,Karen Khachanov,R,21.65366188
+2018-580,Australian Open,Hard,1,Juan Martin Del Potro,R,29.31143053,Francis Tiafoe,R,19.98631075
+2018-580,Australian Open,Hard,1,Sam Querrey,R,30.275154,Feliciano Lopez,L,36.32032854
+2018-580,Australian Open,Hard,0,Radu Albot,R,28.1779603,Marton Fucsovics,R,25.93566051
+2018-580,Australian Open,Hard,1,Nicolas Kicker,R,25.41546886,Jordan Thompson,R,23.73990418
+2018-580,Australian Open,Hard,1,Lukas Lacko,R,30.20123203,Milos Raonic,R,27.05270363
+2018-580,Australian Open,Hard,1,Richard Gasquet,R,31.57837098,Blaz Kavcic,R,30.86652977
+2018-580,Australian Open,Hard,1,Lorenzo Sonego,R,22.68309377,Robin Haase,R,30.77891855
+2018-580,Australian Open,Hard,0,Soon Woo Kwon,R,20.12046543,Jan Lennard Struff,R,27.72621492
+2018-580,Australian Open,Hard,1,Roger Federer,R,36.43805613,Aljaz Bedene,R,28.49555099
+2018-580,Australian Open,Hard,0,Leonardo Mayer,R,30.67214237,Rafael Nadal,L,31.61943874
+2018-580,Australian Open,Hard,0,John Millman,R,28.58863792,Damir Dzumhur,R,25.65639973
+2018-580,Australian Open,Hard,0,Casper Ruud,R,19.06639288,Diego Sebastian Schwartzman,R,25.41546886
+2018-580,Australian Open,Hard,1,Alexandr Dolgopolov,R,29.18822724,Matthew Ebden,R,30.13826146
+2018-580,Australian Open,Hard,1,Pablo Carreno Busta,R,26.51334702,Gilles Simon,R,33.0513347
+2018-580,Australian Open,Hard,0,Malek Jaziri,R,33.98767967,Gilles Muller,L,34.68856947
+2018-580,Australian Open,Hard,1,Ryan Harrison,R,25.69199179,Pablo Cuevas,R,32.03832991
+2018-580,Australian Open,Hard,1,Marin Cilic,R,29.29774127,Joao Sousa,R,28.79671458
+2018-580,Australian Open,Hard,0,Mackenzie Mcdonald,R,22.75154004,Grigor Dimitrov,R,26.66940452
+2018-580,Australian Open,Hard,1,Andrey Rublev,R,20.23819302,Marcos Baghdatis,R,32.58042437
+2018-580,Australian Open,Hard,0,Viktor Troicki,R,31.92881588,Nick Kyrgios,R,22.72142368
+2018-580,Australian Open,Hard,0,Denis Shapovalov,L,18.75427789,Jo Wilfried Tsonga,R,32.74743326
+2018-580,Australian Open,Hard,0,Denis Istomin,R,31.35660507,Kyle Edmund,R,23.01984942
+2018-580,Australian Open,Hard,0,Ruben Bemelmans,L,30.00410678,Nikoloz Basilashvili,R,25.89459274
+2018-580,Australian Open,Hard,0,Yoshihito Nishioka,L,22.30253251,Andreas Seppi,R,33.90006845
+2018-580,Australian Open,Hard,1,Ivo Karlovic,R,38.88021903,Yuichi Sugita,R,29.32511978
+2018-580,Australian Open,Hard,0,Denis Kudla,R,25.41273101,Dominic Thiem,R,24.36687201
+2018-580,Australian Open,Hard,0,Jiri Vesely,L,24.5174538,Adrian Mannarino,L,29.54688569
+2018-580,Australian Open,Hard,0,Fernando Verdasco,L,34.16837782,Maximilian Marterer,L,22.58726899
+2018-580,Australian Open,Hard,0,Stanislas Wawrinka,R,32.80219028,Tennys Sandgren,R,26.48596851
+2018-580,Australian Open,Hard,0,Gael Monfils,R,31.37303217,Novak Djokovic,R,30.65297741
+2018-580,Australian Open,Hard,0,Tim Smyczek,R,30.04517454,Albert Ramos,L,29.99589322
+2018-580,Australian Open,Hard,0,Daniil Medvedev,R,21.92744695,Hyeon Chung,R,21.65913758
+2018-580,Australian Open,Hard,0,Peter Gojowczyk,R,28.50376454,Alexander Zverev,R,20.73921971
+2018-580,Australian Open,Hard,1,Julien Benneteau,R,36.07118412,David Goffin,R,27.10746064
+2018-580,Australian Open,Hard,1,Fabio Fognini,R,30.64750171,Evgeny Donskoy,R,27.68788501
+2018-580,Australian Open,Hard,1,Tomas Berdych,R,32.32854209,Guillermo Garcia Lopez,R,34.61738535
+2018-580,Australian Open,Hard,1,Juan Martin Del Potro,R,29.31143053,Karen Khachanov,R,21.65366188
+2018-580,Australian Open,Hard,0,Sam Querrey,R,30.275154,Marton Fucsovics,R,25.93566051
+2018-580,Australian Open,Hard,0,Lukas Lacko,R,30.20123203,Nicolas Kicker,R,25.41546886
+2018-580,Australian Open,Hard,0,Lorenzo Sonego,R,22.68309377,Richard Gasquet,R,31.57837098
+2018-580,Australian Open,Hard,1,Roger Federer,R,36.43805613,Jan Lennard Struff,R,27.72621492
+2018-580,Australian Open,Hard,1,Rafael Nadal,L,31.61943874,Damir Dzumhur,R,25.65639973
+2018-580,Australian Open,Hard,1,Diego Sebastian Schwartzman,R,25.41546886,Alexandr Dolgopolov,R,29.18822724
+2018-580,Australian Open,Hard,0,Gilles Muller,L,34.68856947,Pablo Carreno Busta,R,26.51334702
+2018-580,Australian Open,Hard,1,Marin Cilic,R,29.29774127,Ryan Harrison,R,25.69199179
+2018-580,Australian Open,Hard,0,Andrey Rublev,R,20.23819302,Grigor Dimitrov,R,26.66940452
+2018-580,Australian Open,Hard,0,Jo Wilfried Tsonga,R,32.74743326,Nick Kyrgios,R,22.72142368
+2018-580,Australian Open,Hard,1,Kyle Edmund,R,23.01984942,Nikoloz Basilashvili,R,25.89459274
+2018-580,Australian Open,Hard,1,Andreas Seppi,R,33.90006845,Ivo Karlovic,R,38.88021903
+2018-580,Australian Open,Hard,1,Dominic Thiem,R,24.36687201,Adrian Mannarino,L,29.54688569
+2018-580,Australian Open,Hard,1,Tennys Sandgren,R,26.48596851,Maximilian Marterer,L,22.58726899
+2018-580,Australian Open,Hard,0,Albert Ramos,L,29.99589322,Novak Djokovic,R,30.65297741
+2018-580,Australian Open,Hard,0,Alexander Zverev,R,20.73921971,Hyeon Chung,R,21.65913758
+2018-580,Australian Open,Hard,0,Julien Benneteau,R,36.07118412,Fabio Fognini,R,30.64750171
+2018-580,Australian Open,Hard,1,Tomas Berdych,R,32.32854209,Juan Martin Del Potro,R,29.31143053
+2018-580,Australian Open,Hard,1,Marton Fucsovics,R,25.93566051,Nicolas Kicker,R,25.41546886
+2018-580,Australian Open,Hard,0,Richard Gasquet,R,31.57837098,Roger Federer,R,36.43805613
+2018-580,Australian Open,Hard,0,Diego Sebastian Schwartzman,R,25.41546886,Rafael Nadal,L,31.61943874
+2018-580,Australian Open,Hard,0,Pablo Carreno Busta,R,26.51334702,Marin Cilic,R,29.29774127
+2018-580,Australian Open,Hard,1,Grigor Dimitrov,R,26.66940452,Nick Kyrgios,R,22.72142368
+2018-580,Australian Open,Hard,0,Andreas Seppi,R,33.90006845,Kyle Edmund,R,23.01984942
+2018-580,Australian Open,Hard,0,Dominic Thiem,R,24.36687201,Tennys Sandgren,R,26.48596851
+2018-580,Australian Open,Hard,0,Novak Djokovic,R,30.65297741,Hyeon Chung,R,21.65913758
+2018-580,Australian Open,Hard,1,Tomas Berdych,R,32.32854209,Fabio Fognini,R,30.64750171
+2018-580,Australian Open,Hard,0,Marton Fucsovics,R,25.93566051,Roger Federer,R,36.43805613
+2018-580,Australian Open,Hard,0,Rafael Nadal,L,31.61943874,Marin Cilic,R,29.29774127
+2018-580,Australian Open,Hard,0,Grigor Dimitrov,R,26.66940452,Kyle Edmund,R,23.01984942
+2018-580,Australian Open,Hard,1,Hyeon Chung,R,21.65913758,Tennys Sandgren,R,26.48596851
+2018-580,Australian Open,Hard,1,Roger Federer,R,36.43805613,Tomas Berdych,R,32.32854209
+2018-580,Australian Open,Hard,1,Marin Cilic,R,29.29774127,Kyle Edmund,R,23.01984942
+2018-580,Australian Open,Hard,0,Hyeon Chung,R,21.65913758,Roger Federer,R,36.43805613
+2018-580,Australian Open,Hard,1,Roger Federer,R,36.43805613,Marin Cilic,R,29.29774127
+2018-0375,Montpellier,Hard,1,Lucas Pouille,R,23.95071869,Richard Gasquet,R,31.63586585
+2018-0375,Montpellier,Hard,0,David Goffin,R,27.16495551,Richard Gasquet,R,31.63586585
+2018-0375,Montpellier,Hard,0,Jo Wilfried Tsonga,R,32.80492813,Lucas Pouille,R,23.95071869
+2018-0375,Montpellier,Hard,1,David Goffin,R,27.16495551,Karen Khachanov,R,21.71115674
+2018-0375,Montpellier,Hard,0,Damir Dzumhur,R,25.71389459,Richard Gasquet,R,31.63586585
+2018-0375,Montpellier,Hard,1,Jo Wilfried Tsonga,R,32.80492813,Andrey Rublev,R,20.29568789
+2018-0375,Montpellier,Hard,0,Benoit Paire,R,28.74743326,Lucas Pouille,R,23.95071869
+2018-0375,Montpellier,Hard,1,David Goffin,R,27.16495551,Gilles Simon,R,33.10882957
+2018-0375,Montpellier,Hard,1,Karen Khachanov,R,21.71115674,Ricardas Berankis,R,27.62765229
+2018-0375,Montpellier,Hard,1,Damir Dzumhur,R,25.71389459,Ruben Bemelmans,L,30.06160164
+2018-0375,Montpellier,Hard,1,Richard Gasquet,R,31.63586585,Pierre Hugues Herbert,R,26.88843258
+2018-0375,Montpellier,Hard,1,Andrey Rublev,R,20.29568789,Jeremy Chardy,R,30.98151951
+2018-0375,Montpellier,Hard,0,Nicolas Mahut,R,36.04106776,Jo Wilfried Tsonga,R,32.80492813
+2018-0375,Montpellier,Hard,0,John Millman,R,28.64613279,Benoit Paire,R,28.74743326
+2018-0375,Montpellier,Hard,1,Lucas Pouille,R,23.95071869,Carlos Taberner,R,20.49555099
+2018-0375,Montpellier,Hard,0,Yannick Maden,U,28.27378508,Gilles Simon,R,33.10882957
+2018-0375,Montpellier,Hard,0,Julien Benneteau,R,36.12867899,Ricardas Berankis,R,27.62765229
+2018-0375,Montpellier,Hard,1,Karen Khachanov,R,21.71115674,David Ferrer,R,35.84668036
+2018-0375,Montpellier,Hard,1,Ruben Bemelmans,L,30.06160164,Calvin Hemery,R,23.02258727
+2018-0375,Montpellier,Hard,1,Pierre Hugues Herbert,R,26.88843258,Kenny De Schepper,L,30.69130732
+2018-0375,Montpellier,Hard,1,Richard Gasquet,R,31.63586585,Daniil Medvedev,R,21.98494182
+2018-0375,Montpellier,Hard,1,Andrey Rublev,R,20.29568789,Guillermo Garcia Lopez,R,34.67488022
+2018-0375,Montpellier,Hard,1,Jeremy Chardy,R,30.98151951,Stefanos Tsitsipas,R,19.48528405
+2018-0375,Montpellier,Hard,1,Nicolas Mahut,R,36.04106776,Dustin Brown,R,33.16084873
+2018-0375,Montpellier,Hard,1,John Millman,R,28.64613279,Yuichi Sugita,R,29.38261465
+2018-0375,Montpellier,Hard,1,Benoit Paire,R,28.74743326,Mischa Zverev,L,30.45859001
+2018-0375,Montpellier,Hard,1,Carlos Taberner,R,20.49555099,Norbert Gombos,R,27.4825462
+2018-7161,Quito,Clay,0,Albert Ramos,L,30.05338809,Roberto Carballes Baena,R,24.8733744
+2018-7161,Quito,Clay,1,Roberto Carballes Baena,R,24.8733744,Andrej Martin,R,28.37782341
+2018-7161,Quito,Clay,1,Albert Ramos,L,30.05338809,Thiago Monteiro,L,23.68514716
+2018-7161,Quito,Clay,0,Corentin Moutet,L,18.80082136,Andrej Martin,R,28.37782341
+2018-7161,Quito,Clay,0,Nicolas Jarry,R,22.32169747,Roberto Carballes Baena,R,24.8733744
+2018-7161,Quito,Clay,0,Gael Monfils,R,31.43052704,Thiago Monteiro,L,23.68514716
+2018-7161,Quito,Clay,1,Albert Ramos,L,30.05338809,Gerald Melzer,L,27.56741958
+2018-7161,Quito,Clay,1,Andrej Martin,R,28.37782341,Pablo Carreno Busta,R,26.57084189
+2018-7161,Quito,Clay,0,Ivo Karlovic,R,38.93771389,Corentin Moutet,L,18.80082136
+2018-7161,Quito,Clay,0,Paolo Lorenzi,R,36.14236824,Roberto Carballes Baena,R,24.8733744
+2018-7161,Quito,Clay,0,Stefano Travaglia,U,26.13552361,Nicolas Jarry,R,22.32169747
+2018-7161,Quito,Clay,0,Alessandro Giannessi,L,27.68788501,Thiago Monteiro,L,23.68514716
+2018-7161,Quito,Clay,0,Casper Ruud,R,19.12388775,Gael Monfils,R,31.43052704
+2018-7161,Quito,Clay,0,Victor Estrella,R,37.51129363,Gerald Melzer,L,27.56741958
+2018-7161,Quito,Clay,1,Albert Ramos,L,30.05338809,Roberto Quiroz,L,25.95208761
+2018-7161,Quito,Clay,0,Rogerio Dutra Silva,R,34.00684463,Andrej Martin,R,28.37782341
+2018-7161,Quito,Clay,1,Corentin Moutet,L,18.80082136,Adrian Menendez Maceiras,R,32.27378508
+2018-7161,Quito,Clay,0,Ernesto Escobedo,R,21.59069131,Ivo Karlovic,R,38.93771389
+2018-7161,Quito,Clay,0,Federico Gaio,R,25.92197125,Roberto Carballes Baena,R,24.8733744
+2018-7161,Quito,Clay,1,Stefano Travaglia,U,26.13552361,Pablo Andujar,R,32.03559206
+2018-7161,Quito,Clay,0,Facundo Bagnis,L,27.93976728,Nicolas Jarry,R,22.32169747
+2018-7161,Quito,Clay,0,Horacio Zeballos,L,32.77754962,Thiago Monteiro,L,23.68514716
+2018-7161,Quito,Clay,0,Peter Polansky,R,29.64271047,Alessandro Giannessi,L,27.68788501
+2018-7161,Quito,Clay,0,Carlos Berlocq,R,35.00616016,Casper Ruud,R,19.12388775
+2018-7161,Quito,Clay,1,Victor Estrella,R,37.51129363,Thomaz Bellucci,L,30.1026694
+2018-7161,Quito,Clay,1,Gerald Melzer,L,27.56741958,Marco Cecchinato,R,25.34976044
+2018-7161,Quito,Clay,1,Roberto Quiroz,L,25.95208761,Yannick Hanfmann,U,26.23134839
+2018-7434,Sofia,Hard,0,Marius Copil,R,27.3045859,Mirza Basic,R,26.57084189
+2018-7434,Sofia,Hard,0,Stanislas Wawrinka,R,32.85968515,Mirza Basic,R,26.57084189
+2018-7434,Sofia,Hard,0,Jozef Kovalik,R,25.25393566,Marius Copil,R,27.3045859
+2018-7434,Sofia,Hard,1,Stanislas Wawrinka,R,32.85968515,Viktor Troicki,R,31.98631075
+2018-7434,Sofia,Hard,1,Mirza Basic,R,26.57084189,Maximilian Marterer,L,22.64476386
+2018-7434,Sofia,Hard,1,Marius Copil,R,27.3045859,Gilles Muller,L,34.74606434
+2018-7434,Sofia,Hard,1,Jozef Kovalik,R,25.25393566,Marcos Baghdatis,R,32.63791923
+2018-7434,Sofia,Hard,0,Martin Klizan,L,28.57221081,Stanislas Wawrinka,R,32.85968515
+2018-7434,Sofia,Hard,1,Viktor Troicki,R,31.98631075,Denis Istomin,R,31.41409993
+2018-7434,Sofia,Hard,0,Philipp Kohlschreiber,R,34.30800821,Mirza Basic,R,26.57084189
+2018-7434,Sofia,Hard,1,Maximilian Marterer,L,22.64476386,Joao Sousa,R,28.85420945
+2018-7434,Sofia,Hard,1,Marius Copil,R,27.3045859,Blaz Kavcic,R,30.92402464
+2018-7434,Sofia,Hard,0,Andreas Seppi,R,33.95756331,Gilles Muller,L,34.74606434
+2018-7434,Sofia,Hard,0,Lukas Lacko,R,30.2587269,Jozef Kovalik,R,25.25393566
+2018-7434,Sofia,Hard,1,Marcos Baghdatis,R,32.63791923,Adrian Mannarino,L,29.60438056
+2018-7434,Sofia,Hard,0,Alexander Donski,U,19.51540041,Martin Klizan,L,28.57221081
+2018-7434,Sofia,Hard,1,Denis Istomin,R,31.41409993,Adrian Andreev,U,16.73648186
+2018-7434,Sofia,Hard,1,Viktor Troicki,R,31.98631075,Ernests Gulbis,R,29.43463381
+2018-7434,Sofia,Hard,0,Florian Mayer,R,34.33812457,Mirza Basic,R,26.57084189
+2018-7434,Sofia,Hard,1,Maximilian Marterer,L,22.64476386,Malek Jaziri,R,34.04517454
+2018-7434,Sofia,Hard,0,Dimitar Kuzmanov,R,24.52566735,Joao Sousa,R,28.85420945
+2018-7434,Sofia,Hard,1,Marius Copil,R,27.3045859,Robin Haase,R,30.83641342
+2018-7434,Sofia,Hard,0,Laslo Djere,R,22.68035592,Blaz Kavcic,R,30.92402464
+2018-7434,Sofia,Hard,1,Andreas Seppi,R,33.95756331,Mikhail Youzhny,R,35.61670089
+2018-7434,Sofia,Hard,0,Evgeny Donskoy,R,27.74537988,Lukas Lacko,R,30.2587269
+2018-7434,Sofia,Hard,1,Jozef Kovalik,R,25.25393566,Radu Albot,R,28.23545517
+2018-7434,Sofia,Hard,0,Salvatore Caruso,R,25.14168378,Marcos Baghdatis,R,32.63791923
+2018-0506,Buenos Aires,Clay,0,Aljaz Bedene,R,28.57221081,Dominic Thiem,R,24.44353183
+2018-0506,Buenos Aires,Clay,1,Dominic Thiem,R,24.44353183,Gael Monfils,R,31.44969199
+2018-0506,Buenos Aires,Clay,0,Federico Delbonis,L,27.35660507,Aljaz Bedene,R,28.57221081
+2018-0506,Buenos Aires,Clay,0,Guido Pella,L,27.74264203,Dominic Thiem,R,24.44353183
+2018-0506,Buenos Aires,Clay,0,Leonardo Mayer,R,30.74880219,Gael Monfils,R,31.44969199
+2018-0506,Buenos Aires,Clay,0,Diego Sebastian Schwartzman,R,25.49212868,Aljaz Bedene,R,28.57221081
+2018-0506,Buenos Aires,Clay,1,Federico Delbonis,L,27.35660507,Guillermo Garcia Lopez,R,34.69404517
+2018-0506,Buenos Aires,Clay,0,Horacio Zeballos,L,32.79671458,Dominic Thiem,R,24.44353183
+2018-0506,Buenos Aires,Clay,1,Guido Pella,L,27.74264203,Fernando Verdasco,L,34.24503765
+2018-0506,Buenos Aires,Clay,0,Fabio Fognini,R,30.72416153,Leonardo Mayer,R,30.74880219
+2018-0506,Buenos Aires,Clay,1,Gael Monfils,R,31.44969199,Dusan Lajovic,R,27.62217659
+2018-0506,Buenos Aires,Clay,1,Diego Sebastian Schwartzman,R,25.49212868,Thomaz Bellucci,L,30.12183436
+2018-0506,Buenos Aires,Clay,0,Albert Ramos,L,30.07255305,Aljaz Bedene,R,28.57221081
+2018-0506,Buenos Aires,Clay,0,Gastao Elias,R,27.21971253,Federico Delbonis,L,27.35660507
+2018-0506,Buenos Aires,Clay,1,Guillermo Garcia Lopez,R,34.69404517,Pablo Carreno Busta,R,26.59000684
+2018-0506,Buenos Aires,Clay,1,Horacio Zeballos,L,32.79671458,Marco Cecchinato,R,25.36892539
+2018-0506,Buenos Aires,Clay,1,Guido Pella,L,27.74264203,Nicolas Kicker,R,25.49212868
+2018-0506,Buenos Aires,Clay,0,Thiago Monteiro,L,23.70431212,Fernando Verdasco,L,34.24503765
+2018-0506,Buenos Aires,Clay,0,Rogerio Dutra Silva,R,34.02600958,Leonardo Mayer,R,30.74880219
+2018-0506,Buenos Aires,Clay,0,Facundo Bagnis,L,27.95893224,Dusan Lajovic,R,27.62217659
+2018-0506,Buenos Aires,Clay,1,Gael Monfils,R,31.44969199,Pablo Cuevas,R,32.11498973
+2018-0506,Buenos Aires,Clay,1,Diego Sebastian Schwartzman,R,25.49212868,Andreas Haider Maurer,R,30.89664613
+2018-0506,Buenos Aires,Clay,1,Thomaz Bellucci,L,30.12183436,Pedro Cachin,R,22.83915127
+2018-0506,Buenos Aires,Clay,0,Jiri Vesely,L,24.59411362,Aljaz Bedene,R,28.57221081
+2018-0506,Buenos Aires,Clay,1,Gastao Elias,R,27.21971253,Roberto Carballes Baena,R,24.89253936
+2018-0506,Buenos Aires,Clay,0,Florian Mayer,R,34.35728953,Federico Delbonis,L,27.35660507
+2018-0506,Buenos Aires,Clay,0,Carlos Berlocq,R,35.02532512,Guillermo Garcia Lopez,R,34.69404517
+2018-0424,New York,Hard,1,Kevin Anderson,R,31.73990418,Sam Querrey,R,30.35181383
+2018-0424,New York,Hard,1,Kevin Anderson,R,31.73990418,Kei Nishikori,R,28.12320329
+2018-0424,New York,Hard,1,Sam Querrey,R,30.35181383,Adrian Mannarino,L,29.62354552
+2018-0424,New York,Hard,0,Francis Tiafoe,R,20.06297057,Kevin Anderson,R,31.73990418
+2018-0424,New York,Hard,1,Kei Nishikori,R,28.12320329,Radu Albot,R,28.25462012
+2018-0424,New York,Hard,0,Adrian Menendez Maceiras,R,32.29295003,Adrian Mannarino,L,29.62354552
+2018-0424,New York,Hard,0,Ivo Karlovic,R,38.95687885,Sam Querrey,R,30.35181383
+2018-0424,New York,Hard,0,Ernesto Escobedo,R,21.60985626,Kevin Anderson,R,31.73990418
+2018-0424,New York,Hard,1,Francis Tiafoe,R,20.06297057,Dudi Sela,R,32.85968515
+2018-0424,New York,Hard,0,John Isner,R,32.79945243,Radu Albot,R,28.25462012
+2018-0424,New York,Hard,0,Evgeny Donskoy,R,27.76454483,Kei Nishikori,R,28.12320329
+2018-0424,New York,Hard,1,Adrian Menendez Maceiras,R,32.29295003,Jeremy Chardy,R,31.00068446
+2018-0424,New York,Hard,0,Peter Gojowczyk,R,28.58042437,Adrian Mannarino,L,29.62354552
+2018-0424,New York,Hard,1,Ivo Karlovic,R,38.95687885,Ryan Harrison,R,25.76865161
+2018-0424,New York,Hard,0,Mikhail Youzhny,R,35.63586585,Sam Querrey,R,30.35181383
+2018-0424,New York,Hard,0,Mackenzie Mcdonald,R,22.82819986,Ernesto Escobedo,R,21.60985626
+2018-0424,New York,Hard,1,Francis Tiafoe,R,20.06297057,Sebastian Korda,U,17.60711841
+2018-0424,New York,Hard,1,Dudi Sela,R,32.85968515,Nikoloz Basilashvili,R,25.97125257
+2018-0424,New York,Hard,0,Bjorn Fratangelo,R,24.56947296,Radu Albot,R,28.25462012
+2018-0424,New York,Hard,0,Victor Estrella,R,37.53045859,Evgeny Donskoy,R,27.76454483
+2018-0424,New York,Hard,0,Noah Rubin,R,21.97672827,Kei Nishikori,R,28.12320329
+2018-0424,New York,Hard,1,Adrian Menendez Maceiras,R,32.29295003,Steve Johnson,R,28.13689254
+2018-0424,New York,Hard,0,Stefano Travaglia,U,26.15468857,Jeremy Chardy,R,31.00068446
+2018-0424,New York,Hard,1,Peter Gojowczyk,R,28.58042437,Blaz Kavcic,R,30.9431896
+2018-0424,New York,Hard,1,Ryan Harrison,R,25.76865161,Donald Young,L,28.55852156
+2018-0424,New York,Hard,1,Ivo Karlovic,R,38.95687885,Jared Donaldson,R,21.34428474
+2018-0424,New York,Hard,1,Mikhail Youzhny,R,35.63586585,Matthew Ebden,R,30.21492129
+2018-0407,Rotterdam,Hard,0,Grigor Dimitrov,R,26.74606434,Roger Federer,R,36.51471595
+2018-0407,Rotterdam,Hard,0,Andreas Seppi,R,33.97672827,Roger Federer,R,36.51471595
+2018-0407,Rotterdam,Hard,1,Grigor Dimitrov,R,26.74606434,David Goffin,R,27.18412047
+2018-0407,Rotterdam,Hard,1,Roger Federer,R,36.51471595,Robin Haase,R,30.85557837
+2018-0407,Rotterdam,Hard,1,Andreas Seppi,R,33.97672827,Daniil Medvedev,R,22.00410678
+2018-0407,Rotterdam,Hard,0,Andrey Rublev,R,20.31485284,Grigor Dimitrov,R,26.74606434
+2018-0407,Rotterdam,Hard,1,Roger Federer,R,36.51471595,Philipp Kohlschreiber,R,34.32717317
+2018-0407,Rotterdam,Hard,0,Tallon Griekspoor,R,21.61533196,Robin Haase,R,30.85557837
+2018-0407,Rotterdam,Hard,0,Alexander Zverev,R,20.81587953,Andreas Seppi,R,33.97672827
+2018-0407,Rotterdam,Hard,0,Pierre Hugues Herbert,R,26.90759754,Daniil Medvedev,R,22.00410678
+2018-0407,Rotterdam,Hard,1,Tomas Berdych,R,32.40520192,Viktor Troicki,R,32.0054757
+2018-0407,Rotterdam,Hard,0,Feliciano Lopez,L,36.39698836,David Goffin,R,27.18412047
+2018-0407,Rotterdam,Hard,0,Damir Dzumhur,R,25.73305955,Andrey Rublev,R,20.31485284
+2018-0407,Rotterdam,Hard,0,Filip Krajinovic,R,25.96030116,Grigor Dimitrov,R,26.74606434
+2018-0407,Rotterdam,Hard,0,Ruben Bemelmans,L,30.0807666,Roger Federer,R,36.51471595
+2018-0407,Rotterdam,Hard,0,Karen Khachanov,R,21.7303217,Philipp Kohlschreiber,R,34.32717317
+2018-0407,Rotterdam,Hard,1,Robin Haase,R,30.85557837,Thiemo De Bakker,R,29.39904175
+2018-0407,Rotterdam,Hard,1,Tallon Griekspoor,R,21.61533196,Stanislas Wawrinka,R,32.8788501
+2018-0407,Rotterdam,Hard,1,Alexander Zverev,R,20.81587953,David Ferrer,R,35.86584531
+2018-0407,Rotterdam,Hard,1,Andreas Seppi,R,33.97672827,Joao Sousa,R,28.8733744
+2018-0407,Rotterdam,Hard,1,Pierre Hugues Herbert,R,26.90759754,Richard Gasquet,R,31.6550308
+2018-0407,Rotterdam,Hard,1,Daniil Medvedev,R,22.00410678,Gilles Muller,L,34.7652293
+2018-0407,Rotterdam,Hard,1,Tomas Berdych,R,32.40520192,Mischa Zverev,L,30.47775496
+2018-0407,Rotterdam,Hard,0,Jan Lennard Struff,R,27.80287474,Viktor Troicki,R,32.0054757
+2018-0407,Rotterdam,Hard,0,Martin Klizan,L,28.59137577,Feliciano Lopez,L,36.39698836
+2018-0407,Rotterdam,Hard,0,Nicolas Mahut,R,36.06023272,David Goffin,R,27.18412047
+2018-0407,Rotterdam,Hard,1,Andrey Rublev,R,20.31485284,Lucas Pouille,R,23.96988364
+2018-0407,Rotterdam,Hard,0,Marius Copil,R,27.32375086,Damir Dzumhur,R,25.73305955
+2018-0407,Rotterdam,Hard,0,Felix Auger Aliassime,R,17.51403149,Filip Krajinovic,R,25.96030116
+2018-0407,Rotterdam,Hard,0,Yuichi Sugita,R,29.4017796,Grigor Dimitrov,R,26.74606434
+2018-0499,Delray Beach,Hard,1,Francis Tiafoe,R,20.08213552,Peter Gojowczyk,R,28.59958932
+2018-0499,Delray Beach,Hard,1,Peter Gojowczyk,R,28.59958932,Steve Johnson,R,28.15605749
+2018-0499,Delray Beach,Hard,1,Francis Tiafoe,R,20.08213552,Denis Shapovalov,L,18.85010267
+2018-0499,Delray Beach,Hard,1,Peter Gojowczyk,R,28.59958932,Reilly Opelka,U,20.47912389
+2018-0499,Delray Beach,Hard,0,Evgeny Donskoy,R,27.78370979,Steve Johnson,R,28.15605749
+2018-0499,Delray Beach,Hard,0,Taylor Harry Fritz,R,20.31211499,Denis Shapovalov,L,18.85010267
+2018-0499,Delray Beach,Hard,0,Hyeon Chung,R,21.75496235,Francis Tiafoe,R,20.08213552
+2018-0499,Delray Beach,Hard,0,Jack Sock,R,25.40451745,Reilly Opelka,U,20.47912389
+2018-0499,Delray Beach,Hard,1,Peter Gojowczyk,R,28.59958932,John Isner,R,32.81861739
+2018-0499,Delray Beach,Hard,1,Evgeny Donskoy,R,27.78370979,Donald Young,L,28.57768652
+2018-0499,Delray Beach,Hard,1,Steve Johnson,R,28.15605749,Milos Raonic,R,27.14852841
+2018-0499,Delray Beach,Hard,1,Denis Shapovalov,L,18.85010267,Jared Donaldson,R,21.36344969
+2018-0499,Delray Beach,Hard,1,Taylor Harry Fritz,R,20.31211499,Mikhail Youzhny,R,35.6550308
+2018-0499,Delray Beach,Hard,1,Hyeon Chung,R,21.75496235,Franco Skugor,R,30.41752225
+2018-0499,Delray Beach,Hard,1,Francis Tiafoe,R,20.08213552,Juan Martin Del Potro,R,29.4072553
+2018-0499,Delray Beach,Hard,0,John Patrick Smith,L,28.21081451,Jack Sock,R,25.40451745
+2018-0499,Delray Beach,Hard,0,Ryan Harrison,R,25.78781656,Reilly Opelka,U,20.47912389
+2018-0499,Delray Beach,Hard,1,Peter Gojowczyk,R,28.59958932,Lukas Lacko,R,30.29705681
+2018-0499,Delray Beach,Hard,0,Radu Albot,R,28.27378508,John Isner,R,32.81861739
+2018-0499,Delray Beach,Hard,0,Darian King,R,25.81793292,Evgeny Donskoy,R,27.78370979
+2018-0499,Delray Beach,Hard,1,Donald Young,L,28.57768652,Ramkumar Ramanathan,R,23.28268309
+2018-0499,Delray Beach,Hard,1,Steve Johnson,R,28.15605749,Nikoloz Basilashvili,R,25.99041752
+2018-0499,Delray Beach,Hard,1,Milos Raonic,R,27.14852841,Taro Daniel,R,25.06228611
+2018-0499,Delray Beach,Hard,1,Jared Donaldson,R,21.36344969,Peter Polansky,R,29.68104038
+2018-0499,Delray Beach,Hard,0,Ivo Karlovic,R,38.97604381,Denis Shapovalov,L,18.85010267
+2018-0499,Delray Beach,Hard,0,Dudi Sela,R,32.8788501,Mikhail Youzhny,R,35.6550308
+2018-0499,Delray Beach,Hard,1,Taylor Harry Fritz,R,20.31211499,Sam Querrey,R,30.37097878
+2018-0499,Delray Beach,Hard,1,Hyeon Chung,R,21.75496235,Cameron Norrie,L,22.49418207
+2018-0499,Delray Beach,Hard,1,Franco Skugor,R,30.41752225,Alexander Bublik,R,20.67624914
+2018-0499,Delray Beach,Hard,0,Matthew Ebden,R,30.23408624,Francis Tiafoe,R,20.08213552
+2018-0499,Delray Beach,Hard,1,Juan Martin Del Potro,R,29.4072553,Jeremy Chardy,R,31.01984942
+2018-0496,Marseille,Hard,0,Lucas Pouille,R,23.9890486,Karen Khachanov,R,21.74948665
+2018-0496,Marseille,Hard,1,Karen Khachanov,R,21.74948665,Tomas Berdych,R,32.42436687
+2018-0496,Marseille,Hard,0,Ilya Ivashka,R,23.98631075,Lucas Pouille,R,23.9890486
+2018-0496,Marseille,Hard,1,Karen Khachanov,R,21.74948665,Julien Benneteau,R,36.1670089
+2018-0496,Marseille,Hard,1,Tomas Berdych,R,32.42436687,Damir Dzumhur,R,25.7522245
+2018-0496,Marseille,Hard,1,Lucas Pouille,R,23.9890486,Filip Krajinovic,R,25.97946612
+2018-0496,Marseille,Hard,0,Nicolas Mahut,R,36.07939767,Ilya Ivashka,R,23.98631075
+2018-0496,Marseille,Hard,0,Roberto Bautista Agut,R,29.85078713,Julien Benneteau,R,36.1670089
+2018-0496,Marseille,Hard,0,Mischa Zverev,L,30.49691992,Karen Khachanov,R,21.74948665
+2018-0496,Marseille,Hard,0,Stefano Travaglia,U,26.17385353,Tomas Berdych,R,32.42436687
+2018-0496,Marseille,Hard,1,Damir Dzumhur,R,25.7522245,Thomas Fabbiano,R,28.73648186
+2018-0496,Marseille,Hard,0,Gilles Simon,R,33.14715948,Filip Krajinovic,R,25.97946612
+2018-0496,Marseille,Hard,0,Pierre Hugues Herbert,R,26.92676249,Lucas Pouille,R,23.9890486
+2018-0496,Marseille,Hard,1,Nicolas Mahut,R,36.07939767,Gilles Muller,L,34.78439425
+2018-0496,Marseille,Hard,1,Ilya Ivashka,R,23.98631075,Stanislas Wawrinka,R,32.89801506
+2018-0496,Marseille,Hard,1,Julien Benneteau,R,36.1670089,Malek Jaziri,R,34.08350445
+2018-0496,Marseille,Hard,0,Blaz Kavcic,R,30.96235455,Mischa Zverev,L,30.49691992
+2018-0496,Marseille,Hard,1,Karen Khachanov,R,21.74948665,Ruben Bemelmans,L,30.09993155
+2018-0496,Marseille,Hard,1,Stefano Travaglia,U,26.17385353,Hugo Gaston,U,17.39904175
+2018-0496,Marseille,Hard,0,Felix Auger Aliassime,R,17.53319644,Thomas Fabbiano,R,28.73648186
+2018-0496,Marseille,Hard,1,Damir Dzumhur,R,25.7522245,Mikhail Kukushkin,R,30.15195072
+2018-0496,Marseille,Hard,1,Filip Krajinovic,R,25.97946612,Joao Sousa,R,28.89253936
+2018-0496,Marseille,Hard,0,Maximilian Marterer,L,22.68309377,Gilles Simon,R,33.14715948
+2018-0496,Marseille,Hard,0,Norbert Gombos,R,27.52087611,Pierre Hugues Herbert,R,26.92676249
+2018-0496,Marseille,Hard,0,Sergiy Stakhovsky,R,32.12046543,Gilles Muller,L,34.78439425
+2018-0496,Marseille,Hard,1,Nicolas Mahut,R,36.07939767,Stefanos Tsitsipas,R,19.52361396
+2018-0496,Marseille,Hard,0,Laslo Djere,R,22.71868583,Ilya Ivashka,R,23.98631075
+2018-6932,Rio De Janeiro,Clay,0,Fernando Verdasco,L,34.2642026,Diego Sebastian Schwartzman,R,25.51129363
+2018-6932,Rio De Janeiro,Clay,1,Diego Sebastian Schwartzman,R,25.51129363,Nicolas Jarry,R,22.36002738
+2018-6932,Rio De Janeiro,Clay,1,Fernando Verdasco,L,34.2642026,Fabio Fognini,R,30.74332649
+2018-6932,Rio De Janeiro,Clay,0,Gael Monfils,R,31.46885695,Diego Sebastian Schwartzman,R,25.51129363
+2018-6932,Rio De Janeiro,Clay,1,Nicolas Jarry,R,22.36002738,Pablo Cuevas,R,32.13415469
+2018-6932,Rio De Janeiro,Clay,0,Aljaz Bedene,R,28.59137577,Fabio Fognini,R,30.74332649
+2018-6932,Rio De Janeiro,Clay,0,Dominic Thiem,R,24.46269678,Fernando Verdasco,L,34.2642026
+2018-6932,Rio De Janeiro,Clay,0,Marin Cilic,R,29.39356605,Gael Monfils,R,31.46885695
+2018-6932,Rio De Janeiro,Clay,1,Diego Sebastian Schwartzman,R,25.51129363,Federico Delbonis,L,27.37577002
+2018-6932,Rio De Janeiro,Clay,1,Nicolas Jarry,R,22.36002738,Albert Ramos,L,30.091718
+2018-6932,Rio De Janeiro,Clay,0,Gastao Elias,R,27.23887748,Pablo Cuevas,R,32.13415469
+2018-6932,Rio De Janeiro,Clay,0,Tennys Sandgren,R,26.58179329,Fabio Fognini,R,30.74332649
+2018-6932,Rio De Janeiro,Clay,0,Pablo Carreno Busta,R,26.6091718,Aljaz Bedene,R,28.59137577
+2018-6932,Rio De Janeiro,Clay,0,Nicolas Kicker,R,25.51129363,Fernando Verdasco,L,34.2642026
+2018-6932,Rio De Janeiro,Clay,1,Dominic Thiem,R,24.46269678,Pablo Andujar,R,32.07392197
+2018-6932,Rio De Janeiro,Clay,0,Carlos Berlocq,R,35.04449008,Marin Cilic,R,29.39356605
+2018-6932,Rio De Janeiro,Clay,1,Gael Monfils,R,31.46885695,Horacio Zeballos,L,32.81587953
+2018-6932,Rio De Janeiro,Clay,0,Jiri Vesely,L,24.61327858,Federico Delbonis,L,27.37577002
+2018-6932,Rio De Janeiro,Clay,1,Diego Sebastian Schwartzman,R,25.51129363,Casper Ruud,R,19.16221766
+2018-6932,Rio De Janeiro,Clay,1,Albert Ramos,L,30.091718,Rogerio Dutra Silva,R,34.04517454
+2018-6932,Rio De Janeiro,Clay,0,Guillermo Garcia Lopez,R,34.71321013,Nicolas Jarry,R,22.36002738
+2018-6932,Rio De Janeiro,Clay,0,Guido Pella,L,27.76180698,Gastao Elias,R,27.23887748
+2018-6932,Rio De Janeiro,Clay,0,Thiago Monteiro,L,23.72347707,Pablo Cuevas,R,32.13415469
+2018-6932,Rio De Janeiro,Clay,0,Thomaz Bellucci,L,30.14099932,Fabio Fognini,R,30.74332649
+2018-6932,Rio De Janeiro,Clay,1,Tennys Sandgren,R,26.58179329,Roberto Carballes Baena,R,24.91170431
+2018-6932,Rio De Janeiro,Clay,0,Andreas Haider Maurer,R,30.91581109,Aljaz Bedene,R,28.59137577
+2018-6932,Rio De Janeiro,Clay,0,Marco Cecchinato,R,25.38809035,Pablo Carreno Busta,R,26.6091718
+2018-6932,Rio De Janeiro,Clay,1,Fernando Verdasco,L,34.2642026,Leonardo Mayer,R,30.76796715
+2018-6932,Rio De Janeiro,Clay,0,Victor Estrella,R,37.54962355,Nicolas Kicker,R,25.51129363
+2018-6932,Rio De Janeiro,Clay,0,Gerald Melzer,L,27.60574949,Pablo Andujar,R,32.07392197
+2018-6932,Rio De Janeiro,Clay,0,Dusan Lajovic,R,27.64134155,Dominic Thiem,R,24.46269678
+2018-M004,Acapulco,Hard,1,Juan Martin Del Potro,R,29.42642026,Kevin Anderson,R,31.77823409
+2018-M004,Acapulco,Hard,0,Jared Donaldson,R,21.38261465,Kevin Anderson,R,31.77823409
+2018-M004,Acapulco,Hard,0,Alexander Zverev,R,20.85420945,Juan Martin Del Potro,R,29.42642026
+2018-M004,Acapulco,Hard,0,Feliciano Lopez,L,36.43531828,Jared Donaldson,R,21.38261465
+2018-M004,Acapulco,Hard,1,Kevin Anderson,R,31.77823409,Hyeon Chung,R,21.77412731
+2018-M004,Acapulco,Hard,1,Juan Martin Del Potro,R,29.42642026,Dominic Thiem,R,24.48186174
+2018-M004,Acapulco,Hard,1,Alexander Zverev,R,20.85420945,Ryan Harrison,R,25.80698152
+2018-M004,Acapulco,Hard,0,Thanasi Kokkinakis,R,21.88090349,Feliciano Lopez,L,36.43531828
+2018-M004,Acapulco,Hard,1,Jared Donaldson,R,21.38261465,Matthew Ebden,R,30.2532512
+2018-M004,Acapulco,Hard,1,Hyeon Chung,R,21.77412731,Ernesto Escobedo,R,21.64818617
+2018-M004,Acapulco,Hard,0,Adrian Mannarino,L,29.66187543,Kevin Anderson,R,31.77823409
+2018-M004,Acapulco,Hard,1,Juan Martin Del Potro,R,29.42642026,David Ferrer,R,35.90417522
+2018-M004,Acapulco,Hard,1,Dominic Thiem,R,24.48186174,Denis Shapovalov,L,18.86926762
+2018-M004,Acapulco,Hard,1,Ryan Harrison,R,25.80698152,Diego Sebastian Schwartzman,R,25.53045859
+2018-M004,Acapulco,Hard,0,Peter Gojowczyk,R,28.61875428,Alexander Zverev,R,20.85420945
+2018-M004,Acapulco,Hard,1,Feliciano Lopez,L,36.43531828,Taro Daniel,R,25.08145106
+2018-M004,Acapulco,Hard,0,Alexander Bublik,R,20.6954141,Thanasi Kokkinakis,R,21.88090349
+2018-M004,Acapulco,Hard,0,Nikoloz Basilashvili,R,26.00958248,Jared Donaldson,R,21.38261465
+2018-M004,Acapulco,Hard,0,Sam Querrey,R,30.39014374,Matthew Ebden,R,30.2532512
+2018-M004,Acapulco,Hard,0,Jack Sock,R,25.42368241,Ernesto Escobedo,R,21.64818617
+2018-M004,Acapulco,Hard,0,Donald Young,L,28.59685147,Hyeon Chung,R,21.77412731
+2018-M004,Acapulco,Hard,1,Adrian Mannarino,L,29.66187543,Ricardas Berankis,R,27.68514716
+2018-M004,Acapulco,Hard,1,Kevin Anderson,R,31.77823409,Radu Albot,R,28.29295003
+2018-M004,Acapulco,Hard,1,Juan Martin Del Potro,R,29.42642026,Mischa Zverev,L,30.51608487
+2018-M004,Acapulco,Hard,0,Andrey Rublev,R,20.35318275,David Ferrer,R,35.90417522
+2018-M004,Acapulco,Hard,0,Kei Nishikori,R,28.1615332,Denis Shapovalov,L,18.86926762
+2018-M004,Acapulco,Hard,1,Dominic Thiem,R,24.48186174,Cameron Norrie,L,22.51334702
+2018-M004,Acapulco,Hard,0,John Isner,R,32.83778234,Ryan Harrison,R,25.80698152
+2018-M004,Acapulco,Hard,1,Diego Sebastian Schwartzman,R,25.53045859,Fernando Verdasco,L,34.28336756
+2018-M004,Acapulco,Hard,1,Peter Gojowczyk,R,28.61875428,Lucas Gomez,U,22.54620123
+2018-M004,Acapulco,Hard,1,Alexander Zverev,R,20.85420945,Mackenzie Mcdonald,R,22.86652977
+2018-0495,Dubai,Hard,1,Roberto Bautista Agut,R,29.86995209,Lucas Pouille,R,24.00821355
+2018-0495,Dubai,Hard,0,Malek Jaziri,R,34.1026694,Roberto Bautista Agut,R,29.86995209
+2018-0495,Dubai,Hard,1,Lucas Pouille,R,24.00821355,Filip Krajinovic,R,25.99863107
+2018-0495,Dubai,Hard,1,Malek Jaziri,R,34.1026694,Stefanos Tsitsipas,R,19.54277892
+2018-0495,Dubai,Hard,1,Roberto Bautista Agut,R,29.86995209,Borna Coric,R,21.28405202
+2018-0495,Dubai,Hard,0,Evgeny Donskoy,R,27.80287474,Filip Krajinovic,R,25.99863107
+2018-0495,Dubai,Hard,1,Lucas Pouille,R,24.00821355,Yuichi Sugita,R,29.44010951
+2018-0495,Dubai,Hard,1,Malek Jaziri,R,34.1026694,Robin Haase,R,30.89390828
+2018-0495,Dubai,Hard,0,Philipp Kohlschreiber,R,34.36550308,Stefanos Tsitsipas,R,19.54277892
+2018-0495,Dubai,Hard,0,Pierre Hugues Herbert,R,26.94592745,Roberto Bautista Agut,R,29.86995209
+2018-0495,Dubai,Hard,0,Benoit Paire,R,28.80492813,Borna Coric,R,21.28405202
+2018-0495,Dubai,Hard,0,Marcos Baghdatis,R,32.6954141,Filip Krajinovic,R,25.99863107
+2018-0495,Dubai,Hard,0,Damir Dzumhur,R,25.77138946,Evgeny Donskoy,R,27.80287474
+2018-0495,Dubai,Hard,1,Yuichi Sugita,R,29.44010951,Jan Lennard Struff,R,27.84120465
+2018-0495,Dubai,Hard,1,Lucas Pouille,R,24.00821355,Karen Khachanov,R,21.76865161
+2018-0495,Dubai,Hard,0,Grigor Dimitrov,R,26.78439425,Malek Jaziri,R,34.1026694
+2018-0495,Dubai,Hard,0,Quentin Halys,R,21.33607118,Robin Haase,R,30.89390828
+2018-0495,Dubai,Hard,0,Mikhail Kukushkin,R,30.17111567,Stefanos Tsitsipas,R,19.54277892
+2018-0495,Dubai,Hard,0,Gleb Sakharov,R,29.71389459,Philipp Kohlschreiber,R,34.36550308
+2018-0495,Dubai,Hard,1,Roberto Bautista Agut,R,29.86995209,Florian Mayer,R,34.39561944
+2018-0495,Dubai,Hard,0,Joao Sousa,R,28.91170431,Pierre Hugues Herbert,R,26.94592745
+2018-0495,Dubai,Hard,0,Yoshihito Nishioka,L,22.41752225,Benoit Paire,R,28.80492813
+2018-0495,Dubai,Hard,1,Borna Coric,R,21.28405202,Richard Gasquet,R,31.69336071
+2018-0495,Dubai,Hard,0,Thomas Fabbiano,R,28.75564682,Filip Krajinovic,R,25.99863107
+2018-0495,Dubai,Hard,0,Viktor Troicki,R,32.04380561,Marcos Baghdatis,R,32.6954141
+2018-0495,Dubai,Hard,0,Blaz Kavcic,R,30.98151951,Evgeny Donskoy,R,27.80287474
+2018-0495,Dubai,Hard,0,Yannick Maden,U,28.33127995,Damir Dzumhur,R,25.77138946
+2018-0495,Dubai,Hard,0,Ilya Ivashka,R,24.0054757,Yuichi Sugita,R,29.44010951
+2018-0495,Dubai,Hard,1,Jan Lennard Struff,R,27.84120465,Andreas Haider Maurer,R,30.93497604
+2018-0495,Dubai,Hard,1,Karen Khachanov,R,21.76865161,Denis Istomin,R,31.4715948
+2018-0495,Dubai,Hard,0,Ernests Gulbis,R,29.49212868,Lucas Pouille,R,24.00821355
+2018-0533,Sao Paulo,Clay,1,Fabio Fognini,R,30.76249144,Nicolas Jarry,R,22.37919233
+2018-0533,Sao Paulo,Clay,0,Horacio Zeballos,L,32.83504449,Nicolas Jarry,R,22.37919233
+2018-0533,Sao Paulo,Clay,0,Pablo Cuevas,R,32.15331964,Fabio Fognini,R,30.76249144
+2018-0533,Sao Paulo,Clay,0,Albert Ramos,L,30.11088296,Nicolas Jarry,R,22.37919233
+2018-0533,Sao Paulo,Clay,0,Rogerio Dutra Silva,R,34.06433949,Horacio Zeballos,L,32.83504449
+2018-0533,Sao Paulo,Clay,1,Pablo Cuevas,R,32.15331964,Leonardo Mayer,R,30.7871321
+2018-0533,Sao Paulo,Clay,0,Guillermo Garcia Lopez,R,34.73237509,Fabio Fognini,R,30.76249144
+2018-0533,Sao Paulo,Clay,1,Albert Ramos,L,30.11088296,Guilherme Clezar,R,25.15537303
+2018-0533,Sao Paulo,Clay,0,Guido Pella,L,27.78097194,Nicolas Jarry,R,22.37919233
+2018-0533,Sao Paulo,Clay,0,Gael Monfils,R,31.4880219,Horacio Zeballos,L,32.83504449
+2018-0533,Sao Paulo,Clay,0,Nicolas Kicker,R,25.53045859,Rogerio Dutra Silva,R,34.06433949
+2018-0533,Sao Paulo,Clay,1,Leonardo Mayer,R,30.7871321,Carlos Berlocq,R,35.06365503
+2018-0533,Sao Paulo,Clay,1,Pablo Cuevas,R,32.15331964,Sebastian Ofner,R,21.79329227
+2018-0533,Sao Paulo,Clay,0,Federico Delbonis,L,27.39493498,Guillermo Garcia Lopez,R,34.73237509
+2018-0533,Sao Paulo,Clay,0,Joao Domingues,R,24.39425051,Fabio Fognini,R,30.76249144
+2018-0533,Sao Paulo,Clay,0,Thiago Monteiro,L,23.74264203,Guilherme Clezar,R,25.15537303
+2018-0533,Sao Paulo,Clay,1,Nicolas Jarry,R,22.37919233,Dusan Lajovic,R,27.6605065
+2018-0533,Sao Paulo,Clay,0,Corentin Moutet,L,18.85831622,Guido Pella,L,27.78097194
+2018-0533,Sao Paulo,Clay,0,Thomaz Bellucci,L,30.16016427,Horacio Zeballos,L,32.83504449
+2018-0533,Sao Paulo,Clay,1,Nicolas Kicker,R,25.53045859,Victor Estrella,R,37.5687885
+2018-0533,Sao Paulo,Clay,0,Tennys Sandgren,R,26.60095825,Rogerio Dutra Silva,R,34.06433949
+2018-0533,Sao Paulo,Clay,0,Gastao Elias,R,27.25804244,Leonardo Mayer,R,30.7871321
+2018-0533,Sao Paulo,Clay,0,Thiago Seyboth Wild,R,17.96577687,Carlos Berlocq,R,35.06365503
+2018-0533,Sao Paulo,Clay,1,Sebastian Ofner,R,21.79329227,Marco Cecchinato,R,25.4072553
+2018-0533,Sao Paulo,Clay,0,Roberto Carballes Baena,R,24.93086927,Federico Delbonis,L,27.39493498
+2018-0533,Sao Paulo,Clay,1,Guillermo Garcia Lopez,R,34.73237509,Gerald Melzer,L,27.62491444
+2018-0533,Sao Paulo,Clay,1,Joao Domingues,R,24.39425051,Renzo Olivo,R,25.95208761
+2018-M006,Indian Wells Masters,Hard,0,Roger Federer,R,36.57221081,Juan Martin Del Potro,R,29.44558522
+2018-M006,Indian Wells Masters,Hard,1,Roger Federer,R,36.57221081,Borna Coric,R,21.30321697
+2018-M006,Indian Wells Masters,Hard,1,Juan Martin Del Potro,R,29.44558522,Milos Raonic,R,27.18685832
+2018-M006,Indian Wells Masters,Hard,0,Hyeon Chung,R,21.79329227,Roger Federer,R,36.57221081
+2018-M006,Indian Wells Masters,Hard,1,Borna Coric,R,21.30321697,Kevin Anderson,R,31.79739904
+2018-M006,Indian Wells Masters,Hard,1,Milos Raonic,R,27.18685832,Sam Querrey,R,30.40930869
+2018-M006,Indian Wells Masters,Hard,1,Juan Martin Del Potro,R,29.44558522,Philipp Kohlschreiber,R,34.38466804
+2018-M006,Indian Wells Masters,Hard,1,Roger Federer,R,36.57221081,Jeremy Chardy,R,31.05817933
+2018-M006,Indian Wells Masters,Hard,0,Pablo Cuevas,R,32.1724846,Hyeon Chung,R,21.79329227
+2018-M006,Indian Wells Masters,Hard,1,Borna Coric,R,21.30321697,Taylor Harry Fritz,R,20.3504449
+2018-M006,Indian Wells Masters,Hard,1,Kevin Anderson,R,31.79739904,Pablo Carreno Busta,R,26.64750171
+2018-M006,Indian Wells Masters,Hard,1,Sam Querrey,R,30.40930869,Feliciano Lopez,L,36.45448323
+2018-M006,Indian Wells Masters,Hard,1,Juan Martin Del Potro,R,29.44558522,Leonardo Mayer,R,30.80629706
+2018-M006,Indian Wells Masters,Hard,0,Pierre Hugues Herbert,R,26.9650924,Philipp Kohlschreiber,R,34.38466804
+2018-M006,Indian Wells Masters,Hard,1,Roger Federer,R,36.57221081,Filip Krajinovic,R,26.01779603
+2018-M006,Indian Wells Masters,Hard,1,Jeremy Chardy,R,31.05817933,Adrian Mannarino,L,29.68104038
+2018-M006,Indian Wells Masters,Hard,0,Tomas Berdych,R,32.46269678,Hyeon Chung,R,21.79329227
+2018-M006,Indian Wells Masters,Hard,1,Pablo Cuevas,R,32.1724846,Dominic Thiem,R,24.50102669
+2018-M006,Indian Wells Masters,Hard,0,Fernando Verdasco,L,34.30253251,Taylor Harry Fritz,R,20.3504449
+2018-M006,Indian Wells Masters,Hard,0,Roberto Bautista Agut,R,29.88911704,Borna Coric,R,21.30321697
+2018-M006,Indian Wells Masters,Hard,0,Daniil Medvedev,R,22.06160164,Pablo Carreno Busta,R,26.64750171
+2018-M006,Indian Wells Masters,Hard,1,Kevin Anderson,R,31.79739904,Nicolas Kicker,R,25.54962355
+2018-M006,Indian Wells Masters,Hard,0,Jack Sock,R,25.44284736,Feliciano Lopez,L,36.45448323
+2018-M006,Indian Wells Masters,Hard,0,Yuki Bhambri,R,25.66735113,Sam Querrey,R,30.40930869
+2018-M006,Indian Wells Masters,Hard,1,Marcos Baghdatis,R,32.71457906,Dudi Sela,R,32.91718001
+2018-M006,Indian Wells Masters,Hard,0,Joao Sousa,R,28.93086927,Milos Raonic,R,27.18685832
+2018-M006,Indian Wells Masters,Hard,1,Juan Martin Del Potro,R,29.44558522,David Ferrer,R,35.92334018
+2018-M006,Indian Wells Masters,Hard,0,Taro Daniel,R,25.10061602,Leonardo Mayer,R,30.80629706
+2018-M006,Indian Wells Masters,Hard,1,Pierre Hugues Herbert,R,26.9650924,Gael Monfils,R,31.50718686
+2018-M006,Indian Wells Masters,Hard,1,Philipp Kohlschreiber,R,34.38466804,Marin Cilic,R,29.43189596
+2018-M006,Indian Wells Masters,Hard,0,Federico Delbonis,L,27.41409993,Roger Federer,R,36.57221081
+2018-M006,Indian Wells Masters,Hard,1,Filip Krajinovic,R,26.01779603,Mitchell Krueger,R,24.14236824
+2018-M006,Indian Wells Masters,Hard,0,Peter Polansky,R,29.71937029,Adrian Mannarino,L,29.68104038
+2018-M006,Indian Wells Masters,Hard,0,Fabio Fognini,R,30.7816564,Jeremy Chardy,R,31.05817933
+2018-M006,Indian Wells Masters,Hard,1,Tomas Berdych,R,32.46269678,Maximilian Marterer,L,22.72142368
+2018-M006,Indian Wells Masters,Hard,0,Dusan Lajovic,R,27.67967146,Hyeon Chung,R,21.79329227
+2018-M006,Indian Wells Masters,Hard,1,Pablo Cuevas,R,32.1724846,Denis Shapovalov,L,18.88843258
+2018-M006,Indian Wells Masters,Hard,1,Dominic Thiem,R,24.50102669,Stefanos Tsitsipas,R,19.56194387
+2018-M006,Indian Wells Masters,Hard,0,Grigor Dimitrov,R,26.80355921,Fernando Verdasco,L,34.30253251
+2018-M006,Indian Wells Masters,Hard,1,Taylor Harry Fritz,R,20.3504449,Andrey Rublev,R,20.37234771
+2018-M006,Indian Wells Masters,Hard,1,Borna Coric,R,21.30321697,Albert Ramos,L,30.13004791
+2018-M006,Indian Wells Masters,Hard,0,Jared Donaldson,R,21.4017796,Roberto Bautista Agut,R,29.88911704
+2018-M006,Indian Wells Masters,Hard,1,Pablo Carreno Busta,R,26.64750171,Horacio Zeballos,L,32.85420945
+2018-M006,Indian Wells Masters,Hard,0,Matteo Berrettini,U,21.89459274,Daniil Medvedev,R,22.06160164
+2018-M006,Indian Wells Masters,Hard,0,Damir Dzumhur,R,25.79055441,Nicolas Kicker,R,25.54962355
+2018-M006,Indian Wells Masters,Hard,0,Evgeny Donskoy,R,27.8220397,Kevin Anderson,R,31.79739904
+2018-M006,Indian Wells Masters,Hard,1,Jack Sock,R,25.44284736,Thomas Fabbiano,R,28.77481177
+2018-M006,Indian Wells Masters,Hard,0,Ernesto Escobedo,R,21.66735113,Feliciano Lopez,L,36.45448323
+2018-M006,Indian Wells Masters,Hard,0,Mischa Zverev,L,30.53524983,Sam Querrey,R,30.40930869
+2018-M006,Indian Wells Masters,Hard,1,Yuki Bhambri,R,25.66735113,Lucas Pouille,R,24.02737851
+2018-M006,Indian Wells Masters,Hard,1,Marcos Baghdatis,R,32.71457906,Diego Sebastian Schwartzman,R,25.54962355
+2018-M006,Indian Wells Masters,Hard,0,Kyle Edmund,R,23.15400411,Dudi Sela,R,32.91718001
+2018-M006,Indian Wells Masters,Hard,1,Milos Raonic,R,27.18685832,Felix Auger Aliassime,R,17.57152635
+2018-M006,Indian Wells Masters,Hard,1,Joao Sousa,R,28.93086927,Alexander Zverev,R,20.8733744
+2018-M006,Indian Wells Masters,Hard,1,Juan Martin Del Potro,R,29.44558522,Alex De Minaur,R,19.04449008
+2018-M006,Indian Wells Masters,Hard,0,Tennys Sandgren,R,26.6201232,David Ferrer,R,35.92334018
+2018-M006,Indian Wells Masters,Hard,1,Leonardo Mayer,R,30.80629706,Ruben Bemelmans,L,30.13826146
+2018-M006,Indian Wells Masters,Hard,0,Novak Djokovic,R,30.7871321,Taro Daniel,R,25.10061602
+2018-M006,Indian Wells Masters,Hard,1,Gael Monfils,R,31.50718686,John Isner,R,32.8569473
+2018-M006,Indian Wells Masters,Hard,1,Pierre Hugues Herbert,R,26.9650924,Gilles Muller,L,34.82272416
+2018-M006,Indian Wells Masters,Hard,1,Philipp Kohlschreiber,R,34.38466804,Tim Smyczek,R,30.17932923
+2018-M006,Indian Wells Masters,Hard,1,Marin Cilic,R,29.43189596,Marton Fucsovics,R,26.0698152
+2018-M006,Indian Wells Masters,Hard,0,Ryan Harrison,R,25.82614648,Federico Delbonis,L,27.41409993
+2018-M006,Indian Wells Masters,Hard,1,Mitchell Krueger,R,24.14236824,Benoit Paire,R,28.82409309
+2018-M006,Indian Wells Masters,Hard,1,Peter Polansky,R,29.71937029,Marius Copil,R,27.38124572
+2018-M006,Indian Wells Masters,Hard,1,Jeremy Chardy,R,31.05817933,Julien Benneteau,R,36.20533881
+2018-M006,Indian Wells Masters,Hard,1,Maximilian Marterer,L,22.72142368,Ivo Karlovic,R,39.01437372
+2018-M006,Indian Wells Masters,Hard,1,Dusan Lajovic,R,27.67967146,Lukas Lacko,R,30.33538672
+2018-M006,Indian Wells Masters,Hard,1,Denis Shapovalov,L,18.88843258,Ricardas Berankis,R,27.70431212
+2018-M006,Indian Wells Masters,Hard,1,Stefanos Tsitsipas,R,19.56194387,Radu Albot,R,28.31211499
+2018-M006,Indian Wells Masters,Hard,1,Fernando Verdasco,L,34.30253251,Guido Pella,L,27.80013689
+2018-M006,Indian Wells Masters,Hard,0,Reilly Opelka,U,20.5174538,Taylor Harry Fritz,R,20.3504449
+2018-M006,Indian Wells Masters,Hard,1,Borna Coric,R,21.30321697,Donald Young,L,28.61601643
+2018-M006,Indian Wells Masters,Hard,1,Jared Donaldson,R,21.4017796,Evan King,L,25.94387406
+2018-M006,Indian Wells Masters,Hard,1,Horacio Zeballos,L,32.85420945,Yuichi Sugita,R,29.45927447
+2018-M006,Indian Wells Masters,Hard,1,Daniil Medvedev,R,22.06160164,Steve Johnson,R,28.19438741
+2018-M006,Indian Wells Masters,Hard,0,Jiri Vesely,L,24.65160849,Nicolas Kicker,R,25.54962355
+2018-M006,Indian Wells Masters,Hard,1,Evgeny Donskoy,R,27.8220397,Karen Khachanov,R,21.78781656
+2018-M006,Indian Wells Masters,Hard,0,Bradley Klahn,L,27.54004107,Thomas Fabbiano,R,28.77481177
+2018-M006,Indian Wells Masters,Hard,1,Ernesto Escobedo,R,21.66735113,Francis Tiafoe,R,20.12046543
+2018-M006,Indian Wells Masters,Hard,1,Mischa Zverev,L,30.53524983,Mikhail Kukushkin,R,30.19028063
+2018-M006,Indian Wells Masters,Hard,1,Yuki Bhambri,R,25.66735113,Nicolas Mahut,R,36.11772758
+2018-M006,Indian Wells Masters,Hard,0,Yoshihito Nishioka,L,22.4366872,Marcos Baghdatis,R,32.71457906
+2018-M006,Indian Wells Masters,Hard,0,Peter Gojowczyk,R,28.63791923,Dudi Sela,R,32.91718001
+2018-M006,Indian Wells Masters,Hard,1,Felix Auger Aliassime,R,17.57152635,Vasek Pospisil,R,27.69883641
+2018-M006,Indian Wells Masters,Hard,1,Joao Sousa,R,28.93086927,Mikhail Youzhny,R,35.69336071
+2018-M006,Indian Wells Masters,Hard,1,Alex De Minaur,R,19.04449008,Jan Lennard Struff,R,27.86036961
+2018-M006,Indian Wells Masters,Hard,0,Nikoloz Basilashvili,R,26.02874743,Tennys Sandgren,R,26.6201232
+2018-M006,Indian Wells Masters,Hard,0,Victor Estrella,R,37.58795346,Leonardo Mayer,R,30.80629706
+2018-M006,Indian Wells Masters,Hard,0,Cameron Norrie,L,22.53251198,Taro Daniel,R,25.10061602
+2018-M006,Indian Wells Masters,Hard,0,Matthew Ebden,R,30.27241615,Gael Monfils,R,31.50718686
+2018-M006,Indian Wells Masters,Hard,1,Pierre Hugues Herbert,R,26.9650924,Gilles Simon,R,33.18548939
+2018-M006,Indian Wells Masters,Hard,0,Laslo Djere,R,22.75701574,Tim Smyczek,R,30.17932923
+2018-M006,Indian Wells Masters,Hard,0,Viktor Troicki,R,32.06297057,Marton Fucsovics,R,26.0698152
+2018-M007,Miami Masters,Hard,1,John Isner,R,32.89527721,Alexander Zverev,R,20.91170431
+2018-M007,Miami Masters,Hard,1,Alexander Zverev,R,20.91170431,Pablo Carreno Busta,R,26.68583162
+2018-M007,Miami Masters,Hard,1,John Isner,R,32.89527721,Juan Martin Del Potro,R,29.48391513
+2018-M007,Miami Masters,Hard,0,Kevin Anderson,R,31.83572895,Pablo Carreno Busta,R,26.68583162
+2018-M007,Miami Masters,Hard,0,Borna Coric,R,21.34154689,Alexander Zverev,R,20.91170431
+2018-M007,Miami Masters,Hard,0,Milos Raonic,R,27.22518823,Juan Martin Del Potro,R,29.48391513
+2018-M007,Miami Masters,Hard,1,John Isner,R,32.89527721,Hyeon Chung,R,21.83162218
+2018-M007,Miami Masters,Hard,1,Pablo Carreno Busta,R,26.68583162,Fernando Verdasco,L,34.34086242
+2018-M007,Miami Masters,Hard,1,Kevin Anderson,R,31.83572895,Francis Tiafoe,R,20.15879535
+2018-M007,Miami Masters,Hard,0,Nick Kyrgios,R,22.89390828,Alexander Zverev,R,20.91170431
+2018-M007,Miami Masters,Hard,1,Borna Coric,R,21.34154689,Denis Shapovalov,L,18.92676249
+2018-M007,Miami Masters,Hard,1,Juan Martin Del Potro,R,29.48391513,Filip Krajinovic,R,26.05612594
+2018-M007,Miami Masters,Hard,1,Milos Raonic,R,27.22518823,Jeremy Chardy,R,31.09650924
+2018-M007,Miami Masters,Hard,0,Joao Sousa,R,28.96919918,Hyeon Chung,R,21.83162218
+2018-M007,Miami Masters,Hard,0,Marin Cilic,R,29.47022587,John Isner,R,32.89527721
+2018-M007,Miami Masters,Hard,0,Thanasi Kokkinakis,R,21.93839836,Fernando Verdasco,L,34.34086242
+2018-M007,Miami Masters,Hard,1,Pablo Carreno Busta,R,26.68583162,Steve Johnson,R,28.23271732
+2018-M007,Miami Masters,Hard,0,Tomas Berdych,R,32.50102669,Francis Tiafoe,R,20.15879535
+2018-M007,Miami Masters,Hard,0,Karen Khachanov,R,21.82614648,Kevin Anderson,R,31.83572895
+2018-M007,Miami Masters,Hard,0,David Ferrer,R,35.96167009,Alexander Zverev,R,20.91170431
+2018-M007,Miami Masters,Hard,0,Fabio Fognini,R,30.81998631,Nick Kyrgios,R,22.89390828
+2018-M007,Miami Masters,Hard,1,Denis Shapovalov,L,18.92676249,Sam Querrey,R,30.4476386
+2018-M007,Miami Masters,Hard,0,Jack Sock,R,25.48117728,Borna Coric,R,21.34154689
+2018-M007,Miami Masters,Hard,1,Juan Martin Del Potro,R,29.48391513,Kei Nishikori,R,28.21902806
+2018-M007,Miami Masters,Hard,0,Benoit Paire,R,28.862423,Filip Krajinovic,R,26.05612594
+2018-M007,Miami Masters,Hard,1,Milos Raonic,R,27.22518823,Diego Sebastian Schwartzman,R,25.58795346
+2018-M007,Miami Masters,Hard,1,Jeremy Chardy,R,31.09650924,Grigor Dimitrov,R,26.84188912
+2018-M007,Miami Masters,Hard,1,Joao Sousa,R,28.96919918,Jared Donaldson,R,21.44010951
+2018-M007,Miami Masters,Hard,0,Michael Mmoh,R,20.18617385,Hyeon Chung,R,21.83162218
+2018-M007,Miami Masters,Hard,1,John Isner,R,32.89527721,Mikhail Youzhny,R,35.73169062
+2018-M007,Miami Masters,Hard,0,Vasek Pospisil,R,27.73716632,Marin Cilic,R,29.47022587
+2018-M007,Miami Masters,Hard,0,Roger Federer,R,36.61054073,Thanasi Kokkinakis,R,21.93839836
+2018-M007,Miami Masters,Hard,1,Fernando Verdasco,L,34.34086242,Guillermo Garcia Lopez,R,34.78986995
+2018-M007,Miami Masters,Hard,1,Steve Johnson,R,28.23271732,Adrian Mannarino,L,29.71937029
+2018-M007,Miami Masters,Hard,1,Pablo Carreno Busta,R,26.68583162,Denis Istomin,R,31.52908966
+2018-M007,Miami Masters,Hard,1,Tomas Berdych,R,32.50102669,Yoshihito Nishioka,L,22.47501711
+2018-M007,Miami Masters,Hard,0,Kyle Edmund,R,23.19233402,Francis Tiafoe,R,20.15879535
+2018-M007,Miami Masters,Hard,0,Marius Copil,R,27.41957563,Karen Khachanov,R,21.82614648
+2018-M007,Miami Masters,Hard,0,Nikoloz Basilashvili,R,26.06707734,Kevin Anderson,R,31.83572895
+2018-M007,Miami Masters,Hard,0,Daniil Medvedev,R,22.09993155,Alexander Zverev,R,20.91170431
+2018-M007,Miami Masters,Hard,0,Evgeny Donskoy,R,27.86036961,David Ferrer,R,35.96167009
+2018-M007,Miami Masters,Hard,1,Nick Kyrgios,R,22.89390828,Dusan Lajovic,R,27.71800137
+2018-M007,Miami Masters,Hard,1,Fabio Fognini,R,30.81998631,Nicola Kuhn,R,17.99589322
+2018-M007,Miami Masters,Hard,1,Sam Querrey,R,30.4476386,Radu Albot,R,28.3504449
+2018-M007,Miami Masters,Hard,0,Damir Dzumhur,R,25.82888433,Denis Shapovalov,L,18.92676249
+2018-M007,Miami Masters,Hard,1,Borna Coric,R,21.34154689,Leonardo Mayer,R,30.84462697
+2018-M007,Miami Masters,Hard,1,Jack Sock,R,25.48117728,Yuki Bhambri,R,25.70568104
+2018-M007,Miami Masters,Hard,0,Robin Haase,R,30.95140315,Juan Martin Del Potro,R,29.48391513
+2018-M007,Miami Masters,Hard,0,John Millman,R,28.76112252,Kei Nishikori,R,28.21902806
+2018-M007,Miami Masters,Hard,1,Filip Krajinovic,R,26.05612594,Liam Broady,L,24.20260096
+2018-M007,Miami Masters,Hard,0,Novak Djokovic,R,30.82546201,Benoit Paire,R,28.862423
+2018-M007,Miami Masters,Hard,1,Diego Sebastian Schwartzman,R,25.58795346,Nicolas Jarry,R,22.4366872
+2018-M007,Miami Masters,Hard,1,Milos Raonic,R,27.22518823,Mikael Ymer,R,19.52361396
+2018-M007,Miami Masters,Hard,0,Richard Gasquet,R,31.75085558,Jeremy Chardy,R,31.09650924
+2018-M007,Miami Masters,Hard,1,Grigor Dimitrov,R,26.84188912,Maximilian Marterer,L,22.75975359
+2018-M007,Miami Masters,Hard,1,Joao Sousa,R,28.96919918,David Goffin,R,27.27994524
+2018-M007,Miami Masters,Hard,1,Jared Donaldson,R,21.44010951,Feliciano Lopez,L,36.49281314
+2018-M007,Miami Masters,Hard,0,Matthew Ebden,R,30.31074606,Hyeon Chung,R,21.83162218
+2018-M007,Miami Masters,Hard,1,Michael Mmoh,R,20.18617385,Roberto Bautista Agut,R,29.92744695
+2018-M007,Miami Masters,Hard,0,Jiri Vesely,L,24.6899384,John Isner,R,32.89527721
+2018-M007,Miami Masters,Hard,0,Gilles Muller,L,34.86105407,Mikhail Youzhny,R,35.73169062
+2018-M007,Miami Masters,Hard,1,Vasek Pospisil,R,27.73716632,Andrey Rublev,R,20.41067762
+2018-M007,Miami Masters,Hard,1,Marin Cilic,R,29.47022587,Pierre Hugues Herbert,R,27.00342231
+2018-M007,Miami Masters,Hard,0,Calvin Hemery,R,23.137577,Thanasi Kokkinakis,R,21.93839836
+2018-M007,Miami Masters,Hard,1,Guillermo Garcia Lopez,R,34.78986995,Tennys Sandgren,R,26.65845311
+2018-M007,Miami Masters,Hard,0,Victor Estrella,R,37.62628337,Steve Johnson,R,28.23271732
+2018-M007,Miami Masters,Hard,0,Miomir Kecmanovic,R,18.54893908,Denis Istomin,R,31.52908966
+2018-M007,Miami Masters,Hard,0,Alex De Minaur,R,19.08281999,Yoshihito Nishioka,L,22.47501711
+2018-M007,Miami Masters,Hard,0,Nicolas Kicker,R,25.58795346,Francis Tiafoe,R,20.15879535
+2018-M007,Miami Masters,Hard,0,Mikhail Kukushkin,R,30.22861054,Marius Copil,R,27.41957563
+2018-M007,Miami Masters,Hard,1,Nikoloz Basilashvili,R,26.06707734,Thomas Fabbiano,R,28.81314168
+2018-M007,Miami Masters,Hard,0,Stefanos Tsitsipas,R,19.60027379,Daniil Medvedev,R,22.09993155
+2018-M007,Miami Masters,Hard,1,Evgeny Donskoy,R,27.86036961,Aljaz Bedene,R,28.66803559
+2018-M007,Miami Masters,Hard,0,Horacio Zeballos,L,32.89253936,Dusan Lajovic,R,27.71800137
+2018-M007,Miami Masters,Hard,0,Darian King,R,25.89459274,Nicola Kuhn,R,17.99589322
+2018-M007,Miami Masters,Hard,0,Ricardas Berankis,R,27.74264203,Radu Albot,R,28.3504449
+2018-M007,Miami Masters,Hard,1,Denis Shapovalov,L,18.92676249,Viktor Troicki,R,32.10130048
+2018-M007,Miami Masters,Hard,1,Leonardo Mayer,R,30.84462697,Donald Young,L,28.65434634
+2018-M007,Miami Masters,Hard,0,Mirza Basic,R,26.68583162,Yuki Bhambri,R,25.70568104
+2018-M007,Miami Masters,Hard,1,Robin Haase,R,30.95140315,Yuichi Sugita,R,29.49760438
+2018-M007,Miami Masters,Hard,0,Peter Gojowczyk,R,28.67624914,John Millman,R,28.76112252
+2018-M007,Miami Masters,Hard,1,Liam Broady,L,24.20260096,Bjorn Fratangelo,R,24.66529774
+2018-M007,Miami Masters,Hard,1,Benoit Paire,R,28.862423,Mischa Zverev,L,30.57357974
+2018-M007,Miami Masters,Hard,1,Nicolas Jarry,R,22.4366872,Cameron Norrie,L,22.57084189
+2018-M007,Miami Masters,Hard,1,Mikael Ymer,R,19.52361396,Jan Lennard Struff,R,27.89869952
+2018-M007,Miami Masters,Hard,1,Jeremy Chardy,R,31.09650924,Rogerio Dutra Silva,R,34.12183436
+2018-M007,Miami Masters,Hard,1,Maximilian Marterer,L,22.75975359,Marton Fucsovics,R,26.10814511
+2018-M007,Miami Masters,Hard,1,Joao Sousa,R,28.96919918,Ryan Harrison,R,25.86447639
+2018-M007,Miami Masters,Hard,1,Jared Donaldson,R,21.44010951,Marcos Baghdatis,R,32.75290897
+2018-M007,Miami Masters,Hard,1,Matthew Ebden,R,30.31074606,Gilles Simon,R,33.2238193
+2018-M007,Miami Masters,Hard,0,Christopher Eubanks,U,0,Michael Mmoh,R,20.18617385
+2018-M007,Miami Masters,Hard,0,Lukas Lacko,R,30.37371663,Jiri Vesely,L,24.6899384
+2018-M007,Miami Masters,Hard,0,Guido Pella,L,27.8384668,Mikhail Youzhny,R,35.73169062
+2018-M007,Miami Masters,Hard,0,Ivo Karlovic,R,39.05270363,Vasek Pospisil,R,27.73716632
+2018-M007,Miami Masters,Hard,1,Pierre Hugues Herbert,R,27.00342231,Taylor Harry Fritz,R,20.38877481
+2018-0717,Houston,Clay,0,Tennys Sandgren,R,26.71594798,Steve Johnson,R,28.29021218
+2018-0717,Houston,Clay,1,Steve Johnson,R,28.29021218,Taylor Harry Fritz,R,20.44626968
+2018-0717,Houston,Clay,0,Ivo Karlovic,R,39.11019849,Tennys Sandgren,R,26.71594798
+2018-0717,Houston,Clay,0,John Isner,R,32.95277207,Steve Johnson,R,28.29021218
+2018-0717,Houston,Clay,0,Jack Sock,R,25.53867214,Taylor Harry Fritz,R,20.44626968
+2018-0717,Houston,Clay,1,Ivo Karlovic,R,39.11019849,Nick Kyrgios,R,22.95140315
+2018-0717,Houston,Clay,0,Guido Pella,L,27.89596167,Tennys Sandgren,R,26.71594798
+2018-0717,Houston,Clay,0,Henri Laaksonen,R,26.02327173,John Isner,R,32.95277207
+2018-0717,Houston,Clay,1,Steve Johnson,R,28.29021218,Francis Tiafoe,R,20.21629021
+2018-0717,Houston,Clay,1,Jack Sock,R,25.53867214,Horacio Zeballos,L,32.95003422
+2018-0717,Houston,Clay,1,Taylor Harry Fritz,R,20.44626968,Ryan Harrison,R,25.92197125
+2018-0717,Houston,Clay,1,Ivo Karlovic,R,39.11019849,Denis Kudla,R,25.64271047
+2018-0717,Houston,Clay,1,Nick Kyrgios,R,22.95140315,Bjorn Fratangelo,R,24.72279261
+2018-0717,Houston,Clay,1,Tennys Sandgren,R,26.71594798,Nicolas Kicker,R,25.64544832
+2018-0717,Houston,Clay,1,Guido Pella,L,27.89596167,Sam Querrey,R,30.50513347
+2018-0717,Houston,Clay,1,Henri Laaksonen,R,26.02327173,Dustin Brown,R,33.33333333
+2018-0717,Houston,Clay,0,Mackenzie Mcdonald,R,22.98151951,Francis Tiafoe,R,20.21629021
+2018-0717,Houston,Clay,1,Steve Johnson,R,28.29021218,Ernesto Escobedo,R,21.76317591
+2018-0717,Houston,Clay,1,Horacio Zeballos,L,32.95003422,Yoshihito Nishioka,L,22.53251198
+2018-0717,Houston,Clay,1,Taylor Harry Fritz,R,20.44626968,Tim Smyczek,R,30.275154
+2018-0717,Houston,Clay,0,Miomir Kecmanovic,R,18.60643395,Ryan Harrison,R,25.92197125
+2018-0717,Houston,Clay,1,Denis Kudla,R,25.64271047,Fernando Verdasco,L,34.39835729
+2018-0717,Houston,Clay,0,Taro Daniel,R,25.19644079,Ivo Karlovic,R,39.11019849
+2018-0717,Houston,Clay,1,Bjorn Fratangelo,R,24.72279261,Jordan Thompson,R,23.96988364
+2018-0717,Houston,Clay,0,Blaz Kavcic,R,31.09650924,Tennys Sandgren,R,26.71594798
+2018-0717,Houston,Clay,1,Nicolas Kicker,R,25.64544832,Donald Young,L,28.7118412
+2018-0717,Houston,Clay,1,Guido Pella,L,27.89596167,Stefan Kozlov,R,20.183436
+2018-0360,Marrakech,Clay,1,Pablo Andujar,R,32.20807666,Kyle Edmund,R,23.24982888
+2018-0360,Marrakech,Clay,1,Pablo Andujar,R,32.20807666,Joao Sousa,R,29.02669405
+2018-0360,Marrakech,Clay,1,Kyle Edmund,R,23.24982888,Richard Gasquet,R,31.80835044
+2018-0360,Marrakech,Clay,0,Alexey Vatutin,U,25.44832307,Pablo Andujar,R,32.20807666
+2018-0360,Marrakech,Clay,1,Joao Sousa,R,29.02669405,Nikoloz Basilashvili,R,26.12457221
+2018-0360,Marrakech,Clay,0,Gilles Simon,R,33.28131417,Richard Gasquet,R,31.80835044
+2018-0360,Marrakech,Clay,1,Kyle Edmund,R,23.24982888,Malek Jaziri,R,34.21765914
+2018-0360,Marrakech,Clay,1,Alexey Vatutin,U,25.44832307,Albert Ramos,L,30.22587269
+2018-0360,Marrakech,Clay,0,Andrea Arnaboldi,L,30.28336756,Pablo Andujar,R,32.20807666
+2018-0360,Marrakech,Clay,1,Nikoloz Basilashvili,R,26.12457221,Lamine Ouahab,R,33.29500342
+2018-0360,Marrakech,Clay,0,Mirza Basic,R,26.74332649,Joao Sousa,R,29.02669405
+2018-0360,Marrakech,Clay,0,Roberto Carballes Baena,R,25.045859,Gilles Simon,R,33.28131417
+2018-0360,Marrakech,Clay,1,Richard Gasquet,R,31.80835044,Guillermo Garcia Lopez,R,34.84736482
+2018-0360,Marrakech,Clay,1,Malek Jaziri,R,34.21765914,Mischa Zverev,L,30.63107461
+2018-0360,Marrakech,Clay,0,Radu Albot,R,28.40793977,Kyle Edmund,R,23.24982888
+2018-0360,Marrakech,Clay,0,Amine Ahouda,U,20.57494867,Albert Ramos,L,30.22587269
+2018-0360,Marrakech,Clay,0,Jan Lennard Struff,R,27.95619439,Alexey Vatutin,U,25.44832307
+2018-0360,Marrakech,Clay,1,Pablo Andujar,R,32.20807666,Ilya Ivashka,R,24.12046543
+2018-0360,Marrakech,Clay,0,Alexandr Dolgopolov,R,29.41820671,Andrea Arnaboldi,L,30.28336756
+2018-0360,Marrakech,Clay,0,Philipp Kohlschreiber,R,34.48049281,Lamine Ouahab,R,33.29500342
+2018-0360,Marrakech,Clay,0,Matteo Berrettini,U,21.99041752,Nikoloz Basilashvili,R,26.12457221
+2018-0360,Marrakech,Clay,1,Joao Sousa,R,29.02669405,Pedro Martinez Portero,R,20.95277207
+2018-0360,Marrakech,Clay,1,Mirza Basic,R,26.74332649,Robin Haase,R,31.00889802
+2018-0360,Marrakech,Clay,1,Gilles Simon,R,33.28131417,Benoit Paire,R,28.91991786
+2018-0360,Marrakech,Clay,1,Roberto Carballes Baena,R,25.045859,Maximilian Marterer,L,22.81724846
+2018-0360,Marrakech,Clay,1,Guillermo Garcia Lopez,R,34.84736482,Calvin Hemery,R,23.19507187
+2018-0360,Marrakech,Clay,1,Richard Gasquet,R,31.80835044,Thomas Fabbiano,R,28.87063655
+2018-0360,Marrakech,Clay,0,Paolo Lorenzi,R,36.31485284,Mischa Zverev,L,30.63107461
+2018-0360,Marrakech,Clay,0,Marton Fucsovics,R,26.16563997,Malek Jaziri,R,34.21765914
+2018-0360,Marrakech,Clay,0,Andreas Seppi,R,34.13004791,Radu Albot,R,28.40793977
+2018-0360,Marrakech,Clay,1,Kyle Edmund,R,23.24982888,Jiri Vesely,L,24.74743326
+2018-0410,Monte Carlo Masters,Clay,1,Rafael Nadal,L,31.86858316,Kei Nishikori,R,28.29568789
+2018-0410,Monte Carlo Masters,Clay,0,Grigor Dimitrov,R,26.91854894,Rafael Nadal,L,31.86858316
+2018-0410,Monte Carlo Masters,Clay,0,Alexander Zverev,R,20.98836413,Kei Nishikori,R,28.29568789
+2018-0410,Monte Carlo Masters,Clay,0,Dominic Thiem,R,24.61601643,Rafael Nadal,L,31.86858316
+2018-0410,Monte Carlo Masters,Clay,1,Grigor Dimitrov,R,26.91854894,David Goffin,R,27.35660507
+2018-0410,Monte Carlo Masters,Clay,1,Alexander Zverev,R,20.98836413,Richard Gasquet,R,31.8275154
+2018-0410,Monte Carlo Masters,Clay,0,Marin Cilic,R,29.54688569,Kei Nishikori,R,28.29568789
+2018-0410,Monte Carlo Masters,Clay,0,Karen Khachanov,R,21.9028063,Rafael Nadal,L,31.86858316
+2018-0410,Monte Carlo Masters,Clay,1,Dominic Thiem,R,24.61601643,Novak Djokovic,R,30.90212183
+2018-0410,Monte Carlo Masters,Clay,0,Philipp Kohlschreiber,R,34.49965777,Grigor Dimitrov,R,26.91854894
+2018-0410,Monte Carlo Masters,Clay,1,David Goffin,R,27.35660507,Roberto Bautista Agut,R,30.00410678
+2018-0410,Monte Carlo Masters,Clay,1,Richard Gasquet,R,31.8275154,Mischa Zverev,L,30.65023956
+2018-0410,Monte Carlo Masters,Clay,0,Jan Lennard Struff,R,27.97535934,Alexander Zverev,R,20.98836413
+2018-0410,Monte Carlo Masters,Clay,1,Kei Nishikori,R,28.29568789,Andreas Seppi,R,34.14921287
+2018-0410,Monte Carlo Masters,Clay,1,Rafael Nadal,L,31.86858316,Aljaz Bedene,R,28.74469541
+2018-0410,Monte Carlo Masters,Clay,1,Karen Khachanov,R,21.9028063,Gilles Simon,R,33.30047912
+2018-0410,Monte Carlo Masters,Clay,0,Borna Coric,R,21.41820671,Novak Djokovic,R,30.90212183
+2018-0410,Monte Carlo Masters,Clay,1,Dominic Thiem,R,24.61601643,Andrey Rublev,R,20.48733744
+2018-0410,Monte Carlo Masters,Clay,0,Pierre Hugues Herbert,R,27.08008214,Grigor Dimitrov,R,26.91854894
+2018-0410,Monte Carlo Masters,Clay,0,Albert Ramos,L,30.24503765,Philipp Kohlschreiber,R,34.49965777
+2018-0410,Monte Carlo Masters,Clay,1,Roberto Bautista Agut,R,30.00410678,Feliciano Lopez,L,36.56947296
+2018-0410,Monte Carlo Masters,Clay,1,David Goffin,R,27.35660507,Stefanos Tsitsipas,R,19.67693361
+2018-0410,Monte Carlo Masters,Clay,1,Mischa Zverev,L,30.65023956,Lucas Pouille,R,24.14236824
+2018-0410,Monte Carlo Masters,Clay,1,Richard Gasquet,R,31.8275154,Diego Sebastian Schwartzman,R,25.66461328
+2018-0410,Monte Carlo Masters,Clay,0,Fabio Fognini,R,30.89664613,Jan Lennard Struff,R,27.97535934
+2018-0410,Monte Carlo Masters,Clay,1,Alexander Zverev,R,20.98836413,Gilles Muller,L,34.93771389
+2018-0410,Monte Carlo Masters,Clay,1,Andreas Seppi,R,34.14921287,Guillermo Garcia Lopez,R,34.86652977
+2018-0410,Monte Carlo Masters,Clay,0,Daniil Medvedev,R,22.17659138,Kei Nishikori,R,28.29568789
+2018-0410,Monte Carlo Masters,Clay,1,Milos Raonic,R,27.30184805,Marco Cecchinato,R,25.54140999
+2018-0410,Monte Carlo Masters,Clay,0,Fernando Verdasco,L,34.41752225,Marin Cilic,R,29.54688569
+2018-0410,Monte Carlo Masters,Clay,0,Mirza Basic,R,26.76249144,Aljaz Bedene,R,28.74469541
+2018-0410,Monte Carlo Masters,Clay,1,Karen Khachanov,R,21.9028063,Thanasi Kokkinakis,R,22.01505818
+2018-0410,Monte Carlo Masters,Clay,0,Adrian Mannarino,L,29.79603012,Gilles Simon,R,33.30047912
+2018-0410,Monte Carlo Masters,Clay,0,Dusan Lajovic,R,27.79466119,Novak Djokovic,R,30.90212183
+2018-0410,Monte Carlo Masters,Clay,1,Borna Coric,R,21.41820671,Julien Benneteau,R,36.32032854
+2018-0410,Monte Carlo Masters,Clay,1,Andrey Rublev,R,20.48733744,Robin Haase,R,31.02806297
+2018-0410,Monte Carlo Masters,Clay,0,Paolo Lorenzi,R,36.3340178,Pierre Hugues Herbert,R,27.08008214
+2018-0410,Monte Carlo Masters,Clay,1,Philipp Kohlschreiber,R,34.49965777,Tennys Sandgren,R,26.73511294
+2018-0410,Monte Carlo Masters,Clay,1,Albert Ramos,L,30.24503765,Jared Donaldson,R,21.51676934
+2018-0410,Monte Carlo Masters,Clay,1,Roberto Bautista Agut,R,30.00410678,Peter Gojowczyk,R,28.75290897
+2018-0410,Monte Carlo Masters,Clay,0,Benoit Paire,R,28.93908282,Feliciano Lopez,L,36.56947296
+2018-0410,Monte Carlo Masters,Clay,0,Denis Shapovalov,L,19.00342231,Stefanos Tsitsipas,R,19.67693361
+2018-0410,Monte Carlo Masters,Clay,0,Felix Auger Aliassime,R,17.68651608,Mischa Zverev,L,30.65023956
+2018-0410,Monte Carlo Masters,Clay,1,Richard Gasquet,R,31.8275154,Jeremy Chardy,R,31.17316906
+2018-0410,Monte Carlo Masters,Clay,0,Guido Pella,L,27.91512663,Diego Sebastian Schwartzman,R,25.66461328
+2018-0410,Monte Carlo Masters,Clay,1,Fabio Fognini,R,30.89664613,Ilya Ivashka,R,24.13963039
+2018-0410,Monte Carlo Masters,Clay,1,Jan Lennard Struff,R,27.97535934,Yuichi Sugita,R,29.5742642
+2018-0410,Monte Carlo Masters,Clay,0,Florian Mayer,R,34.52977413,Gilles Muller,L,34.93771389
+2018-0410,Monte Carlo Masters,Clay,1,Andreas Seppi,R,34.14921287,Kyle Edmund,R,23.26899384
+2018-0410,Monte Carlo Masters,Clay,1,Daniil Medvedev,R,22.17659138,Marton Fucsovics,R,26.18480493
+2018-0410,Monte Carlo Masters,Clay,1,Kei Nishikori,R,28.29568789,Tomas Berdych,R,32.57768652
+2018-0410,Monte Carlo Masters,Clay,0,Lucas Catarina,R,21.63723477,Milos Raonic,R,27.30184805
+2018-0410,Monte Carlo Masters,Clay,0,Damir Dzumhur,R,25.90554415,Marco Cecchinato,R,25.54140999
+2018-0410,Monte Carlo Masters,Clay,0,Pablo Cuevas,R,32.28747433,Fernando Verdasco,L,34.41752225
+2018-0425,Barcelona,Clay,0,Stefanos Tsitsipas,R,19.69609856,Rafael Nadal,L,31.88774812
+2018-0425,Barcelona,Clay,1,Rafael Nadal,L,31.88774812,David Goffin,R,27.37577002
+2018-0425,Barcelona,Clay,1,Stefanos Tsitsipas,R,19.69609856,Pablo Carreno Busta,R,26.7816564
+2018-0425,Barcelona,Clay,0,Martin Klizan,L,28.78302533,Rafael Nadal,L,31.88774812
+2018-0425,Barcelona,Clay,0,Roberto Bautista Agut,R,30.02327173,David Goffin,R,27.37577002
+2018-0425,Barcelona,Clay,0,Dominic Thiem,R,24.63518138,Stefanos Tsitsipas,R,19.69609856
+2018-0425,Barcelona,Clay,1,Pablo Carreno Busta,R,26.7816564,Grigor Dimitrov,R,26.93771389
+2018-0425,Barcelona,Clay,1,Rafael Nadal,L,31.88774812,Guillermo Garcia Lopez,R,34.88569473
+2018-0425,Barcelona,Clay,0,Feliciano Lopez,L,36.58863792,Martin Klizan,L,28.78302533
+2018-0425,Barcelona,Clay,0,Karen Khachanov,R,21.92197125,David Goffin,R,27.37577002
+2018-0425,Barcelona,Clay,0,Pablo Andujar,R,32.24640657,Roberto Bautista Agut,R,30.02327173
+2018-0425,Barcelona,Clay,1,Stefanos Tsitsipas,R,19.69609856,Albert Ramos,L,30.2642026
+2018-0425,Barcelona,Clay,1,Dominic Thiem,R,24.63518138,Jozef Kovalik,R,25.46475017
+2018-0425,Barcelona,Clay,1,Pablo Carreno Busta,R,26.7816564,Adrian Mannarino,L,29.81519507
+2018-0425,Barcelona,Clay,1,Grigor Dimitrov,R,26.93771389,Malek Jaziri,R,34.25598905
+2018-0425,Barcelona,Clay,0,Roberto Carballes Baena,R,25.08418891,Rafael Nadal,L,31.88774812
+2018-0425,Barcelona,Clay,0,Kei Nishikori,R,28.31485284,Guillermo Garcia Lopez,R,34.88569473
+2018-0425,Barcelona,Clay,0,Dusan Lajovic,R,27.81382615,Feliciano Lopez,L,36.58863792
+2018-0425,Barcelona,Clay,0,Novak Djokovic,R,30.92128679,Martin Klizan,L,28.78302533
+2018-0425,Barcelona,Clay,0,Marcel Granollers,R,32.03011636,David Goffin,R,27.37577002
+2018-0425,Barcelona,Clay,0,Leonardo Mayer,R,30.94045175,Karen Khachanov,R,21.92197125
+2018-0425,Barcelona,Clay,1,Pablo Andujar,R,32.24640657,Bjorn Fratangelo,R,24.76112252
+2018-0425,Barcelona,Clay,1,Roberto Bautista Agut,R,30.02327173,Ivo Karlovic,R,39.14852841
+2018-0425,Barcelona,Clay,0,Diego Sebastian Schwartzman,R,25.68377823,Stefanos Tsitsipas,R,19.69609856
+2018-0425,Barcelona,Clay,1,Albert Ramos,L,30.2642026,Rogerio Dutra Silva,R,34.21765914
+2018-0425,Barcelona,Clay,1,Jozef Kovalik,R,25.46475017,Guido Pella,L,27.93429158
+2018-0425,Barcelona,Clay,1,Dominic Thiem,R,24.63518138,Jaume Munar,U,20.96646133
+2018-0425,Barcelona,Clay,1,Pablo Carreno Busta,R,26.7816564,Benoit Paire,R,28.95824778
+2018-0425,Barcelona,Clay,0,Pablo Cuevas,R,32.30663929,Adrian Mannarino,L,29.81519507
+2018-0425,Barcelona,Clay,0,Ernesto Escobedo,R,21.80150582,Malek Jaziri,R,34.25598905
+2018-0425,Barcelona,Clay,1,Grigor Dimitrov,R,26.93771389,Gilles Simon,R,33.31964408
+2018-0425,Barcelona,Clay,0,Andreas Haider Maurer,R,31.08829569,Roberto Carballes Baena,R,25.08418891
+2018-0425,Barcelona,Clay,0,Yuichi Sugita,R,29.59342916,Guillermo Garcia Lopez,R,34.88569473
+2018-0425,Barcelona,Clay,0,Pedro Martinez Portero,R,20.99110198,Dusan Lajovic,R,27.81382615
+2018-0425,Barcelona,Clay,1,Martin Klizan,L,28.78302533,Federico Delbonis,L,27.54825462
+2018-0425,Barcelona,Clay,1,Marcel Granollers,R,32.03011636,Mikhail Kukushkin,R,30.32443532
+2018-0425,Barcelona,Clay,1,Leonardo Mayer,R,30.94045175,Mischa Zverev,L,30.66940452
+2018-0425,Barcelona,Clay,0,Alexey Vatutin,U,25.48665298,Bjorn Fratangelo,R,24.76112252
+2018-0425,Barcelona,Clay,0,Tommy Robredo,R,35.97809719,Ivo Karlovic,R,39.14852841
+2018-0425,Barcelona,Clay,0,Corentin Moutet,L,19.01163587,Stefanos Tsitsipas,R,19.69609856
+2018-0425,Barcelona,Clay,0,Jared Donaldson,R,21.53593429,Rogerio Dutra Silva,R,34.21765914
+2018-0425,Barcelona,Clay,0,Peter Gojowczyk,R,28.77207392,Guido Pella,L,27.93429158
+2018-0425,Barcelona,Clay,0,Joao Sousa,R,29.06502396,Jaume Munar,U,20.96646133
+2018-0425,Barcelona,Clay,1,Benoit Paire,R,28.95824778,Nicolas Jarry,R,22.53251198
+2018-0425,Barcelona,Clay,1,Pablo Cuevas,R,32.30663929,Ricardo Ojeda Lara,U,25.23750856
+2018-0425,Barcelona,Clay,1,Malek Jaziri,R,34.25598905,Tennys Sandgren,R,26.75427789
+2018-0425,Barcelona,Clay,1,Gilles Simon,R,33.31964408,Ilya Ivashka,R,24.15879535
+2018-7648,Budapest,Clay,1,Marco Cecchinato,R,25.56057495,John Millman,R,28.8569473
+2018-7648,Budapest,Clay,1,John Millman,R,28.8569473,Aljaz Bedene,R,28.76386037
+2018-7648,Budapest,Clay,1,Marco Cecchinato,R,25.56057495,Andreas Seppi,R,34.16837782
+2018-7648,Budapest,Clay,0,Yannick Maden,U,28.48459959,John Millman,R,28.8569473
+2018-7648,Budapest,Clay,0,Lorenzo Sonego,R,22.95140315,Aljaz Bedene,R,28.76386037
+2018-7648,Budapest,Clay,0,Nikoloz Basilashvili,R,26.16290212,Andreas Seppi,R,34.16837782
+2018-7648,Budapest,Clay,1,Marco Cecchinato,R,25.56057495,Jan Lennard Struff,R,27.9945243
+2018-7648,Budapest,Clay,0,Lucas Pouille,R,24.1615332,John Millman,R,28.8569473
+2018-7648,Budapest,Clay,1,Yannick Maden,U,28.48459959,Maximilian Marterer,L,22.85557837
+2018-7648,Budapest,Clay,0,Richard Gasquet,R,31.84668036,Lorenzo Sonego,R,22.95140315
+2018-7648,Budapest,Clay,1,Aljaz Bedene,R,28.76386037,Matteo Berrettini,U,22.02874743
+2018-7648,Budapest,Clay,0,Mikhail Youzhny,R,35.8275154,Andreas Seppi,R,34.16837782
+2018-7648,Budapest,Clay,1,Nikoloz Basilashvili,R,26.16290212,Denis Shapovalov,L,19.02258727
+2018-7648,Budapest,Clay,0,Alexander Bublik,R,20.84873374,Jan Lennard Struff,R,27.9945243
+2018-7648,Budapest,Clay,0,Damir Dzumhur,R,25.9247091,Marco Cecchinato,R,25.56057495
+2018-7648,Budapest,Clay,0,Radu Albot,R,28.44626968,John Millman,R,28.8569473
+2018-7648,Budapest,Clay,0,Viktor Troicki,R,32.19712526,Maximilian Marterer,L,22.85557837
+2018-7648,Budapest,Clay,0,Marton Fucsovics,R,26.20396988,Yannick Maden,U,28.48459959
+2018-7648,Budapest,Clay,1,Lorenzo Sonego,R,22.95140315,Hubert Hurkacz,R,21.19370294
+2018-7648,Budapest,Clay,1,Matteo Berrettini,U,22.02874743,Attila Balazs,R,29.5687885
+2018-7648,Budapest,Clay,1,Aljaz Bedene,R,28.76386037,Marius Copil,R,27.51540041
+2018-7648,Budapest,Clay,1,Andreas Seppi,R,34.16837782,Thomas Fabbiano,R,28.90896646
+2018-7648,Budapest,Clay,0,Zsombor Piros,U,18.52703628,Mikhail Youzhny,R,35.8275154
+2018-7648,Budapest,Clay,0,Paolo Lorenzi,R,36.35318275,Nikoloz Basilashvili,R,26.16290212
+2018-7648,Budapest,Clay,1,Jan Lennard Struff,R,27.9945243,Jurgen Zopp,R,30.06707734
+2018-7648,Budapest,Clay,0,Denis Istomin,R,31.62491444,Alexander Bublik,R,20.84873374
+2018-7648,Budapest,Clay,0,Mirza Basic,R,26.7816564,Marco Cecchinato,R,25.56057495
+2018-7290,Estoril,Clay,0,Francis Tiafoe,R,20.27378508,Joao Sousa,R,29.08418891
+2018-7290,Estoril,Clay,1,Joao Sousa,R,29.08418891,Stefanos Tsitsipas,R,19.71526352
+2018-7290,Estoril,Clay,0,Pablo Carreno Busta,R,26.80082136,Francis Tiafoe,R,20.27378508
+2018-7290,Estoril,Clay,1,Stefanos Tsitsipas,R,19.71526352,Roberto Carballes Baena,R,25.10335387
+2018-7290,Estoril,Clay,0,Kyle Edmund,R,23.30732375,Joao Sousa,R,29.08418891
+2018-7290,Estoril,Clay,0,Simone Bolelli,R,32.55852156,Francis Tiafoe,R,20.27378508
+2018-7290,Estoril,Clay,0,Nicolas Jarry,R,22.55167693,Pablo Carreno Busta,R,26.80082136
+2018-7290,Estoril,Clay,0,Kevin Anderson,R,31.95071869,Stefanos Tsitsipas,R,19.71526352
+2018-7290,Estoril,Clay,0,Cameron Norrie,L,22.68583162,Roberto Carballes Baena,R,25.10335387
+2018-7290,Estoril,Clay,1,Kyle Edmund,R,23.30732375,Alex De Minaur,R,19.19780972
+2018-7290,Estoril,Clay,1,Joao Sousa,R,29.08418891,Pedro Sousa,R,29.9247091
+2018-7290,Estoril,Clay,1,Simone Bolelli,R,32.55852156,Federico Delbonis,L,27.56741958
+2018-7290,Estoril,Clay,1,Francis Tiafoe,R,20.27378508,Gilles Muller,L,34.97604381
+2018-7290,Estoril,Clay,1,Nicolas Jarry,R,22.55167693,Ricardo Ojeda Lara,U,25.25667351
+2018-7290,Estoril,Clay,0,Nicolas Kicker,R,25.70294319,Pablo Carreno Busta,R,26.80082136
+2018-7290,Estoril,Clay,0,Pablo Andujar,R,32.26557153,Stefanos Tsitsipas,R,19.71526352
+2018-7290,Estoril,Clay,0,Bjorn Fratangelo,R,24.78028747,Roberto Carballes Baena,R,25.10335387
+2018-7290,Estoril,Clay,0,Robin Haase,R,31.06639288,Cameron Norrie,L,22.68583162
+2018-7290,Estoril,Clay,0,Gastao Elias,R,27.43052704,Alex De Minaur,R,19.19780972
+2018-7290,Estoril,Clay,0,Gilles Simon,R,33.33880903,Pedro Sousa,R,29.9247091
+2018-7290,Estoril,Clay,1,Joao Sousa,R,29.08418891,Daniil Medvedev,R,22.21492129
+2018-7290,Estoril,Clay,0,Albert Ramos,L,30.28336756,Federico Delbonis,L,27.56741958
+2018-7290,Estoril,Clay,1,Simone Bolelli,R,32.55852156,Joao Domingues,R,24.56673511
+2018-7290,Estoril,Clay,0,Tennys Sandgren,R,26.77344285,Francis Tiafoe,R,20.27378508
+2018-7290,Estoril,Clay,0,Leonardo Mayer,R,30.9596167,Nicolas Jarry,R,22.55167693
+2018-7290,Estoril,Clay,1,Ricardo Ojeda Lara,U,25.25667351,Frederico Ferreira Silva,L,23.11841205
+2018-7290,Estoril,Clay,0,Tim Smyczek,R,30.33264887,Nicolas Kicker,R,25.70294319
+2018-7163,Istanbul,Clay,1,Taro Daniel,R,25.25393566,Malek Jaziri,R,34.275154
+2018-7163,Istanbul,Clay,1,Malek Jaziri,R,34.275154,Laslo Djere,R,22.91033539
+2018-7163,Istanbul,Clay,1,Taro Daniel,R,25.25393566,Jeremy Chardy,R,31.21149897
+2018-7163,Istanbul,Clay,0,Jiri Vesely,L,24.80492813,Malek Jaziri,R,34.275154
+2018-7163,Istanbul,Clay,0,Paolo Lorenzi,R,36.37234771,Laslo Djere,R,22.91033539
+2018-7163,Istanbul,Clay,1,Taro Daniel,R,25.25393566,Rogerio Dutra Silva,R,34.23682409
+2018-7163,Istanbul,Clay,1,Jeremy Chardy,R,31.21149897,Thomas Fabbiano,R,28.92813142
+2018-7163,Istanbul,Clay,0,Marin Cilic,R,29.58521561,Malek Jaziri,R,34.275154
+2018-7163,Istanbul,Clay,0,Thiago Monteiro,L,23.91512663,Jiri Vesely,L,24.80492813
+2018-7163,Istanbul,Clay,1,Laslo Djere,R,22.91033539,Andreas Seppi,R,34.18754278
+2018-7163,Istanbul,Clay,0,Marco Trungelliti,R,28.24366872,Paolo Lorenzi,R,36.37234771
+2018-7163,Istanbul,Clay,0,Viktor Troicki,R,32.21629021,Rogerio Dutra Silva,R,34.23682409
+2018-7163,Istanbul,Clay,0,Aljaz Bedene,R,28.78302533,Taro Daniel,R,25.25393566
+2018-7163,Istanbul,Clay,1,Jeremy Chardy,R,31.21149897,Dusan Lajovic,R,27.8329911
+2018-7163,Istanbul,Clay,1,Thomas Fabbiano,R,28.92813142,Damir Dzumhur,R,25.94387406
+2018-7163,Istanbul,Clay,0,Marsel Ilhan,R,30.88569473,Malek Jaziri,R,34.275154
+2018-7163,Istanbul,Clay,1,Thiago Monteiro,L,23.91512663,Gerald Melzer,L,27.79739904
+2018-7163,Istanbul,Clay,1,Jiri Vesely,L,24.80492813,Daniel Gimeno Traver,R,32.72826831
+2018-7163,Istanbul,Clay,0,Denis Istomin,R,31.6440794,Laslo Djere,R,22.91033539
+2018-7163,Istanbul,Clay,0,Elias Ymer,R,22.05338809,Marco Trungelliti,R,28.24366872
+2018-7163,Istanbul,Clay,0,Cem Ilkel,R,22.69130732,Paolo Lorenzi,R,36.37234771
+2018-7163,Istanbul,Clay,1,Viktor Troicki,R,32.21629021,Bernard Tomic,R,25.52224504
+2018-7163,Istanbul,Clay,1,Rogerio Dutra Silva,R,34.23682409,Radu Albot,R,28.46543463
+2018-7163,Istanbul,Clay,0,Matteo Berrettini,U,22.04791239,Taro Daniel,R,25.25393566
+2018-7163,Istanbul,Clay,1,Jeremy Chardy,R,31.21149897,Nikoloz Basilashvili,R,26.18206708
+2018-7163,Istanbul,Clay,1,Dusan Lajovic,R,27.8329911,John Millman,R,28.87611225
+2018-7163,Istanbul,Clay,0,Mikhail Youzhny,R,35.84668036,Thomas Fabbiano,R,28.92813142
+2018-0308,Munich,Clay,1,Alexander Zverev,R,21.02669405,Philipp Kohlschreiber,R,34.53798768
+2018-0308,Munich,Clay,1,Alexander Zverev,R,21.02669405,Hyeon Chung,R,21.94661191
+2018-0308,Munich,Clay,1,Philipp Kohlschreiber,R,34.53798768,Maximilian Marterer,L,22.87474333
+2018-0308,Munich,Clay,1,Alexander Zverev,R,21.02669405,Jan Lennard Struff,R,28.01368925
+2018-0308,Munich,Clay,1,Hyeon Chung,R,21.94661191,Martin Klizan,L,28.80219028
+2018-0308,Munich,Clay,0,Marton Fucsovics,R,26.22313484,Maximilian Marterer,L,22.87474333
+2018-0308,Munich,Clay,0,Roberto Bautista Agut,R,30.04243669,Philipp Kohlschreiber,R,34.53798768
+2018-0308,Munich,Clay,1,Alexander Zverev,R,21.02669405,Yannick Hanfmann,U,26.46132786
+2018-0308,Munich,Clay,0,Yannick Maden,U,28.50376454,Jan Lennard Struff,R,28.01368925
+2018-0308,Munich,Clay,0,Matthias Bachinger,R,31.07734428,Hyeon Chung,R,21.94661191
+2018-0308,Munich,Clay,1,Martin Klizan,L,28.80219028,Mirza Basic,R,26.80082136
+2018-0308,Munich,Clay,1,Marton Fucsovics,R,26.22313484,Marco Cecchinato,R,25.5797399
+2018-0308,Munich,Clay,0,Diego Sebastian Schwartzman,R,25.70294319,Maximilian Marterer,L,22.87474333
+2018-0308,Munich,Clay,0,Mischa Zverev,L,30.68856947,Philipp Kohlschreiber,R,34.53798768
+2018-0308,Munich,Clay,0,Casper Ruud,R,19.35386721,Roberto Bautista Agut,R,30.04243669
+2018-0308,Munich,Clay,1,Yannick Hanfmann,U,26.46132786,Marcos Baghdatis,R,32.8678987
+2018-0308,Munich,Clay,0,Daniel Masur,R,23.88501027,Jan Lennard Struff,R,28.01368925
+2018-0308,Munich,Clay,1,Yannick Maden,U,28.50376454,Yuichi Sugita,R,29.61259411
+2018-0308,Munich,Clay,1,Matthias Bachinger,R,31.07734428,Mikhail Kukushkin,R,30.34360027
+2018-0308,Munich,Clay,0,Florian Mayer,R,34.56810404,Martin Klizan,L,28.80219028
+2018-0308,Munich,Clay,0,Gael Monfils,R,31.6605065,Mirza Basic,R,26.80082136
+2018-0308,Munich,Clay,1,Marco Cecchinato,R,25.5797399,Fabio Fognini,R,30.93497604
+2018-0308,Munich,Clay,1,Marton Fucsovics,R,26.22313484,Guido Pella,L,27.95345654
+2018-0308,Munich,Clay,1,Maximilian Marterer,L,22.87474333,Dustin Brown,R,33.3908282
+2018-0308,Munich,Clay,0,Ivo Karlovic,R,39.16769336,Philipp Kohlschreiber,R,34.53798768
+2018-0308,Munich,Clay,0,Andreas Haider Maurer,R,31.10746064,Mischa Zverev,L,30.68856947
+2018-0308,Munich,Clay,1,Casper Ruud,R,19.35386721,Marius Copil,R,27.53456537
+2018-M021,Madrid Masters,Clay,1,Alexander Zverev,R,21.045859,Dominic Thiem,R,24.67351129
+2018-M021,Madrid Masters,Clay,1,Dominic Thiem,R,24.67351129,Kevin Anderson,R,31.96988364
+2018-M021,Madrid Masters,Clay,1,Alexander Zverev,R,21.045859,Denis Shapovalov,L,19.06091718
+2018-M021,Madrid Masters,Clay,0,Rafael Nadal,L,31.92607803,Dominic Thiem,R,24.67351129
+2018-M021,Madrid Masters,Clay,0,Dusan Lajovic,R,27.85215606,Kevin Anderson,R,31.96988364
+2018-M021,Madrid Masters,Clay,0,Kyle Edmund,R,23.32648871,Denis Shapovalov,L,19.06091718
+2018-M021,Madrid Masters,Clay,1,Alexander Zverev,R,21.045859,John Isner,R,33.0294319
+2018-M021,Madrid Masters,Clay,1,Rafael Nadal,L,31.92607803,Diego Sebastian Schwartzman,R,25.72210815
+2018-M021,Madrid Masters,Clay,0,Borna Coric,R,21.47570157,Dominic Thiem,R,24.67351129
+2018-M021,Madrid Masters,Clay,1,Dusan Lajovic,R,27.85215606,Juan Martin Del Potro,R,29.61806982
+2018-M021,Madrid Masters,Clay,0,Philipp Kohlschreiber,R,34.55715264,Kevin Anderson,R,31.96988364
+2018-M021,Madrid Masters,Clay,0,David Goffin,R,27.41409993,Kyle Edmund,R,23.32648871
+2018-M021,Madrid Masters,Clay,1,Denis Shapovalov,L,19.06091718,Milos Raonic,R,27.35934292
+2018-M021,Madrid Masters,Clay,0,Pablo Cuevas,R,32.3449692,John Isner,R,33.0294319
+2018-M021,Madrid Masters,Clay,0,Leonardo Mayer,R,30.97878166,Alexander Zverev,R,21.045859
+2018-M021,Madrid Masters,Clay,0,Gael Monfils,R,31.67967146,Rafael Nadal,L,31.92607803
+2018-M021,Madrid Masters,Clay,1,Diego Sebastian Schwartzman,R,25.72210815,Feliciano Lopez,L,36.62696783
+2018-M021,Madrid Masters,Clay,0,Jan Lennard Struff,R,28.03285421,Borna Coric,R,21.47570157
+2018-M021,Madrid Masters,Clay,0,Federico Delbonis,L,27.58658453,Dominic Thiem,R,24.67351129
+2018-M021,Madrid Masters,Clay,0,Damir Dzumhur,R,25.96303901,Juan Martin Del Potro,R,29.61806982
+2018-M021,Madrid Masters,Clay,0,Richard Gasquet,R,31.88501027,Dusan Lajovic,R,27.85215606
+2018-M021,Madrid Masters,Clay,1,Philipp Kohlschreiber,R,34.55715264,Roberto Bautista Agut,R,30.06160164
+2018-M021,Madrid Masters,Clay,0,Mikhail Kukushkin,R,30.36276523,Kevin Anderson,R,31.96988364
+2018-M021,Madrid Masters,Clay,0,Robin Haase,R,31.08555784,David Goffin,R,27.41409993
+2018-M021,Madrid Masters,Clay,0,Novak Djokovic,R,30.9596167,Kyle Edmund,R,23.32648871
+2018-M021,Madrid Masters,Clay,0,Benoit Paire,R,28.99657769,Denis Shapovalov,L,19.06091718
+2018-M021,Madrid Masters,Clay,1,Milos Raonic,R,27.35934292,Grigor Dimitrov,R,26.97604381
+2018-M021,Madrid Masters,Clay,1,John Isner,R,33.0294319,Ryan Harrison,R,25.99863107
+2018-M021,Madrid Masters,Clay,0,Albert Ramos,L,30.30253251,Pablo Cuevas,R,32.3449692
+2018-M021,Madrid Masters,Clay,1,Leonardo Mayer,R,30.97878166,Fernando Verdasco,L,34.47501711
+2018-M021,Madrid Masters,Clay,0,Evgeny Donskoy,R,27.9945243,Alexander Zverev,R,21.045859
+2018-M021,Madrid Masters,Clay,1,Gael Monfils,R,31.67967146,Nikoloz Basilashvili,R,26.20123203
+2018-M021,Madrid Masters,Clay,0,Pablo Andujar,R,32.28473648,Feliciano Lopez,L,36.62696783
+2018-M021,Madrid Masters,Clay,0,Adrian Mannarino,L,29.85352498,Diego Sebastian Schwartzman,R,25.72210815
+2018-M021,Madrid Masters,Clay,1,Borna Coric,R,21.47570157,Pablo Carreno Busta,R,26.81998631
+2018-M021,Madrid Masters,Clay,1,Jan Lennard Struff,R,28.03285421,Marius Copil,R,27.55373032
+2018-M021,Madrid Masters,Clay,1,Federico Delbonis,L,27.58658453,Mischa Zverev,L,30.70773443
+2018-M021,Madrid Masters,Clay,0,Julien Benneteau,R,36.37782341,Damir Dzumhur,R,25.96303901
+2018-M021,Madrid Masters,Clay,1,Dusan Lajovic,R,27.85215606,Karen Khachanov,R,21.96030116
+2018-M021,Madrid Masters,Clay,1,Richard Gasquet,R,31.88501027,Tomas Berdych,R,32.63518138
+2018-M021,Madrid Masters,Clay,0,Jared Donaldson,R,21.5742642,Roberto Bautista Agut,R,30.06160164
+2018-M021,Madrid Masters,Clay,0,Yuichi Sugita,R,29.63175907,Philipp Kohlschreiber,R,34.55715264
+2018-M021,Madrid Masters,Clay,1,Mikhail Kukushkin,R,30.36276523,Roberto Carballes Baena,R,25.12251882
+2018-M021,Madrid Masters,Clay,0,Hyeon Chung,R,21.96577687,Robin Haase,R,31.08555784
+2018-M021,Madrid Masters,Clay,0,Daniil Medvedev,R,22.23408624,Kyle Edmund,R,23.32648871
+2018-M021,Madrid Masters,Clay,1,Novak Djokovic,R,30.9596167,Kei Nishikori,R,28.35318275
+2018-M021,Madrid Masters,Clay,0,Lucas Pouille,R,24.19986311,Benoit Paire,R,28.99657769
+2018-M021,Madrid Masters,Clay,1,Denis Shapovalov,L,19.06091718,Tennys Sandgren,R,26.7926078
+2018-M021,Madrid Masters,Clay,0,Nicolas Kicker,R,25.72210815,Milos Raonic,R,27.35934292
+2018-M021,Madrid Masters,Clay,0,Guillermo Garcia Lopez,R,34.92402464,Ryan Harrison,R,25.99863107
+2018-M021,Madrid Masters,Clay,0,Peter Gojowczyk,R,28.81040383,Albert Ramos,L,30.30253251
+2018-M021,Madrid Masters,Clay,1,Pablo Cuevas,R,32.3449692,Jack Sock,R,25.61533196
+2018-M021,Madrid Masters,Clay,1,Leonardo Mayer,R,30.97878166,Fabio Fognini,R,30.954141
+2018-M021,Madrid Masters,Clay,1,Fernando Verdasco,L,34.47501711,Paolo Lorenzi,R,36.39151266
+2018-M021,Madrid Masters,Clay,0,Stefanos Tsitsipas,R,19.73442847,Evgeny Donskoy,R,27.9945243
+2018-M009,Rome Masters,Clay,1,Rafael Nadal,L,31.94524298,Alexander Zverev,R,21.06502396
+2018-M009,Rome Masters,Clay,1,Rafael Nadal,L,31.94524298,Novak Djokovic,R,30.97878166
+2018-M009,Rome Masters,Clay,0,Marin Cilic,R,29.62354552,Alexander Zverev,R,21.06502396
+2018-M009,Rome Masters,Clay,1,Rafael Nadal,L,31.94524298,Fabio Fognini,R,30.97330595
+2018-M009,Rome Masters,Clay,0,Kei Nishikori,R,28.37234771,Novak Djokovic,R,30.97878166
+2018-M009,Rome Masters,Clay,1,Marin Cilic,R,29.62354552,Pablo Carreno Busta,R,26.83915127
+2018-M009,Rome Masters,Clay,0,David Goffin,R,27.43326489,Alexander Zverev,R,21.06502396
+2018-M009,Rome Masters,Clay,0,Denis Shapovalov,L,19.08008214,Rafael Nadal,L,31.94524298
+2018-M009,Rome Masters,Clay,0,Peter Gojowczyk,R,28.82956879,Fabio Fognini,R,30.97330595
+2018-M009,Rome Masters,Clay,1,Kei Nishikori,R,28.37234771,Philipp Kohlschreiber,R,34.57631759
+2018-M009,Rome Masters,Clay,0,Albert Ramos,L,30.32169747,Novak Djokovic,R,30.97878166
+2018-M009,Rome Masters,Clay,0,Aljaz Bedene,R,28.82135524,Pablo Carreno Busta,R,26.83915127
+2018-M009,Rome Masters,Clay,1,Marin Cilic,R,29.62354552,Benoit Paire,R,29.01574264
+2018-M009,Rome Masters,Clay,0,Juan Martin Del Potro,R,29.63723477,David Goffin,R,27.43326489
+2018-M009,Rome Masters,Clay,0,Kyle Edmund,R,23.34565366,Alexander Zverev,R,21.06502396
+2018-M009,Rome Masters,Clay,0,Damir Dzumhur,R,25.98220397,Rafael Nadal,L,31.94524298
+2018-M009,Rome Masters,Clay,1,Denis Shapovalov,L,19.08008214,Robin Haase,R,31.10472279
+2018-M009,Rome Masters,Clay,0,Lorenzo Sonego,R,23.00889802,Peter Gojowczyk,R,28.82956879
+2018-M009,Rome Masters,Clay,0,Dominic Thiem,R,24.69267625,Fabio Fognini,R,30.97330595
+2018-M009,Rome Masters,Clay,1,Kei Nishikori,R,28.37234771,Grigor Dimitrov,R,26.99520876
+2018-M009,Rome Masters,Clay,0,Jack Sock,R,25.63449692,Philipp Kohlschreiber,R,34.57631759
+2018-M009,Rome Masters,Clay,0,Nikoloz Basilashvili,R,26.22039699,Novak Djokovic,R,30.97878166
+2018-M009,Rome Masters,Clay,1,Albert Ramos,L,30.32169747,John Isner,R,33.04859685
+2018-M009,Rome Masters,Clay,0,Kevin Anderson,R,31.9890486,Aljaz Bedene,R,28.82135524
+2018-M009,Rome Masters,Clay,0,Steve Johnson,R,28.38603696,Pablo Carreno Busta,R,26.83915127
+2018-M009,Rome Masters,Clay,0,Diego Sebastian Schwartzman,R,25.7412731,Benoit Paire,R,29.01574264
+2018-M009,Rome Masters,Clay,1,Marin Cilic,R,29.62354552,Ryan Harrison,R,26.01779603
+2018-M009,Rome Masters,Clay,1,Juan Martin Del Potro,R,29.63723477,Stefanos Tsitsipas,R,19.75359343
+2018-M009,Rome Masters,Clay,1,David Goffin,R,27.43326489,Marco Cecchinato,R,25.61806982
+2018-M009,Rome Masters,Clay,0,Lucas Pouille,R,24.21902806,Kyle Edmund,R,23.34565366
+2018-M009,Rome Masters,Clay,0,Matteo Berrettini,U,22.0862423,Alexander Zverev,R,21.06502396
+2018-M009,Rome Masters,Clay,0,Fernando Verdasco,L,34.49418207,Damir Dzumhur,R,25.98220397
+2018-M009,Rome Masters,Clay,1,Robin Haase,R,31.10472279,Daniil Medvedev,R,22.2532512
+2018-M009,Rome Masters,Clay,1,Denis Shapovalov,L,19.08008214,Tomas Berdych,R,32.65434634
+2018-M009,Rome Masters,Clay,1,Peter Gojowczyk,R,28.82956879,Sam Querrey,R,30.60095825
+2018-M009,Rome Masters,Clay,0,Adrian Mannarino,L,29.87268994,Lorenzo Sonego,R,23.00889802
+2018-M009,Rome Masters,Clay,0,Gael Monfils,R,31.69883641,Fabio Fognini,R,30.97330595
+2018-M009,Rome Masters,Clay,1,Kei Nishikori,R,28.37234771,Feliciano Lopez,L,36.64613279
+2018-M009,Rome Masters,Clay,0,Karen Khachanov,R,21.97946612,Philipp Kohlschreiber,R,34.57631759
+2018-M009,Rome Masters,Clay,0,David Ferrer,R,36.11498973,Jack Sock,R,25.63449692
+2018-M009,Rome Masters,Clay,1,Novak Djokovic,R,30.97878166,Alexandr Dolgopolov,R,29.51403149
+2018-M009,Rome Masters,Clay,1,Nikoloz Basilashvili,R,26.22039699,Filippo Baldi,R,22.34086242
+2018-M009,Rome Masters,Clay,1,Albert Ramos,L,30.32169747,Federico Delbonis,L,27.60574949
+2018-M009,Rome Masters,Clay,1,Aljaz Bedene,R,28.82135524,Gilles Muller,L,35.01437372
+2018-M009,Rome Masters,Clay,0,Stanislas Wawrinka,R,33.12799452,Steve Johnson,R,28.38603696
+2018-M009,Rome Masters,Clay,1,Pablo Carreno Busta,R,26.83915127,Jared Donaldson,R,21.59342916
+2018-M009,Rome Masters,Clay,0,Nicolas Jarry,R,22.59000684,Diego Sebastian Schwartzman,R,25.7412731
+2018-M009,Rome Masters,Clay,0,Richard Gasquet,R,31.90417522,Benoit Paire,R,29.01574264
+2018-M009,Rome Masters,Clay,0,Yuichi Sugita,R,29.65092402,Ryan Harrison,R,26.01779603
+2018-M009,Rome Masters,Clay,1,Stefanos Tsitsipas,R,19.75359343,Borna Coric,R,21.49486653
+2018-M009,Rome Masters,Clay,1,Marco Cecchinato,R,25.61806982,Pablo Cuevas,R,32.36413415
+2018-M009,Rome Masters,Clay,1,David Goffin,R,27.43326489,Leonardo Mayer,R,30.99794661
+2018-M009,Rome Masters,Clay,0,Andreas Seppi,R,34.22587269,Lucas Pouille,R,24.21902806
+2018-M009,Rome Masters,Clay,0,Malek Jaziri,R,34.31348392,Kyle Edmund,R,23.34565366
+2018-M009,Rome Masters,Clay,0,Francis Tiafoe,R,20.31211499,Matteo Berrettini,U,22.0862423
+2018-0322,Geneva,Clay,0,Peter Gojowczyk,R,28.84873374,Marton Fucsovics,R,26.28062971
+2018-0322,Geneva,Clay,1,Marton Fucsovics,R,26.28062971,Steve Johnson,R,28.40520192
+2018-0322,Geneva,Clay,0,Fabio Fognini,R,30.99247091,Peter Gojowczyk,R,28.84873374
+2018-0322,Geneva,Clay,0,Guido Pella,L,28.0109514,Steve Johnson,R,28.40520192
+2018-0322,Geneva,Clay,1,Marton Fucsovics,R,26.28062971,Stanislas Wawrinka,R,33.14715948
+2018-0322,Geneva,Clay,1,Peter Gojowczyk,R,28.84873374,Andreas Seppi,R,34.24503765
+2018-0322,Geneva,Clay,0,Tennys Sandgren,R,26.83093771,Fabio Fognini,R,30.99247091
+2018-0322,Geneva,Clay,0,Sam Querrey,R,30.6201232,Guido Pella,L,28.0109514
+2018-0322,Geneva,Clay,1,Steve Johnson,R,28.40520192,Lukas Rosol,R,32.82409309
+2018-0322,Geneva,Clay,0,Jared Donaldson,R,21.61259411,Stanislas Wawrinka,R,33.14715948
+2018-0322,Geneva,Clay,0,Francis Tiafoe,R,20.33127995,Marton Fucsovics,R,26.28062971
+2018-0322,Geneva,Clay,0,Bernabe Zapata Miralles,R,21.35249829,Andreas Seppi,R,34.24503765
+2018-0322,Geneva,Clay,0,David Ferrer,R,36.13415469,Peter Gojowczyk,R,28.84873374
+2018-0322,Geneva,Clay,1,Tennys Sandgren,R,26.83093771,Mirza Basic,R,26.85831622
+2018-0322,Geneva,Clay,0,Noah Rubin,R,22.24503765,Fabio Fognini,R,30.99247091
+2018-0322,Geneva,Clay,0,Dominik Koepfer,U,24.06023272,Guido Pella,L,28.0109514
+2018-0322,Geneva,Clay,1,Lukas Rosol,R,32.82409309,Jiri Vesely,L,24.862423
+2018-0322,Geneva,Clay,1,Steve Johnson,R,28.40520192,Marius Copil,R,27.59206023
+2018-0322,Geneva,Clay,0,Denis Istomin,R,31.70157426,Jared Donaldson,R,21.61259411
+2018-0322,Geneva,Clay,1,Francis Tiafoe,R,20.33127995,Ryan Harrison,R,26.03696099
+2018-0322,Geneva,Clay,1,Marton Fucsovics,R,26.28062971,Albert Ramos,L,30.34086242
+2018-0322,Geneva,Clay,1,Andreas Seppi,R,34.24503765,Marco Cecchinato,R,25.63723477
+2018-0322,Geneva,Clay,1,Bernabe Zapata Miralles,R,21.35249829,Florian Mayer,R,34.6255989
+2018-0322,Geneva,Clay,1,Peter Gojowczyk,R,28.84873374,Ivo Karlovic,R,39.22518823
+2018-0322,Geneva,Clay,1,Mirza Basic,R,26.85831622,Mischa Zverev,L,30.74606434
+2018-0322,Geneva,Clay,0,Andreas Haider Maurer,R,31.16495551,Tennys Sandgren,R,26.83093771
+2018-0322,Geneva,Clay,0,Marcos Baghdatis,R,32.92539357,Noah Rubin,R,22.24503765
+2018-7694,Lyon,Clay,0,Gilles Simon,R,33.3963039,Dominic Thiem,R,24.7118412
+2018-7694,Lyon,Clay,1,Dominic Thiem,R,24.7118412,Dusan Lajovic,R,27.89048597
+2018-7694,Lyon,Clay,0,Cameron Norrie,L,22.74332649,Gilles Simon,R,33.3963039
+2018-7694,Lyon,Clay,0,Guillermo Garcia Lopez,R,34.96235455,Dominic Thiem,R,24.7118412
+2018-7694,Lyon,Clay,0,Taylor Harry Fritz,R,20.56125941,Dusan Lajovic,R,27.89048597
+2018-7694,Lyon,Clay,0,Mikhail Kukushkin,R,30.40109514,Gilles Simon,R,33.3963039
+2018-7694,Lyon,Clay,1,Cameron Norrie,L,22.74332649,John Isner,R,33.06776181
+2018-7694,Lyon,Clay,1,Dominic Thiem,R,24.7118412,Roberto Carballes Baena,R,25.16084873
+2018-7694,Lyon,Clay,0,Calvin Hemery,R,23.3100616,Guillermo Garcia Lopez,R,34.96235455
+2018-7694,Lyon,Clay,0,Jack Sock,R,25.65366188,Taylor Harry Fritz,R,20.56125941
+2018-7694,Lyon,Clay,0,Filip Horansky,R,25.36618754,Dusan Lajovic,R,27.89048597
+2018-7694,Lyon,Clay,1,Mikhail Kukushkin,R,30.40109514,Federico Coria,R,26.19849418
+2018-7694,Lyon,Clay,0,Joris De Loore,R,25.08145106,Gilles Simon,R,33.3963039
+2018-7694,Lyon,Clay,0,Maximilian Marterer,L,22.93223819,Cameron Norrie,L,22.74332649
+2018-7694,Lyon,Clay,0,Radu Albot,R,28.5229295,John Isner,R,33.06776181
+2018-7694,Lyon,Clay,0,Laslo Djere,R,22.96783025,Roberto Carballes Baena,R,25.16084873
+2018-7694,Lyon,Clay,0,Corentin Moutet,L,19.08829569,Calvin Hemery,R,23.3100616
+2018-7694,Lyon,Clay,1,Guillermo Garcia Lopez,R,34.96235455,Adrian Mannarino,L,29.89185489
+2018-7694,Lyon,Clay,0,Matthew Ebden,R,30.48323066,Taylor Harry Fritz,R,20.56125941
+2018-7694,Lyon,Clay,0,Horacio Zeballos,L,33.06502396,Dusan Lajovic,R,27.89048597
+2018-7694,Lyon,Clay,1,Filip Horansky,R,25.36618754,Joao Sousa,R,29.14168378
+2018-7694,Lyon,Clay,1,Federico Coria,R,26.19849418,Nicolas Kicker,R,25.76043806
+2018-7694,Lyon,Clay,1,Mikhail Kukushkin,R,30.40109514,Gregoire Barrere,R,24.25735797
+2018-7694,Lyon,Clay,1,Gilles Simon,R,33.3963039,Jordi Samper Montana,U,28.12594114
+2018-7694,Lyon,Clay,0,Gael Monfils,R,31.71800137,Maximilian Marterer,L,22.93223819
+2018-7694,Lyon,Clay,1,Cameron Norrie,L,22.74332649,Jose Hernandez,U,28.1889117
+2018-7694,Lyon,Clay,1,Radu Albot,R,28.5229295,Federico Delbonis,L,27.62491444
+2018-M-DC-2018-G1-AM-M-ARG-CHI-01,Davis Cup G1 R2: ARG vs CHI,Clay,0,Nicolas Kicker,R,25.62628337,Nicolas Jarry,R,22.47501711
+2018-M-DC-2018-G1-AM-M-ARG-CHI-01,Davis Cup G1 R2: ARG vs CHI,Clay,0,Christian Garin,R,21.83983573,Diego Sebastian Schwartzman,R,25.62628337
+2018-M-DC-2018-G1-AM-M-ARG-CHI-01,Davis Cup G1 R2: ARG vs CHI,Clay,0,Nicolas Jarry,R,22.47501711,Diego Sebastian Schwartzman,R,25.62628337
+2018-M-DC-2018-G1-AM-M-ARG-CHI-01,Davis Cup G1 R2: ARG vs CHI,Clay,0,Christian Garin,R,21.83983573,Guido Pella,L,27.87679671
+2018-M-DC-2018-G1-AM-M-CHI-ECU-01,Davis Cup G1 R1: CHI vs ECU,Clay,0,Ivan Endara,U,29.90554415,Nicolas Jarry,R,22.30253251
+2018-M-DC-2018-G1-AM-M-CHI-ECU-01,Davis Cup G1 R1: CHI vs ECU,Clay,1,Roberto Quiroz,L,25.93292266,Gonzalo Lama,R,24.75838467
+2018-M-DC-2018-G1-AM-M-CHI-ECU-01,Davis Cup G1 R1: CHI vs ECU,Clay,0,Roberto Quiroz,L,25.93292266,Nicolas Jarry,R,22.30253251
+2018-M-DC-2018-G1-AM-M-COL-BAR-01,Davis Cup G1 R1: COL vs BAR,Hard,1,Daniel Elahi Galan Riveros,U,21.61533196,Haydn Lewis,L,32.07392197
+2018-M-DC-2018-G1-AM-M-COL-BAR-01,Davis Cup G1 R1: COL vs BAR,Hard,1,Alejandro Gonzalez,R,28.97467488,Darian King,R,25.76043806
+2018-M-DC-2018-G1-AM-M-COL-BAR-01,Davis Cup G1 R1: COL vs BAR,Hard,1,Cristian Rodriguez,R,27.60027379,Xavier Lawrence,0,19.10472279
+2018-M-DC-2018-G1-AM-M-COL-BRA-01,Davis Cup G1 R2: COL vs BRA,Hard,0,Santiago Giraldo,R,30.34633812,Thiago Monteiro,L,23.8384668
+2018-M-DC-2018-G1-AM-M-COL-BRA-01,Davis Cup G1 R2: COL vs BRA,Hard,1,Daniel Elahi Galan Riveros,U,21.78781656,Guilherme Clezar,R,25.25119781
+2018-M-DC-2018-G1-AM-M-COL-BRA-01,Davis Cup G1 R2: COL vs BRA,Hard,0,Thiago Monteiro,L,23.8384668,Daniel Elahi Galan Riveros,U,21.78781656
+2018-M-DC-2018-G1-AM-M-COL-BRA-01,Davis Cup G1 R2: COL vs BRA,Hard,0,Joao Pedro Sorgi,R,24.45448323,Alejandro Gonzalez,R,29.14715948
+2018-M-DC-2018-G1-AM-M-DOM-BRA-01,Davis Cup G1 R1: DOM vs BRA,Hard,0,Joao Pedro Sorgi,R,24.28199863,Jose Hernandez,U,27.88227242
+2018-M-DC-2018-G1-AM-M-DOM-BRA-01,Davis Cup G1 R1: DOM vs BRA,Hard,1,Thiago Monteiro,L,23.6659822,Roberto Cid,R,24.41615332
+2018-M-DC-2018-G1-AM-M-DOM-BRA-01,Davis Cup G1 R1: DOM vs BRA,Hard,1,Jose Hernandez,U,27.88227242,Thiago Monteiro,L,23.6659822
+2018-M-DC-2018-G1-AM-M-DOM-BRA-01,Davis Cup G1 R1: DOM vs BRA,Hard,0,Roberto Cid,R,24.41615332,Joao Pedro Sorgi,R,24.28199863
+2018-M-DC-2018-G1-AO-M-CHN-NZL-01,Davis Cup G1 R1: CHN vs NZL,Hard,0,Di Wu,R,26.37645448,Jose Rubin Statham,R,30.7652293
+2018-M-DC-2018-G1-AO-M-CHN-NZL-01,Davis Cup G1 R1: CHN vs NZL,Hard,1,Ze Zhang,R,27.57289528,Michael Venus,R,30.28884326
+2018-M-DC-2018-G1-AO-M-CHN-NZL-01,Davis Cup G1 R1: CHN vs NZL,Hard,1,Yibing Wu,R,18.29431896,Jose Rubin Statham,R,30.7652293
+2018-M-DC-2018-G1-AO-M-IND-CHN-01,Davis Cup G1 R2: IND vs CHN,Hard,0,Ramkumar Ramanathan,R,23.39767283,Yibing Wu,R,18.46680356
+2018-M-DC-2018-G1-AO-M-IND-CHN-01,Davis Cup G1 R2: IND vs CHN,Hard,1,Ze Zhang,R,27.74537988,Sumit Nagal,R,20.62696783
+2018-M-DC-2018-G1-AO-M-IND-CHN-01,Davis Cup G1 R2: IND vs CHN,Hard,1,Ramkumar Ramanathan,R,23.39767283,Di Wu,R,26.54893908
+2018-M-DC-2018-G1-AO-M-IND-CHN-01,Davis Cup G1 R2: IND vs CHN,Hard,0,Yibing Wu,R,18.46680356,Prajnesh Gunneswaran,U,28.38603696
+2018-M-DC-2018-G1-AO-M-KOR-PAK-01,Davis Cup G1 R1: KOR vs PAK,Grass,0,Soon Woo Kwon,R,20.15879535,Aisam Ul Haq Qureshi,R,37.86995209
+2018-M-DC-2018-G1-AO-M-KOR-PAK-01,Davis Cup G1 R1: KOR vs PAK,Grass,0,Seong Chan Hong,R,20.58316222,Aqeel Khan,R,37.99863107
+2018-M-DC-2018-G1-AO-M-KOR-PAK-01,Davis Cup G1 R1: KOR vs PAK,Grass,1,M Abid Ali Khan Akbar,U,27.52361396,Minjong Park,0,16.27104723
+2018-M-DC-2018-G1-AO-M-PAK-UZB-01,Davis Cup G1 R2: PAK vs UZB,Grass,0,Aisam Ul Haq Qureshi,R,38.04243669,Denis Istomin,R,31.56741958
+2018-M-DC-2018-G1-AO-M-PAK-UZB-01,Davis Cup G1 R2: PAK vs UZB,Grass,0,Sanjar Fayziev,U,23.67693361,Aqeel Khan,R,38.17111567
+2018-M-DC-2018-G1-AO-M-PAK-UZB-01,Davis Cup G1 R2: PAK vs UZB,Grass,1,Denis Istomin,R,31.56741958,Aqeel Khan,R,38.17111567
+2018-M-DC-2018-G1-AO-M-PAK-UZB-01,Davis Cup G1 R2: PAK vs UZB,Grass,0,Muzammil Murtaza,R,18.38740589,Khumoun Sultanov,U,19.43052704
+2018-M-DC-2018-G1-EPA-M-AUT-BLR-01,Davis Cup G1 R1: AUT vs BLR,Clay,0,Ilya Ivashka,R,23.92881588,Gerald Melzer,L,27.54825462
+2018-M-DC-2018-G1-EPA-M-AUT-BLR-01,Davis Cup G1 R1: AUT vs BLR,Clay,0,Dzmitry Zhyrmont,U,28.91444216,Dominic Thiem,R,24.40520192
+2018-M-DC-2018-G1-EPA-M-AUT-BLR-01,Davis Cup G1 R1: AUT vs BLR,Clay,0,Ilya Ivashka,R,23.92881588,Dominic Thiem,R,24.40520192
+2018-M-DC-2018-G1-EPA-M-AUT-BLR-01,Davis Cup G1 R1: AUT vs BLR,Clay,0,Yaraslau Shyla,R,24.90349076,Dennis Novak,R,24.42162902
+2018-M-DC-2018-G1-EPA-M-AUT-RUS-01,Davis Cup G1 R2: AUT vs RUS,Hard,1,Dennis Novak,R,24.59411362,Andrey Rublev,R,20.44900753
+2018-M-DC-2018-G1-EPA-M-AUT-RUS-01,Davis Cup G1 R2: AUT vs RUS,Hard,1,Daniil Medvedev,R,22.13826146,Sebastian Ofner,R,21.88911704
+2018-M-DC-2018-G1-EPA-M-AUT-RUS-01,Davis Cup G1 R2: AUT vs RUS,Hard,0,Evgeny Donskoy,R,27.89869952,Jurgen Melzer,L,36.862423
+2018-M-DC-2018-G1-EPA-M-BIH-SVK-01,Davis Cup G1 R2: BIH vs SVK,Clay,1,Damir Dzumhur,R,25.86721424,Norbert Gombos,R,27.63586585
+2018-M-DC-2018-G1-EPA-M-BIH-SVK-01,Davis Cup G1 R2: BIH vs SVK,Clay,0,Mirza Basic,R,26.72416153,Martin Klizan,L,28.72553046
+2018-M-DC-2018-G1-EPA-M-BIH-SVK-01,Davis Cup G1 R2: BIH vs SVK,Clay,0,Damir Dzumhur,R,25.86721424,Martin Klizan,L,28.72553046
+2018-M-DC-2018-G1-EPA-M-BIH-SVK-01,Davis Cup G1 R2: BIH vs SVK,Clay,1,Mirza Basic,R,26.72416153,Jozef Kovalik,R,25.4072553
+2018-M-DC-2018-G1-EPA-M-CZE-ISR-01,Davis Cup G1 R2: CZE vs ISR,Clay,1,Jiri Vesely,L,24.72826831,Edan Leshem,U,21.03764545
+2018-M-DC-2018-G1-EPA-M-CZE-ISR-01,Davis Cup G1 R2: CZE vs ISR,Clay,0,Dudi Sela,R,32.99383984,Adam Pavlasek,R,23.4825462
+2018-M-DC-2018-G1-EPA-M-CZE-ISR-01,Davis Cup G1 R2: CZE vs ISR,Clay,0,Vaclav Safranek,R,23.86858316,Yshai Oliel,L,18.23956194
+2018-M-DC-2018-G1-EPA-M-POR-SWE-01,Davis Cup G1 R2: POR vs SWE,Hard,0,Mikael Ymer,R,19.56194387,Joao Sousa,R,29.00752909
+2018-M-DC-2018-G1-EPA-M-POR-SWE-01,Davis Cup G1 R2: POR vs SWE,Hard,0,Gastao Elias,R,27.35386721,Elias Ymer,R,21.97672827
+2018-M-DC-2018-G1-EPA-M-POR-SWE-01,Davis Cup G1 R2: POR vs SWE,Hard,1,Joao Sousa,R,29.00752909,Elias Ymer,R,21.97672827
+2018-M-DC-2018-G1-EPA-M-POR-SWE-01,Davis Cup G1 R2: POR vs SWE,Hard,1,Mikael Ymer,R,19.56194387,Gastao Elias,R,27.35386721
+2018-M-DC-2018-G1-EPA-M-RSA-ISR-01,Davis Cup G1 R1: RSA vs ISR,Hard,1,Lloyd George Muirhead Harris,R,20.92813142,Edan Leshem,U,20.86516085
+2018-M-DC-2018-G1-EPA-M-RSA-ISR-01,Davis Cup G1 R1: RSA vs ISR,Hard,1,Dudi Sela,R,32.82135524,Nicolaas Scholtz,R,26.98151951
+2018-M-DC-2018-G1-EPA-M-RSA-ISR-01,Davis Cup G1 R1: RSA vs ISR,Hard,1,Dudi Sela,R,32.82135524,Lloyd George Muirhead Harris,R,20.92813142
+2018-M-DC-2018-G1-EPA-M-RSA-ISR-01,Davis Cup G1 R1: RSA vs ISR,Hard,0,Nicolaas Scholtz,R,26.98151951,Edan Leshem,U,20.86516085
+2018-M-DC-2018-G1-EPA-M-UKR-SWE-01,Davis Cup G1 R1: UKR vs SWE,Hard,0,Sergiy Stakhovsky,R,32.06297057,Mikael Ymer,R,19.38945927
+2018-M-DC-2018-G1-EPA-M-UKR-SWE-01,Davis Cup G1 R1: UKR vs SWE,Hard,1,Elias Ymer,R,21.80424367,Artem Smirnov,U,29.99041752
+2018-M-DC-2018-G1-EPA-M-UKR-SWE-01,Davis Cup G1 R1: UKR vs SWE,Hard,0,Elias Ymer,R,21.80424367,Sergiy Stakhovsky,R,32.06297057
+2018-M-DC-2018-G1-EPA-M-UKR-SWE-01,Davis Cup G1 R1: UKR vs SWE,Hard,0,Artem Smirnov,U,29.99041752,Mikael Ymer,R,19.38945927
+2018-M-DC-2018-G2-AM-M-BOL-PER-01,Davis Cup G2 R1: BOL vs PER,Clay,1,Duilio Beretta,R,25.92744695,Hugo Dellien,R,24.62149213
+2018-M-DC-2018-G2-AM-M-BOL-PER-01,Davis Cup G2 R1: BOL vs PER,Clay,0,Federico Zeballos,U,29.66735113,Juan Pablo Varillas Patino Samudio,R,22.31622177
+2018-M-DC-2018-G2-AM-M-BOL-PER-01,Davis Cup G2 R1: BOL vs PER,Clay,0,Alejandro Mendoza,R,27.9890486,Jorge Brian Panta Herreros,U,22.52429843
+2018-M-DC-2018-G2-AM-M-BOL-PER-01,Davis Cup G2 R1: BOL vs PER,Clay,1,Luis Diego Chavez Villalpando,U,22.26694045,Mauricio Echazu,R,29.02121834
+2018-M-DC-2018-G2-AM-M-ESA-URU-01,Davis Cup G2 R1: ESA vs URU,Hard,0,Alberto Emmanuel Alvarado Larin,U,23.16221766,Pablo Cuevas,R,32.07665982
+2018-M-DC-2018-G2-AM-M-ESA-URU-01,Davis Cup G2 R1: ESA vs URU,Hard,1,Marcelo Arevalo,R,27.28542094,Martin Cuevas,R,26.04243669
+2018-M-DC-2018-G2-AM-M-ESA-URU-01,Davis Cup G2 R1: ESA vs URU,Hard,1,Pablo Cuevas,R,32.07665982,Marcelo Arevalo,R,27.28542094
+2018-M-DC-2018-G2-AM-M-ESA-URU-01,Davis Cup G2 R1: ESA vs URU,Hard,1,Rodrigo Arus,U,22.94045175,Rafael Eduardo Gonzalez Retana,R,18.00958248
+2018-M-DC-2018-G2-AM-M-MEX-PER-01,Davis Cup G2 R2: MEX vs PER,Hard,0,Juan Pablo Varillas Patino Samudio,R,22.48870637,Gerardo Lopez Villasenor,U,0
+2018-M-DC-2018-G2-AM-M-MEX-PER-01,Davis Cup G2 R2: MEX vs PER,Hard,1,Nicolas Alvarez,R,0,Luis Patino,R,24.48733744
+2018-M-DC-2018-G2-AM-M-MEX-PER-01,Davis Cup G2 R2: MEX vs PER,Hard,0,Juan Pablo Varillas Patino Samudio,R,22.48870637,Luis Patino,R,24.48733744
+2018-M-DC-2018-G2-AM-M-PUR-MEX-01,Davis Cup G2 R1: PUR vs MEX,Hard,0,Ignacio Garcia,0,0,Manuel Sanchez,R,27.06639288
+2018-M-DC-2018-G2-AM-M-PUR-MEX-01,Davis Cup G2 R1: PUR vs MEX,Hard,0,Alex Diaz,0,20.49281314,Luis Patino,R,24.31485284
+2018-M-DC-2018-G2-AM-M-PUR-MEX-01,Davis Cup G2 R1: PUR vs MEX,Hard,1,Manuel Sanchez,R,27.06639288,Sebastian Arcila,0,0
+2018-M-DC-2018-G2-AM-M-PUR-MEX-01,Davis Cup G2 R1: PUR vs MEX,Hard,0,Ignacio Garcia,0,0,Luis Patino,R,24.31485284
+2018-M-DC-2018-G2-AM-M-VEN-GUA-01,Davis Cup G2 R1: VEN vs GUA,Hard,0,Wilfredo Gonzalez,R,25.06228611,Ricardo Rodriguez,R,24.75564682
+2018-M-DC-2018-G2-AM-M-VEN-GUA-01,Davis Cup G2 R1: VEN vs GUA,Hard,1,Christopher Diaz Figueroa,R,27.87953457,Jordi Munoz Abreu,U,28.03285421
+2018-M-DC-2018-G2-AM-M-VEN-GUA-01,Davis Cup G2 R1: VEN vs GUA,Hard,1,Ricardo Rodriguez,R,24.75564682,Christopher Diaz Figueroa,R,27.87953457
+2018-M-DC-2018-G2-AM-M-VEN-URU-01,Davis Cup G2 R2: VEN vs URU,Clay,1,Pablo Cuevas,R,32.24914442,David Souto,L,26.01779603
+2018-M-DC-2018-G2-AM-M-VEN-URU-01,Davis Cup G2 R2: VEN vs URU,Clay,0,Martin Cuevas,R,26.21492129,Ricardo Rodriguez,R,24.92813142
+2018-M-DC-2018-G2-AM-M-VEN-URU-01,Davis Cup G2 R2: VEN vs URU,Clay,0,Ricardo Rodriguez,R,24.92813142,Pablo Cuevas,R,32.24914442
+2018-M-DC-2018-G2-AM-M-VEN-URU-01,Davis Cup G2 R2: VEN vs URU,Clay,0,Brandon Perez,U,18.21492129,Francisco Llanes,U,15.96167009
+2018-M-DC-2018-G2-AO-M-HKG-LBN-01,Davis Cup G2 R2: HKG vs LBN,Hard,1,Benjamin Hassan,U,23.15674196,Hong Kit Jack Wong,U,19.58932238
+2018-M-DC-2018-G2-AO-M-HKG-LBN-01,Davis Cup G2 R2: HKG vs LBN,Hard,0,Chun Hun Wong,R,22.42299795,Hady Habib,0,19.61396304
+2018-M-DC-2018-G2-AO-M-HKG-LBN-01,Davis Cup G2 R2: HKG vs LBN,Hard,0,Chun Hun Wong,R,22.42299795,Benjamin Hassan,U,23.15674196
+2018-M-DC-2018-G2-AO-M-IRI-HKG-01,Davis Cup G2 R1: IRI vs HKG,Hard,1,Anthony Jackie Tang,U,19.17590691,Shahin Khaledan,R,27.64681725
+2018-M-DC-2018-G2-AO-M-IRI-HKG-01,Davis Cup G2 R1: IRI vs HKG,Hard,0,Mohsen Hossein Zade,U,27.48528405,Hong Kit Jack Wong,U,19.41683778
+2018-M-DC-2018-G2-AO-M-IRI-HKG-01,Davis Cup G2 R1: IRI vs HKG,Hard,1,Skyler Butts,U,24.36413415,Amir Hossein Badi,U,19.14031485
+2018-M-DC-2018-G2-AO-M-LBN-TPE-01,Davis Cup G2 R1: LBN vs TPE,Hard,1,Benjamin Hassan,U,22.98425736,Cheng Yu Yu,U,22.82819986
+2018-M-DC-2018-G2-AO-M-LBN-TPE-01,Davis Cup G2 R1: LBN vs TPE,Hard,1,Hady Habib,0,19.44147844,Kuan Yi Lee,U,21.38809035
+2018-M-DC-2018-G2-AO-M-LBN-TPE-01,Davis Cup G2 R1: LBN vs TPE,Hard,1,Chun Hsin Tseng,R,16.47638604,Michel Saade,U,19.33470226
+2018-M-DC-2018-G2-AO-M-LBN-TPE-01,Davis Cup G2 R1: LBN vs TPE,Hard,0,Jad Ballout,U,21.35249829,Ti Chen,R,34.32443532
+2018-M-DC-2018-G2-AO-M-PHI-INA-01,Davis Cup G2 R1: PHI vs INA,Hard,1,Alberto Lim,R,18.70225873,Muhammad Althaf Dhaifullah,R,17.19370294
+2018-M-DC-2018-G2-AO-M-PHI-INA-01,Davis Cup G2 R1: PHI vs INA,Hard,0,Jeson Patrombon,R,24.84325804,David Agung Susanto,U,26.52703628
+2018-M-DC-2018-G2-AO-M-PHI-INA-01,Davis Cup G2 R1: PHI vs INA,Hard,0,David Agung Susanto,U,26.52703628,Alberto Lim,R,18.70225873
+2018-M-DC-2018-G2-AO-M-PHI-INA-01,Davis Cup G2 R1: PHI vs INA,Hard,1,John Bryan Decasa Otico,U,18.5982204,Anthony Susanto,U,20.68720055
+2018-M-DC-2018-G2-AO-M-THA-PHI-01,Davis Cup G2 R2: THA vs PHI,Clay,1,Jeson Patrombon,R,25.01574264,Jirat Navasirisomboon,R,21.37166324
+2018-M-DC-2018-G2-AO-M-THA-PHI-01,Davis Cup G2 R2: THA vs PHI,Clay,1,Wishaya Trongcharoenchaikul,R,22.98425736,John Bryan Decasa Otico,U,18.770705
+2018-M-DC-2018-G2-AO-M-THA-PHI-01,Davis Cup G2 R2: THA vs PHI,Clay,0,Jeson Patrombon,R,25.01574264,Wishaya Trongcharoenchaikul,R,22.98425736
+2018-M-DC-2018-G2-AO-M-THA-PHI-01,Davis Cup G2 R2: THA vs PHI,Clay,1,Palaphoom Kovapitukted,U,0,John Bryan Decasa Otico,U,18.770705
+2018-M-DC-2018-G2-AO-M-THA-SRI-01,Davis Cup G2 R1: THA vs SRI,Clay,0,Jirat Navasirisomboon,R,21.19917864,Sharmal Dissanayake,R,21.71115674
+2018-M-DC-2018-G2-AO-M-THA-SRI-01,Davis Cup G2 R1: THA vs SRI,Clay,0,Yasitha De Silva,0,22.57631759,Wishaya Trongcharoenchaikul,R,22.81177276
+2018-M-DC-2018-G2-AO-M-THA-SRI-01,Davis Cup G2 R1: THA vs SRI,Clay,0,Alex Fairbanks,U,21.96303901,Wishaya Trongcharoenchaikul,R,22.81177276
+2018-M-DC-2018-G2-AO-M-THA-SRI-01,Davis Cup G2 R1: THA vs SRI,Clay,0,Yasitha De Silva,0,22.57631759,Jirat Navasirisomboon,R,21.19917864
+2018-M-DC-2018-G2-EPA-M-EGY-DEN-01,Davis Cup G2 R2: EGY vs DEN,Hard,1,Karim Mohamed Maamoun,R,26.98151951,Frederik Nielsen,R,34.5982204
+2018-M-DC-2018-G2-EPA-M-EGY-DEN-01,Davis Cup G2 R2: EGY vs DEN,Hard,1,Youssef Hossam,U,19.83025325,Christoffer Konigsfeldt,R,28.72279261
+2018-M-DC-2018-G2-EPA-M-EGY-DEN-01,Davis Cup G2 R2: EGY vs DEN,Hard,1,Holger Vitus Nodskov Rune,U,14.92676249,Youssef Hossam,U,19.83025325
+2018-M-DC-2018-G2-EPA-M-EGY-NOR-01,Davis Cup G2 R1: EGY vs NOR,Hard,1,Mohamed Safwat,R,27.36208077,Simen Sunde Bratholm,R,18.90759754
+2018-M-DC-2018-G2-EPA-M-EGY-NOR-01,Davis Cup G2 R1: EGY vs NOR,Hard,1,Karim Mohamed Maamoun,R,26.80903491,Viktor Durasovic,U,20.86516085
+2018-M-DC-2018-G2-EPA-M-EGY-NOR-01,Davis Cup G2 R1: EGY vs NOR,Hard,1,Youssef Hossam,U,19.65776865,Peter August Anker,U,18.65845311
+2018-M-DC-2018-G2-EPA-M-EST-LTU-01,Davis Cup G2 R1: EST vs LTU,Hard,0,Jurgen Zopp,R,29.83709788,Laurynas Grigelis,R,26.46132786
+2018-M-DC-2018-G2-EPA-M-EST-LTU-01,Davis Cup G2 R1: EST vs LTU,Hard,1,Ricardas Berankis,R,27.60848734,Kenneth Raisma,L,19.82477755
+2018-M-DC-2018-G2-EPA-M-EST-LTU-01,Davis Cup G2 R1: EST vs LTU,Hard,1,Jurgen Zopp,R,29.83709788,Ainius Sabaliauskas,0,14.51334702
+2018-M-DC-2018-G2-EPA-M-FIN-LTU-01,Davis Cup G2 R2: FIN vs LTU,Hard,0,Laurynas Grigelis,R,26.63381246,Harri Heliovaara,R,28.82683094
+2018-M-DC-2018-G2-EPA-M-FIN-LTU-01,Davis Cup G2 R2: FIN vs LTU,Hard,0,Emil Ruusuvuori,R,19.00068446,Ricardas Berankis,R,27.78097194
+2018-M-DC-2018-G2-EPA-M-FIN-LTU-01,Davis Cup G2 R2: FIN vs LTU,Hard,0,Harri Heliovaara,R,28.82683094,Ricardas Berankis,R,27.78097194
+2018-M-DC-2018-G2-EPA-M-FIN-LTU-01,Davis Cup G2 R2: FIN vs LTU,Hard,0,Laurynas Grigelis,R,26.63381246,Emil Ruusuvuori,R,19.00068446
+2018-M-DC-2018-G2-EPA-M-GEO-MAR-01,Davis Cup G2 R1: GEO vs MAR,Clay,0,George Tsivadze,U,25.07323751,Lamine Ouahab,R,33.10335387
+2018-M-DC-2018-G2-EPA-M-GEO-MAR-01,Davis Cup G2 R1: GEO vs MAR,Clay,0,Nikoloz Basilashvili,R,25.93292266,Amine Ahouda,U,20.38329911
+2018-M-DC-2018-G2-EPA-M-GEO-MAR-01,Davis Cup G2 R1: GEO vs MAR,Clay,0,Nikoloz Basilashvili,R,25.93292266,Lamine Ouahab,R,33.10335387
+2018-M-DC-2018-G2-EPA-M-IRL-DEN-01,Davis Cup G2 R1: IRL vs DEN,Hard,0,Simon Carr,R,18.22861054,Frederik Nielsen,R,34.4257358
+2018-M-DC-2018-G2-EPA-M-IRL-DEN-01,Davis Cup G2 R1: IRL vs DEN,Hard,0,Soren Hess Olesen,U,27.05544148,Peter Bothwell,R,22.33812457
+2018-M-DC-2018-G2-EPA-M-IRL-DEN-01,Davis Cup G2 R1: IRL vs DEN,Hard,1,Frederik Nielsen,R,34.4257358,Peter Bothwell,R,22.33812457
+2018-M-DC-2018-G2-EPA-M-IRL-DEN-01,Davis Cup G2 R1: IRL vs DEN,Hard,0,Simon Carr,R,18.22861054,Soren Hess Olesen,U,27.05544148
+2018-M-DC-2018-G2-EPA-M-POL-ZIM-01,Davis Cup G2 R2: POL vs ZIM,Hard,1,Kamil Majchrzak,R,22.21765914,Takanyi Garanganga,R,27.57015743
+2018-M-DC-2018-G2-EPA-M-POL-ZIM-01,Davis Cup G2 R2: POL vs ZIM,Hard,1,Benjamin Lock,R,25.07871321,Michal Przysiezny,R,34.12457221
+2018-M-DC-2018-G2-EPA-M-POL-ZIM-01,Davis Cup G2 R2: POL vs ZIM,Hard,1,Kamil Majchrzak,R,22.21765914,Benjamin Lock,R,25.07871321
+2018-M-DC-2018-G2-EPA-M-POL-ZIM-01,Davis Cup G2 R2: POL vs ZIM,Hard,1,Daniel Michalski,U,18.22313484,Mark Chigaazira,R,19.92607803
+2018-M-DC-2018-G2-EPA-M-ROU-LUX-01,Davis Cup G2 R1: ROU vs LUX,Hard,0,Nicolae Frunza,R,20.20533881,Ugo Nastasi,R,24.78850103
+2018-M-DC-2018-G2-EPA-M-ROU-LUX-01,Davis Cup G2 R1: ROU vs LUX,Hard,1,Marius Copil,R,27.28542094,Christophe Tholl,0,23.11293635
+2018-M-DC-2018-G2-EPA-M-ROU-LUX-01,Davis Cup G2 R1: ROU vs LUX,Hard,1,Marius Copil,R,27.28542094,Ugo Nastasi,R,24.78850103
+2018-M-DC-2018-G2-EPA-M-ROU-LUX-01,Davis Cup G2 R1: ROU vs LUX,Hard,1,Bogdan Borza,L,20.81861739,Christophe Tholl,0,23.11293635
+2018-M-DC-2018-G2-EPA-M-ROU-MAR-01,Davis Cup G2 R2: ROU vs MAR,Hard,1,Marius Copil,R,27.45790554,Amine Ahouda,U,20.55578371
+2018-M-DC-2018-G2-EPA-M-ROU-MAR-01,Davis Cup G2 R2: ROU vs MAR,Hard,0,Lamine Ouahab,R,33.27583847,Adrian Ungur,R,33.18275154
+2018-M-DC-2018-G2-EPA-M-ROU-MAR-01,Davis Cup G2 R2: ROU vs MAR,Hard,0,Soufiane El Mesbahi,R,17.10609172,Dragos Dima,R,25.79329227
+2018-M-DC-2018-G2-EPA-M-ROU-MAR-01,Davis Cup G2 R2: ROU vs MAR,Hard,1,Edris Fetisleam,U,18.68856947,Yassir Kilani,R,17.64271047
+2018-M-DC-2018-G2-EPA-M-SLO-POL-01,Davis Cup G2 R1: SLO vs POL,Hard,0,Hubert Hurkacz,R,20.96372348,Aljaz Bedene,R,28.5338809
+2018-M-DC-2018-G2-EPA-M-SLO-POL-01,Davis Cup G2 R1: SLO vs POL,Hard,1,Kamil Majchrzak,R,22.04517454,Blaz Rola,L,27.31827515
+2018-M-DC-2018-G2-EPA-M-SLO-POL-01,Davis Cup G2 R1: SLO vs POL,Hard,1,Aljaz Bedene,R,28.5338809,Kamil Majchrzak,R,22.04517454
+2018-M-DC-2018-G2-EPA-M-SLO-POL-01,Davis Cup G2 R1: SLO vs POL,Hard,1,Hubert Hurkacz,R,20.96372348,Tom Kocevar Desman,R,27.55646817
+2018-M-DC-2018-G2-EPA-M-TUN-FIN-01,Davis Cup G2 R1: TUN vs FIN,Hard,0,Harri Heliovaara,R,28.65434634,Malek Jaziri,R,34.02600958
+2018-M-DC-2018-G2-EPA-M-TUN-FIN-01,Davis Cup G2 R1: TUN vs FIN,Hard,1,Emil Ruusuvuori,R,18.82819986,Aziz Dougaz,U,0
+2018-M-DC-2018-G2-EPA-M-TUN-FIN-01,Davis Cup G2 R1: TUN vs FIN,Hard,0,Emil Ruusuvuori,R,18.82819986,Malek Jaziri,R,34.02600958
+2018-M-DC-2018-G2-EPA-M-TUN-FIN-01,Davis Cup G2 R1: TUN vs FIN,Hard,0,Moez Chargui,R,25.0513347,Harri Heliovaara,R,28.65434634
+2018-M-DC-2018-G2-EPA-M-TUR-ZIM-01,Davis Cup G2 R1: TUR vs ZIM,Hard,1,Benjamin Lock,R,24.90622861,Altug Celikbilek,U,21.39356605
+2018-M-DC-2018-G2-EPA-M-TUR-ZIM-01,Davis Cup G2 R1: TUR vs ZIM,Hard,1,Takanyi Garanganga,R,27.39767283,Cem Ilkel,R,22.4421629
+2018-M-DC-2018-G2-EPA-M-TUR-ZIM-01,Davis Cup G2 R1: TUR vs ZIM,Hard,1,Sarp Agabigun,R,20.63244353,Mehluli Don Ayanda Sibanda,R,18.23134839
+2018-M-DC-2018-WG-M-AUS-GER-01,Davis Cup WG R1: AUS vs GER,Hard,0,Alex De Minaur,R,18.9486653,Alexander Zverev,R,20.77754962
+2018-M-DC-2018-WG-M-AUS-GER-01,Davis Cup WG R1: AUS vs GER,Hard,1,Nick Kyrgios,R,22.75975359,Jan Lennard Struff,R,27.76454483
+2018-M-DC-2018-WG-M-AUS-GER-01,Davis Cup WG R1: AUS vs GER,Hard,0,Nick Kyrgios,R,22.75975359,Alexander Zverev,R,20.77754962
+2018-M-DC-2018-WG-M-CAN-CRO-01,Davis Cup WG R1: CAN vs CRO,Clay,1,Borna Coric,R,21.2073922,Vasek Pospisil,R,27.60301164
+2018-M-DC-2018-WG-M-CAN-CRO-01,Davis Cup WG R1: CAN vs CRO,Clay,1,Denis Shapovalov,L,18.7926078,Viktor Galovic,R,27.36208077
+2018-M-DC-2018-WG-M-CAN-CRO-01,Davis Cup WG R1: CAN vs CRO,Clay,0,Denis Shapovalov,L,18.7926078,Borna Coric,R,21.2073922
+2018-M-DC-2018-WG-M-ESP-GER-01,Davis Cup WG QF: ESP vs GER,Clay,0,David Ferrer,R,36,Alexander Zverev,R,20.95003422
+2018-M-DC-2018-WG-M-ESP-GER-01,Davis Cup WG QF: ESP vs GER,Clay,1,Rafael Nadal,L,31.83025325,Philipp Kohlschreiber,R,34.46132786
+2018-M-DC-2018-WG-M-ESP-GER-01,Davis Cup WG QF: ESP vs GER,Clay,0,Alexander Zverev,R,20.95003422,Rafael Nadal,L,31.83025325
+2018-M-DC-2018-WG-M-ESP-GER-01,Davis Cup WG QF: ESP vs GER,Clay,1,David Ferrer,R,36,Philipp Kohlschreiber,R,34.46132786
+2018-M-DC-2018-WG-M-FRA-ITA-01,Davis Cup WG QF: FRA vs ITA,Clay,0,Andreas Seppi,R,34.11088296,Lucas Pouille,R,24.10403833
+2018-M-DC-2018-WG-M-FRA-ITA-01,Davis Cup WG QF: FRA vs ITA,Clay,0,Jeremy Chardy,R,31.13483915,Fabio Fognini,R,30.85831622
+2018-M-DC-2018-WG-M-FRA-ITA-01,Davis Cup WG QF: FRA vs ITA,Clay,0,Fabio Fognini,R,30.85831622,Lucas Pouille,R,24.10403833
+2018-M-DC-2018-WG-M-FRA-NED-01,Davis Cup WG R1: FRA vs NED,Hard,1,Thiemo De Bakker,R,29.36071184,Adrian Mannarino,L,29.58521561
+2018-M-DC-2018-WG-M-FRA-NED-01,Davis Cup WG R1: FRA vs NED,Hard,0,Robin Haase,R,30.81724846,Richard Gasquet,R,31.61670089
+2018-M-DC-2018-WG-M-FRA-NED-01,Davis Cup WG R1: FRA vs NED,Hard,1,Adrian Mannarino,L,29.58521561,Robin Haase,R,30.81724846
+2018-M-DC-2018-WG-M-GBR-ESP-01,Davis Cup WG R1: GBR vs ESP,Clay,1,Albert Ramos,L,30.03422313,Liam Broady,L,24.06844627
+2018-M-DC-2018-WG-M-GBR-ESP-01,Davis Cup WG R1: GBR vs ESP,Clay,0,Roberto Bautista Agut,R,29.79329227,Cameron Norrie,L,22.4366872
+2018-M-DC-2018-WG-M-GBR-ESP-01,Davis Cup WG R1: GBR vs ESP,Clay,0,Cameron Norrie,L,22.4366872,Albert Ramos,L,30.03422313
+2018-M-DC-2018-WG-M-HUN-BEL-01,Davis Cup WG R1: HUN vs BEL,Hard,0,Marton Fucsovics,R,25.97399042,Ruben Bemelmans,L,30.04243669
+2018-M-DC-2018-WG-M-HUN-BEL-01,Davis Cup WG R1: HUN vs BEL,Hard,1,David Goffin,R,27.14579055,Attila Balazs,R,29.33880903
+2018-M-DC-2018-WG-M-HUN-BEL-01,Davis Cup WG R1: HUN vs BEL,Hard,0,Marton Fucsovics,R,25.97399042,David Goffin,R,27.14579055
+2018-M-DC-2018-WG-M-HUN-BEL-01,Davis Cup WG R1: HUN vs BEL,Hard,1,Zsombor Piros,U,18.29705681,Julien Cagnina,R,23.6550308
+2018-M-DC-2018-WG-M-ITA-JPN-01,Davis Cup WG R1: ITA vs JPN,Hard,1,Fabio Fognini,R,30.68583162,Taro Daniel,R,25.00479124
+2018-M-DC-2018-WG-M-ITA-JPN-01,Davis Cup WG R1: ITA vs JPN,Hard,1,Yuichi Sugita,R,29.36344969,Andreas Seppi,R,33.93839836
+2018-M-DC-2018-WG-M-ITA-JPN-01,Davis Cup WG R1: ITA vs JPN,Hard,1,Fabio Fognini,R,30.68583162,Yuichi Sugita,R,29.36344969
+2018-M-DC-2018-WG-M-KAZ-CRO-01,Davis Cup WG QF: KAZ vs CRO,Clay,0,Dmitry Popko,R,21.43737166,Marin Cilic,R,29.50855578
+2018-M-DC-2018-WG-M-KAZ-CRO-01,Davis Cup WG QF: KAZ vs CRO,Clay,0,Borna Coric,R,21.3798768,Mikhail Kukushkin,R,30.26694045
+2018-M-DC-2018-WG-M-KAZ-CRO-01,Davis Cup WG QF: KAZ vs CRO,Clay,1,Marin Cilic,R,29.50855578,Mikhail Kukushkin,R,30.26694045
+2018-M-DC-2018-WG-M-KAZ-SUI-01,Davis Cup WG R1: KAZ vs SUI,Hard,0,Henri Laaksonen,R,25.83162218,Dmitry Popko,R,21.26488706
+2018-M-DC-2018-WG-M-KAZ-SUI-01,Davis Cup WG R1: KAZ vs SUI,Hard,0,Adrian Bodmer,U,22.90212183,Mikhail Kukushkin,R,30.09445585
+2018-M-DC-2018-WG-M-KAZ-SUI-01,Davis Cup WG R1: KAZ vs SUI,Hard,1,Marc Andrea Huesler,U,21.59890486,Roman Hassanov,R,21.39356605
+2018-M-DC-2018-WG-M-KAZ-SUI-01,Davis Cup WG R1: KAZ vs SUI,Hard,1,Dmitry Popko,R,21.26488706,Adrian Bodmer,U,22.90212183
+2018-M-DC-2018-WG-M-USA-BEL-01,Davis Cup WG QF: USA vs BEL,Hard,1,John Isner,R,32.93360712,Joris De Loore,R,24.94729637
+2018-M-DC-2018-WG-M-USA-BEL-01,Davis Cup WG QF: USA vs BEL,Hard,0,Ruben Bemelmans,L,30.21492129,Sam Querrey,R,30.48596851
+2018-M-DC-2018-WG-M-USA-BEL-01,Davis Cup WG QF: USA vs BEL,Hard,1,Ryan Harrison,R,25.9028063,Ruben Bemelmans,L,30.21492129
+2018-M-DC-2018-WG-M-USA-SRB-01,Davis Cup WG R1: USA vs SRB,Clay,1,Sam Querrey,R,30.31348392,Laslo Djere,R,22.66119097
+2018-M-DC-2018-WG-M-USA-SRB-01,Davis Cup WG R1: USA vs SRB,Clay,0,Dusan Lajovic,R,27.58384668,John Isner,R,32.76112252
+2018-M-DC-2018-WG-M-USA-SRB-01,Davis Cup WG R1: USA vs SRB,Clay,1,Pedja Krstin,R,23.40588638,Steve Johnson,R,28.09856263
